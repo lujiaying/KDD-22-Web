@@ -1,0 +1,91 @@
+/* COLOR USED */
+rgba(45,43,87,1);
+
+html, body,
+ul, li, ol, dl, dd, dt,
+p, h1, h2, h3, h4, h5, h6,
+form, fieldset, legend, img,
+div, header, footer, section, form, input, select{
+	font-family: 'Mukta', sans-serif;
+}
+
+
+/* NAVIGATION */
+header{
+	width: 100%;
+	top: 0;
+	position: fixed;
+	padding-bottom: 1vh;
+	padding-top: 1.5vh;
+	height: 80px;
+	display: flex;
+	justify-content: space-between;
+	background: white;
+	border-bottom: 1px double rgba(45,43,87,0.2);
+	z-index: 1000;
+}
+
+.logo{
+	margin-left: 6vw;
+	text-decoration: none;
+}
+
+.logo span{
+	position: relative;
+	font-size: 16px;
+	margin-left: 20px;
+	top: 5px;
+	color: black;
+	letter-spacing: 1px;
+}
+
+.nav{
+	height: 30px;
+	display: inline-block;
+	position: relative;
+	top: 10px;
+	justify-content: end;
+	left: -10vw;
+}
+.nav a{
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	color: black;
+	opacity: 0.8;
+}
+
+
+
+/* FOOTER */
+footer{
+	bottom: 0;
+	width: 100%;
+	display: flex;
+	background-color: rgb(23,23,23);
+	color: white;
+	padding: 2vw;
+	justify-content: space-between;
+}
+footer a{
+	color: white;
+	text-decoration: none;
+}
+footer a:hover{
+	text-decoration: underline;
+	color: white;
+}
+.footerLogo{
+	margin-left: 4vw;
+}
+.footerLogo img{
+	width: 12vw;
+}
+.claim{
+	display: flex;
+	font-size: 0.9vw;
+	align-items: center;
+}
+.claim span~span{
+	margin-left: 0.5vw;
+}
