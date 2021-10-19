@@ -1,0 +1,102 @@
+/* COLOR USED */
+rgba(45,43,87,1);
+
+html, body,
+ul, li, ol, dl, dd, dt,
+p, h1, h2, h3, h4, h5, h6,
+form, fieldset, legend, img,
+div, header, footer, section, form, input, select{
+  font-family: 'Mukta', sans-serif;
+}
+
+
+/* NAVIGATION */
+
+header{
+  width: 100%;
+  position: relative;
+  top: 0;
+  position: fixed;
+  padding-bottom: 1vh;
+  padding-top: 1.5vh;
+  height: 120px;
+  background: white;
+  z-index: 1000;
+  border-bottom: none;
+}
+
+.logo{
+  position: absolute;
+  left: -6vw;
+  text-decoration: none;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px double rgba(45,43,87,0.2);
+}
+
+.logo span{
+  position: relative;
+  font-size: 20px;
+  margin-top: 5px;
+  padding-right: 2vw;
+  color: black;
+  letter-spacing: 1px;
+}
+
+.nav{
+  height: 30px;
+  position: absolute;
+  display: inline-block;
+  top: 90px;
+  width: 100%;
+  border-bottom: 1px double rgba(45,43,87,0.2);
+  left: 0;
+
+}
+.nav a{
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  color: black;
+  opacity: 0.8;
+  margin-left: 30px;
+  top: 0;
+  margin-top: 0;
+}
+
+
+
+/* FOOTER */
+footer{
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  background-color: rgb(23,23,23);
+  color: white;
+  padding: 2vw;
+  justify-content: space-between;
+}
+footer a{
+  color: white;
+  text-decoration: none;
+}
+footer a:hover{
+  text-decoration: underline;
+  color: white;
+}
+.footerLogo{
+  margin-left: 4vw;
+}
+.footerLogo img{
+  width: 20vw;
+}
+.claim{
+  display: flex;
+  font-size: 1.2vw;
+  align-items: center;
+}
+.claim span~span{
+  margin-left: 0.5vw;
+}
