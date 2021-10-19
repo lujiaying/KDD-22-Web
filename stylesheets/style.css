@@ -11,20 +11,22 @@ div, header, footer, section, form, input, select{
 
 
 /* NAVIGATION */
-header{
-	width: 100%;
-	top: 0;
-	position: fixed;
-	padding-bottom: 1vh;
-	padding-top: 1.5vh;
-	height: 80px;
-	display: flex;
-	justify-content: space-between;
-	background: white;
-	border-bottom: 1px double rgba(45,43,87,0.2);
-	z-index: 1000;
-}
 
+
+
+header{
+  width: 100%;
+  top: 0;
+  position: fixed;
+  padding-bottom: 1vh;
+  padding-top: 1.5vh;
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  border-bottom: 1px double rgba(45,43,87,0.2);
+  z-index: 1000;
+}
 .logo{
 	margin-left: 6vw;
 	text-decoration: none;
@@ -33,26 +35,23 @@ header{
 .logo span{
 	position: relative;
 	font-size: 16px;
-	margin-left: 20px;
+	margin-left: 3vw;
 	top: 5px;
 	color: black;
 	letter-spacing: 1px;
 }
 
 .nav{
-	height: 30px;
-	display: inline-block;
-	position: relative;
-	top: 10px;
-	justify-content: end;
-	left: -10vw;
+  position: relative;
+  left: -10vw;
 }
+
 .nav a{
-	text-decoration: none;
-	display: inline-block;
-	font-size: 16px;
-	color: black;
-	opacity: 0.8;
+  text-decoration: none;
+  position: relative;
+  top: 19px;
+  color: black;
+  margin-left: 3vw;
 }
 
 
