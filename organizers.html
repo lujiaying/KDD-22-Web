@@ -2,6 +2,10 @@
 <html lang="en">
   <style>
 
+  header, footer {
+    font-family: 'Mukta', sans-serif;
+  }
+
     a:hover {
       background-color: yellow;
     }
@@ -15,7 +19,7 @@
       background-color: transparent;
       text-decoration: underline;
       }
-    section{
+    div section{
       display: grid;
       justify-content: center;
       align-content: center;
@@ -44,15 +48,7 @@
     img {
       max-width: 100%;
     }
-    .container{
-        justify-content: center;
-        display:flex;
-        flex-wrap: wrap;
-        gap: 5px;
-    }
-    .container > div{
-      margin: 5px;
-    }
+
 
   </style>
   <head>
@@ -63,1032 +59,1026 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
+    <!-- Customized CSS -->
+
     <link rel="stylesheet" type="text/css" href="stylesheets/style.css">
+    <link rel="stylesheet" media="screen and (max-width: 500px)" href="stylesheets/mobileStyle.css">
+
+     <!-- GOOGLE FONT -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Mukta:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 
     <title>KDD2022 | Washington DC, U.S.</title>
   </head>
   <body>
 
   <header>
-      <a href="https://kdd.org/kdd2022/" class="logo">
+      <a href="index.html" class="logo">
         <img src="https://kdd.org/kdd2022/images/acm.png" width="150px">
         <span>KDD2022</span>
       </a>
       <section class="nav">
-        <a href="index.html" aria-current="page">HOME</a>
-        <a href="#" class="nav-link">ORGANIZERS</a>
+          <a href="index.html" aria-current="page">HOME</a>
+          <a href="#">ORGANIZERS</a>
       </section>
     </header>
 
-  <div class>
+  <div class="container">
     <div class="container text-center">
       <h1 style="font-size:200%"><strong></strong>KDD 2022 Organizing Committee</strong></h1>
     </div>
-      <div class="text-center">
+      <div class="container text-center">
         <br><br><h2 class="occupation" style=color:grey>General Chairs</h2>
         <small><a href = "mailto:general2022@kdd.org" alt="Send mail to general2022@kdd.org" style=color:green>general2022@kdd.org</a></small>
       </div>
       <br>
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://engineering.virginia.edu/faculty/aidong-zhang">
+            <img src="images/Aidong Zhang.jpeg"></img></a>         
+            <figcaption>     
+              <a href="https://engineering.virginia.edu/faculty/aidong-zhang">        
+              <div class="name">          
+                Aidong Zhang          
+              </div></a>
+
+              <div class="background">
+                University of Virginia
+              </div>
+            </figcaption>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://cs.gmu.edu/~hrangwal/">
+            <img src="images/Huzefa Rangwala.jpeg"></img></a>
+            <figcaption>
+              <a href="https://cs.gmu.edu/~hrangwal/">
+              <div class="name">
+                Huzefa Rangwala
+              </div></a>
+              <div class="background">
+                George Mason University
+              </div>
+            </figcaption>
+          </figure>
+
+
+        </section>
+        <center>
+        <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Research Track PC Chairs</h2>
+        </div>
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://niteshchawla.nd.edu/">
+              <img src="images/Nitesh Chawla.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://niteshchawla.nd.edu/">
+                  <div class="name">
+                      Nitesh Chawla
+                  </div>
+                </a>
+                <div class="background">
+                  University of Notre Dame
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://viterbi-web.usc.edu/~liu32/">
+              <img src="images/Yan Liu.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://viterbi-web.usc.edu/~liu32/">
+                  <div class="name">
+                      Yan Liu
+                  </div>
+                </a>
+                <div class="background">
+                  USC
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Applied Data Science Track PC Chairs</h2>
+        </div>
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://lunadong.com/">
+              <img src="images/Luna Dong.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://lunadong.com/">
+                  <div class="name">
+                      Luna Dong
+                  </div>
+                </a>
+                <div class="background">
+                  Amazon
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.microsoft.com/en-us/research/people/djiang/">
+              <img src="images/Daxin Jiang.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.microsoft.com/en-us/research/people/djiang/">
+                  <div class="name">
+                    Daxin Jiang
+                  </div>
+                </a>
+                <div class="background">
+                  Microsoft Research Asia
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Local Chairs</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://ist.gmu.edu/~hpurohit/">
+              <img src="images/Hermant Purohit.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://ist.gmu.edu/~hpurohit/">
+                  <div class="name">
+                      Hermant Purohit
+                  </div>
+                </a>
+                <div class="background">
+                  George Mason University
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://cs.gmu.edu/~jessica/">
+              <img src="images/Jessica Lin.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://cs.gmu.edu/~jessica/">
+                  <div class="name">
+                      Jessica Lin
+                  </div>
+                </a>
+                <div class="background">
+                  George Mason University
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.crunchbase.com/person/sam-han">
+              <img src="images/Sam Han.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.crunchbase.com/person/sam-han">
+                  <div class="name">
+                      Sam Han
+                  </div>
+                </a>
+                <div class="background">
+                  Washington Post
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Web Team</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="http://www.cs.emory.edu/~jyang71/">
+              <img src="images/Carl Yang.png">
+              </img>
+              <figcaption>
+                <a href="http://www.cs.emory.edu/~jyang71/">
+                  <div class="name">
+                      Carl Yang (Chair)
+                  </div>
+                </a>
+                <div class="background">
+                  Emory University
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="http://mason.gmu.edu/~ygao12/">
+              <img src="images/Yifeng Gao.png">
+              </img>
+              <figcaption>
+                <a href="http://mason.gmu.edu/~ygao12/">
+                  <div class="name">
+                      Yifeng Gao
+                  </div>
+                </a>
+                <div class="background">
+                  University of Texas
+                </div>
+                <div class="background">
+                  Rio Grande Valley
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://lujiaying.github.io/">
+              <img src="images/Jiaying Lu.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://lujiaying.github.io/">
+                  <div class="name">
+                      Jiaying Lu
+                  </div>
+                </a>
+                <div class="background">
+                  Emory University
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="">
+              <img src="images/NoImage.jpeg">
+              </img>
+              <figcaption>
+                <a href="">
+                  <div class="name">
+                      Yijun Liu
+                  </div>
+                </a>
+                <div class="background">
+                  Emory University
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="">
+              <img src="images/NoImage.jpeg">
+              </img>
+              <figcaption>
+                <a href="">
+                  <div class="name">
+                      Yongchen Qian
+                  </div>
+                </a>
+                <div class="background">
+                  Emory University
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+        </section>
+        
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Equity, Diversity and Inclusion (EDI) Track PC Chairs</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://www.microsoft.com/en-us/research/people/johannes/">
+              <img src="images/Johannes Gehrke.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.microsoft.com/en-us/research/people/johannes/">
+                  <div class="name">
+                      Johannes Gehrke
+                  </div>
+                </a>
+                <div class="background">
+                  Microsoft
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.linkedin.com/in/drjudithspitz">
+              <img src="images/Judith Spitz.png">
+              </img>
+              <figcaption>
+                <a href="https://www.linkedin.com/in/drjudithspitz">
+                  <div class="name">
+                      Judith Spitz
+                  </div>
+                </a>
+                <div class="background">
+                  Cornell Tech/Break Through Tech.
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Tutorial Chairs</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://engineering.purdue.edu/DML/people/ptProfile?resource_id=246669&group_id=250183&photo=right">
+              <img src="images/Jing Gao.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://engineering.purdue.edu/DML/people/ptProfile?resource_id=246669&group_id=250183&photo=right">
+                  <div class="name">
+                      Jing Gao
+                  </div>
+                </a>
+                <div class="background">
+                  Purdue University
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.linkedin.com/in/weehyongtok">
+              <img src="images/WeeHyong T.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.linkedin.com/in/weehyongtok">
+                  <div class="name">
+                      WeeHyong T 
+                  </div>
+                </a>
+                <div class="background">
+                  Microsoft
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.linkedin.com/in/shenghua-bao-67958a7">
+              <img src="images/Shenghua Bao.gif">
+              </img>
+              <figcaption>
+                <a href="https://www.linkedin.com/in/shenghua-bao-67958a7">
+                  <div class="name">
+                      Shenghua Bao
+                  </div>
+                </a>
+                <div class="background">
+                  Amazon
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Workshop Chairs</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="http://www.cs.virginia.edu/~hw5x/">
+              <img src="images/Hongning Wang.jpeg">
+              </img>
+              <figcaption>
+                <a href="http://www.cs.virginia.edu/~hw5x/">
+                  <div class="name">
+                      Hongning Wang
+                  </div>
+                </a>
+                <div class="background">
+                  University of Virginia
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.cs.uic.edu/~elena/">
+              <img src="images/Elena Zheleva.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.cs.uic.edu/~elena/">
+                  <div class="name">
+                      Elena Zheleva
+                  </div>
+                </a>
+                <div class="background">
+                  University of Illinois, Chicago
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Social Media & Publicity Chairs</h2>
+        </div>
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://www.cs.ucr.edu/~epapalex/">
+              <img src="images/Evangelos Papalexakis.jpeg"> 
+              </img>
+              <figcaption>
+                <a href="https://www.cs.ucr.edu/~epapalex/">
+                  <div class="name">
+                      Evangelos Papalexakis
+                  </div>
+                </a>
+                <div class="background">
+                  University of California, Riverside
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://engineering.vanderbilt.edu/bio/tyler-derr">
+              <img src="images/Tyler Derr.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://engineering.vanderbilt.edu/bio/tyler-derr">
+                  <div class="name">
+                      Tyler Derr
+                  </div>
+                </a>
+                <div class="background">
+                  Vanderbilt University
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Finance Chair</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://case.edu/issacs/faculty-associates/yanfang-fanny-ye">
+              <img src="images/Yanfang Ye.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://case.edu/issacs/faculty-associates/yanfang-fanny-ye">
+                  <div class="name">
+                      Yanfang(Fanny) Ye
+                  </div>
+                </a>
+                <div class="background">
+                  University of Notre Dame
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Sponsorship Chairs</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://sites.google.com/a/email.wm.edu/teddy-lfwu/">
+              <img src="images/Teddy Wu.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://sites.google.com/a/email.wm.edu/teddy-lfwu/">
+                  <div class="name">
+                      Teddy Wu
+                  </div>
+                </a>
+                <div class="background">
+                  JD
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.linkedin.com/in/faisal-farooq-642a655">
+              <img src="images/Faisal Farooq.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.linkedin.com/in/faisal-farooq-642a655">
+                  <div class="name">
+                      Faisal Farooq
+                  </div>
+                </a>
+                <div class="background">
+                  Qatar
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.linkedin.com/in/ritwik-kumar">
+              <img src="images/Ritwik Kumar.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.linkedin.com/in/ritwik-kumar">
+                  <div class="name">
+                      Ritwik Kumar
+                  </div>
+                </a>
+                <div class="background">
+                  Netflix
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">KDD Cup Chairs</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://engineering.nd.edu/faculty/tim-weninger/">
+              <img src="images/Tim Weninger.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://engineering.nd.edu/faculty/tim-weninger/">
+                  <div class="name">
+                      Tim Weninger
+                  </div>
+                </a>
+                <div class="background">
+                  University of Notre Dame
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://medicine.umich.edu/dept/dcmb/jieping-ye-phd">
+              <img src="images/Jjieping Ye.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://medicine.umich.edu/dept/dcmb/jieping-ye-phd">
+                  <div class="name">
+                      Jieping Ye
+                  </div>
+                </a>
+                <div class="background">
+                  Bieke
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.linkedin.com/in/karthik-subbian-29893095/">
+              <img src="images/Karthik Subbian.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.linkedin.com/in/karthik-subbian-29893095/">
+                  <div class="name">
+                      Karthik Subbian
+                  </div>
+                </a>
+                <div class="background">
+                  Amazon
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Proceedings Chairs</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://www.cse.msu.edu/~tangjili/">
+              <img src="images/Jiliang Tang.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.cse.msu.edu/~tangjili/">
+                  <div class="name">
+                      Jiliang Tang
+                  </div>
+                </a>
+                <div class="background">
+                  Michigan University
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://web.njit.edu/~ym329/index.html">
+              <img src="images/Yao Ma.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://web.njit.edu/~ym329/index.html">
+                  <div class="name">
+                      Yao Ma
+                  </div>
+                </a>
+                <div class="background">
+                  NJIT
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+        </section>
+        
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Poster Chairs</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="http://www.ece.virginia.edu/~jl6qk/">
+              <img src="images/Jundong Li.png">
+              </img>
+              <figcaption>
+                <a href="http://www.ece.virginia.edu/~jl6qk/">
+                  <div class="name">
+                      Jundong Li
+                  </div>
+                </a>
+                <div class="background">
+                  University of Virginia
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://people.cs.vt.edu/karpatne/">
+              <img src="images/Anju Karpatne.png">
+              </img>
+              <figcaption>
+                <a href="https://people.cs.vt.edu/karpatne/">
+                  <div class="name">
+                      Anju Karpatne
+                  </div>
+                </a>
+                <div class="background">
+                  Virginia Tech.
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Registration Chairs</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://faculty.stevens.edu/yning5">
+              <img src="images/Yue Ning.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://faculty.stevens.edu/yning5">
+                  <div class="name">
+                      Yue Ning
+                  </div>
+                </a>
+                <div class="background">
+                  Stevens Institute
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.cis.fiu.edu/faculty-staff/agoritsa-polyzou/">
+              <img src="images/Agoritsa Polyzou.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.cis.fiu.edu/faculty-staff/agoritsa-polyzou/">
+                  <div class="name">
+                      Agorita Polyzou
+                  </div>
+                </a>
+                <div class="background">
+                  Florida Atlantic
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Government Day</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://ist.psu.edu/directory/vuh14">
+              <img src="images/Vasant Honavar.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://ist.psu.edu/directory/vuh14">
+                  <div class="name">
+                      Vasant Honavar
+                  </div>
+                </a>
+                <div class="background">
+                  Penn State University
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Deep Learning 1/2 Day</h2>
+        </div>
+
+        <section>
+          <figure class="u-block-hover">
+            <a href="https://people.cs.vt.edu/reddy/">
+              <img src="images/Chandan Reddy.png">
+              </img>
+              <figcaption>
+                <a href="https://people.cs.vt.edu/reddy/">
+                  <div class="name">
+                      Chandan Reddy
+                  </div>
+                </a>
+                <div class="background">
+                  Virginia Tech
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="http://web.eecs.umich.edu/~dkoutra/">
+              <img src="images/Danai Koutra.jpeg">
+              </img>
+              <figcaption>
+                <a href="http://web.eecs.umich.edu/~dkoutra/">
+                  <div class="name">
+                      Danai Koutra 
+                  </div>
+                </a>
+                <div class="background">
+                  Univ. of michigan
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+        </section>
+
+        <center>
+          <hr style="width:20%">
+        </center>
+        <br>
+        <div>
+          <h2 class="occupation">Fairness Day</h2>
+        </div>
+
+        <section>
+
+          <figure class="u-block-hover">
+            <a href="https://himalakkaraju.github.io/">
+              <img src="images/Hima Lakkaraju.png">
+              </img>
+              <figcaption>
+                <a href="https://himalakkaraju.github.io/">
+                  <div class="name">
+                    Hima Lakkaraju
+                  </div>
+                </a>
+                <div class="background">
+                  Harvard
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+
+          <figure class="u-block-hover">
+            <a href="https://www.andrew.cmu.edu/user/achoulde/">
+              <img src="images/Alexandra Chouldechova.jpeg">
+              </img>
+              <figcaption>
+                <a href="https://www.andrew.cmu.edu/user/achoulde/">
+                  <div class="name">
+                    Alexandra Chouldechova
+                  </div>
+                </a>
+                <div class="background">
+                  CMU
+                </div>
+              </figcaption>
+            </a>
+          </figure>
+            
+          </section>
+
+
+          <center>
+            <hr style="width:20%">
+          </center>
+          <br>
+          <div>
+            <h2 class="occupation">Health Day</h2>
+          </div>
+
+          <section>
+            <figure class="u-block-hover">
+              <a href="https://weill.cornell.edu/faculty-highlight/fei-wang-phd">
+                <img src="images/Fei Wang.jpeg">
+                </img>
+                <figcaption>
+                  <a href="https://weill.cornell.edu/faculty-highlight/fei-wang-phd">
+                    <div class="name">
+                        Fei Wang
+                    </div>
+                  </a>
+                  <div class="background">
+                    Cornell Medical
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+
+            <figure class="u-block-hover">
+              <a href="https://engineering.nyu.edu/faculty/rumi-chunara">
+                <img src="images/Rumi Chunara.png">
+                </img>
+                <figcaption>
+                  <a href="https://engineering.nyu.edu/faculty/rumi-chunara">
+                    <div class="name">
+                      Rumi Chunara
+                    </div>
+                  </a>
+                  <div class="background">
+                    New York University
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+
+            <figure class="u-block-hover">
+              <a href="https://engineering.tamu.edu/cse/profiles/chaspari-theodora.html">
+                <img src="images/Theodora Chaspari.jpeg">
+                </img>
+                <figcaption>
+                  <a href="https://engineering.tamu.edu/cse/profiles/chaspari-theodora.html">
+                    <div class="name">
+                      Theodora Chaspari
+                    </div>
+                  </a>
+                  <div class="background">
+                    Texas, A&M
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+          </section>
+
+          <center>
+            <hr style="width:20%">
+          </center>
+          <br>
+          <div>
+            <h2 class="occupation">Undergraduate Consortium</h2>
+          </div>
+
+          <section>
+            <figure class="u-block-hover">
+              <a href="https://www.scu.edu/engineering/faculty/anastasiu-david/">
+                <img src="images/David Anastasiu.jpeg">
+                </img>
+                <figcaption>
+                  <a href="https://www.scu.edu/engineering/faculty/anastasiu-david/">
+                    <div class="name">
+                        David Anastasiu
+                    </div>
+                  </a>
+                  <div class="background">
+                    Santa Clara University 
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+
+            <figure class="u-block-hover">
+              <a href="http://www.cs.okstate.edu/~eakbas/">
+                <img src="images/Dr. Esra Akbas.jpeg">
+                </img>
+                <figcaption>
+                  <a href="http://www.cs.okstate.edu/~eakbas/">
+                    <div class="name">
+                      Dr. Esra Akbas
+                    </div>
+                  </a>
+                  <div class="background">
+                    Oklahoma State University
+                  </div>
+                </figcaption>
+              </a>
+            </figure>
+          </section>
+        </section>
+        <center>
+        <hr style="width:20%">
+        </center>
 
       </div>
   </div>
-
-  <div class = "container">
-    <figure class="u-block-hover">
-      <a href="https://engineering.virginia.edu/faculty/aidong-zhang">
-      <img src="images/Aidong Zhang.jpeg"></img></a>         
-      <figcaption>     
-        <a href="https://engineering.virginia.edu/faculty/aidong-zhang">        
-        <div class="name">          
-          Aidong Zhang          
-        </div></a>
-        <div class="background">
-          University of Virginia
-        </div>
-      </figcaption>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://cs.gmu.edu/~hrangwal/">
-      <img src="images/Huzefa Rangwala.jpeg"></img></a>
-      <figcaption>
-        <a href="https://cs.gmu.edu/~hrangwal/">
-        <div class="name">
-          Huzefa Rangwala
-        </div></a>
-        <div class="background">
-          George Mason University
-        </div>
-      </figcaption>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Research Track PC Chairs</h2>
-  </div>
-
-  <div class = "container">
-
-    <figure class="u-block-hover">
-      <a href="https://niteshchawla.nd.edu/">
-        <img src="images/Nitesh Chawla.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://niteshchawla.nd.edu/">
-            <div class="name">
-                Nitesh Chawla
-            </div>
-          </a>
-          <div class="background">
-            University of Notre Dame
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://viterbi-web.usc.edu/~liu32/">
-        <img src="images/Yan Liu.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://viterbi-web.usc.edu/~liu32/">
-            <div class="name">
-                Yan Liu
-            </div>
-          </a>
-          <div class="background">
-            USC
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Applied Data Science Track PC Chairs</h2>
-  </div>
-
-  <div class = "container">
-    <figure class="u-block-hover">
-      <a href="https://lunadong.com/">
-        <img src="images/Luna Dong.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://lunadong.com/">
-            <div class="name">
-                Luna Dong
-            </div>
-          </a>
-          <div class="background">
-            Facebook
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.microsoft.com/en-us/research/people/djiang/">
-        <img src="images/Daxin Jiang.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://www.microsoft.com/en-us/research/people/djiang/">
-            <div class="name">
-              Daxin Jiang
-            </div>
-          </a>
-          <div class="background">
-            Microsoft Research Asia
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Local Chairs</h2>
-  </div>
-
-  <div class="container">
-    <figure class="u-block-hover">
-      <a href="https://ist.gmu.edu/~hpurohit/">
-        <img src="images/Hermant Purohit.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://ist.gmu.edu/~hpurohit/">
-            <div class="name">
-                Hermant Purohit
-            </div>
-          </a>
-          <div class="background">
-            George Mason University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://cs.gmu.edu/~jessica/">
-        <img src="images/Jessica Lin.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://cs.gmu.edu/~jessica/">
-            <div class="name">
-                Jessica Lin
-            </div>
-          </a>
-          <div class="background">
-            George Mason University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.crunchbase.com/person/sam-han">
-        <img src="images/Sam Han.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://www.crunchbase.com/person/sam-han">
-            <div class="name">
-                Sam Han
-            </div>
-          </a>
-          <div class="background">
-            Washington Post
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Web Chairs and Team</h2>
-  </div>
-
-  <div class = "container">
-    <figure class="u-block-hover">
-      <a href="http://www.cs.emory.edu/~jyang71/">
-        <img src="images/Carl Yang.png">
-        </img>
-        <figcaption>
-          <a href="http://www.cs.emory.edu/~jyang71/">
-            <div class="name">
-                Carl Yang (Chair)
-            </div>
-          </a>
-          <div class="background">
-            Emory University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="http://mason.gmu.edu/~ygao12/">
-        <img src="images/Yifeng Gao.png">
-        </img>
-        <figcaption>
-          <a href="http://mason.gmu.edu/~ygao12/">
-            <div class="name">
-                Yifeng Gao (Co-Chair)
-            </div>
-          </a>
-          <div class="background">
-            University of Texas
-          </div>
-          <div class="background">
-            Rio Grande Valley
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <!-- Second line for Web Team-->
-  <div class = "container">
-    <figure class="u-block-hover">
-      <a href="https://lujiaying.github.io/">
-        <img src="images/Jiaying Lu.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://lujiaying.github.io/">
-            <div class="name">
-                Jiaying Lu (Student)
-            </div>
-          </a>
-          <div class="background">
-            Emory University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="">
-        <img src="images/NoImage.jpeg">
-        </img>
-        <figcaption>
-          <a href="">
-            <div class="name">
-                Yijun Liu (Student)
-            </div>
-          </a>
-          <div class="background">
-            Emory University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.linkedin.com/in/yongchen-qian-578367141/">
-        <img src="images/Yongchen Qian.jpeg">
-        </img>
-        <figcaption>
-          <a href="">
-            <div class="name">
-                Yongchen Qian (Student)
-            </div>
-          </a>
-          <div class="background">
-            Emory University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Equity, Diversity and Inclusion (EDI) Track PC Chairs</h2>
-  </div>
-
-  <div class = "container">
-    <figure class="u-block-hover">
-      <a href="https://www.microsoft.com/en-us/research/people/johannes/">
-        <img src="images/Johannes Gehrke.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://www.microsoft.com/en-us/research/people/johannes/">
-            <div class="name">
-                Johannes Gehrke
-            </div>
-          </a>
-          <div class="background">
-            Microsoft
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.linkedin.com/in/drjudithspitz">
-        <img src="images/Judith Spitz.png">
-        </img>
-        <figcaption>
-          <a href="https://www.linkedin.com/in/drjudithspitz">
-            <div class="name">
-                Judith Spitz
-            </div>
-          </a>
-          <div class="background">
-            Cornell Tech/Break Through Tech.
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Tutorial Chairs</h2>
-  </div>
-
-  <div class="container">
-    <figure class="u-block-hover">
-      <a href="https://engineering.purdue.edu/DML/people/ptProfile?resource_id=246669&group_id=250183&photo=right">
-        <img src="images/Jing Gao.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://engineering.purdue.edu/DML/people/ptProfile?resource_id=246669&group_id=250183&photo=right">
-            <div class="name">
-                Jing Gao
-            </div>
-          </a>
-          <div class="background">
-            Purdue University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.linkedin.com/in/weehyongtok">
-        <img src="images/WeeHyong T.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://www.linkedin.com/in/weehyongtok">
-            <div class="name">
-                WeeHyong T 
-            </div>
-          </a>
-          <div class="background">
-            Microsoft
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.linkedin.com/in/shenghua-bao-67958a7">
-        <img src="images/Shenghua Bao.gif">
-        </img>
-        <figcaption>
-          <a href="https://www.linkedin.com/in/shenghua-bao-67958a7">
-            <div class="name">
-                Shenghua Bao
-            </div>
-          </a>
-          <div class="background">
-            Amazon
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Workshop Chairs</h2>
-  </div>
-
-  <div class= "container">
-    <figure class="u-block-hover">
-      <a href="http://www.cs.virginia.edu/~hw5x/">
-        <img src="images/Hongning Wang.jpeg">
-        </img>
-        <figcaption>
-          <a href="http://www.cs.virginia.edu/~hw5x/">
-            <div class="name">
-                Hongning Wang
-            </div>
-          </a>
-          <div class="background">
-            University of Virginia
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.cs.uic.edu/~elena/">
-        <img src="images/Elena Zheleva.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://www.cs.uic.edu/~elena/">
-            <div class="name">
-                Elena Zheleva
-            </div>
-          </a>
-          <div class="background">
-            University of Illinois, Chicago
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Social Media & Publicity Chairs</h2>
-  </div>
-
-  <div class="container">
-    <figure class="u-block-hover">
-      <a href="https://www.cs.ucr.edu/~epapalex/">
-        <img src="images/Evangelos Papalexakis.jpeg"> 
-        </img>
-        <figcaption>
-          <a href="https://www.cs.ucr.edu/~epapalex/">
-            <div class="name">
-                Evangelos Papalexakis
-            </div>
-          </a>
-          <div class="background">
-            University of California, Riverside
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://tylersnetwork.github.io/">
-        <img src="images/Tyler Derr.png">
-        </img>
-        <figcaption>
-          <a href="https://tylersnetwork.github.io/">
-            <div class="name">
-                Tyler Derr
-            </div>
-          </a>
-          <div class="background">
-            Vanderbilt University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Finance Chair</h2>
-  </div>
-
-  <div class="container">
-    <figure class="u-block-hover">
-      <a href="https://case.edu/issacs/faculty-associates/yanfang-fanny-ye">
-        <img src="images/Yanfang Ye.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://case.edu/issacs/faculty-associates/yanfang-fanny-ye">
-            <div class="name">
-                Yanfang(Fanny) Ye
-            </div>
-          </a>
-          <div class="background">
-            University of Notre Dame
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Sponsorship Chairs</h2>
-  </div>
-
-  <div class="container">
-    <figure class="u-block-hover">
-      <a href="https://sites.google.com/a/email.wm.edu/teddy-lfwu/">
-        <img src="images/Teddy Wu.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://sites.google.com/a/email.wm.edu/teddy-lfwu/">
-            <div class="name">
-                Teddy Wu
-            </div>
-          </a>
-          <div class="background">
-            JD
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.linkedin.com/in/faisal-farooq-642a655">
-        <img src="images/Faisal Farooq.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://www.linkedin.com/in/faisal-farooq-642a655">
-            <div class="name">
-                Faisal Farooq
-            </div>
-          </a>
-          <div class="background">
-            Qatar
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.linkedin.com/in/ritwik-kumar">
-        <img src="images/Ritwik Kumar.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://www.linkedin.com/in/ritwik-kumar">
-            <div class="name">
-                Ritwik Kumar
-            </div>
-          </a>
-          <div class="background">
-            Netflix
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">KDD Cup Chairs</h2>
-  </div>
-
-  <div class = "container">
-    <figure class="u-block-hover">
-      <a href="https://engineering.nd.edu/faculty/tim-weninger/">
-        <img src="images/Tim Weninger.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://engineering.nd.edu/faculty/tim-weninger/">
-            <div class="name">
-                Tim Weninger
-            </div>
-          </a>
-          <div class="background">
-            University of Notre Dame
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://medicine.umich.edu/dept/dcmb/jieping-ye-phd">
-        <img src="images/Jjieping Ye.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://medicine.umich.edu/dept/dcmb/jieping-ye-phd">
-            <div class="name">
-                Jieping Ye
-            </div>
-          </a>
-          <div class="background">
-            Bieke
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.linkedin.com/in/karthik-subbian-29893095/">
-        <img src="images/Karthik Subbian.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://www.linkedin.com/in/karthik-subbian-29893095/">
-            <div class="name">
-                Karthik Subbian
-            </div>
-          </a>
-          <div class="background">
-            Amazon
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Proceedings Chairs</h2>
-  </div>
-
-  <div class="container"><figure class="u-block-hover">
-    <a href="https://www.cse.msu.edu/~tangjili/">
-      <img src="images/Jiliang Tang.jpeg">
-      </img>
-      <figcaption>
-        <a href="https://www.cse.msu.edu/~tangjili/">
-          <div class="name">
-              Jiliang Tang
-          </div>
-        </a>
-        <div class="background">
-          Michigan University
-        </div>
-      </figcaption>
-    </a>
-  </figure>
-
-  <figure class="u-block-hover">
-    <a href="https://web.njit.edu/~ym329/index.html">
-      <img src="images/Yao Ma.jpeg">
-      </img>
-      <figcaption>
-        <a href="https://web.njit.edu/~ym329/index.html">
-          <div class="name">
-              Yao Ma
-          </div>
-        </a>
-        <div class="background">
-          NJIT
-        </div>
-      </figcaption>
-    </a>
-  </figure>
-</div>
-
-<center>
-  <hr style="width:20%">
-</center>
-<br>
-<div>
-  <h2 class="occupation">Poster Chairs</h2>
-</div>
-
-<div class="container">
-  <figure class="u-block-hover">
-    <a href="http://www.ece.virginia.edu/~jl6qk/">
-      <img src="images/Jundong Li.png">
-      </img>
-      <figcaption>
-        <a href="http://www.ece.virginia.edu/~jl6qk/">
-          <div class="name">
-              Jundong Li
-          </div>
-        </a>
-        <div class="background">
-          University of Virginia
-        </div>
-      </figcaption>
-    </a>
-  </figure>
-
-  <figure class="u-block-hover">
-    <a href="https://people.cs.vt.edu/karpatne/">
-      <img src="images/Anju Karpatne.png">
-      </img>
-      <figcaption>
-        <a href="https://people.cs.vt.edu/karpatne/">
-          <div class="name">
-              Anju Karpatne
-          </div>
-        </a>
-        <div class="background">
-          Virginia Tech.
-        </div>
-      </figcaption>
-    </a>
-  </figure>
-</div>
-
-<center>
-  <hr style="width:20%">
-</center>
-<br>
-<div>
-  <h2 class="occupation">Registration Chairs</h2>
-</div>
-
-<div class="container">
-  <figure class="u-block-hover">
-    <a href="https://faculty.stevens.edu/yning5">
-      <img src="images/Yue Ning.jpeg">
-      </img>
-      <figcaption>
-        <a href="https://faculty.stevens.edu/yning5">
-          <div class="name">
-              Yue Ning
-          </div>
-        </a>
-        <div class="background">
-          Stevens Institute of Technology
-        </div>
-      </figcaption>
-    </a>
-  </figure>
-
-  <figure class="u-block-hover">
-    <a href="https://www.cis.fiu.edu/faculty-staff/agoritsa-polyzou/">
-      <img src="images/Agoritsa Polyzou.jpeg">
-      </img>
-      <figcaption>
-        <a href="https://www.cis.fiu.edu/faculty-staff/agoritsa-polyzou/">
-          <div class="name">
-              Agorita Polyzou
-          </div>
-        </a>
-        <div class="background">
-          Florida International University
-        </div>
-      </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Government Day</h2>
-  </div>
-
-  <div class="container">
-    <figure class="u-block-hover">
-      <a href="https://engineering.virginia.edu/faculty/aidong-zhang">
-      <img src="images/Aidong Zhang.jpeg"></img></a>         
-      <figcaption>     
-        <a href="https://engineering.virginia.edu/faculty/aidong-zhang">        
-        <div class="name">          
-          Aidong Zhang          
-        </div></a>
-        <div class="background">
-          University of Virginia
-        </div>
-      </figcaption>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://ist.psu.edu/directory/vuh14">
-        <img src="images/Vasant Honavar.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://ist.psu.edu/directory/vuh14">
-            <div class="name">
-                Vasant Honavar
-            </div>
-          </a>
-          <div class="background">
-            Penn State University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Deep Learning Day</h2>
-  </div>
-
-  <div class = "container">
-    <figure class="u-block-hover">
-      <a href="https://people.cs.vt.edu/reddy/">
-        <img src="images/Chandan Reddy.png">
-        </img>
-        <figcaption>
-          <a href="https://people.cs.vt.edu/reddy/">
-            <div class="name">
-                Chandan Reddy
-            </div>
-          </a>
-          <div class="background">
-            Virginia Tech
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="http://web.eecs.umich.edu/~dkoutra/">
-        <img src="images/Danai Koutra.jpeg">
-        </img>
-        <figcaption>
-          <a href="http://web.eecs.umich.edu/~dkoutra/">
-            <div class="name">
-                Danai Koutra 
-            </div>
-          </a>
-          <div class="background">
-            Univ. of michigan
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Fairness Day</h2>
-  </div>
-
-  <div class="container">
-    <figure class="u-block-hover">
-      <a href="https://himalakkaraju.github.io/">
-        <img src="images/Hima Lakkaraju.png">
-        </img>
-        <figcaption>
-          <a href="https://himalakkaraju.github.io/">
-            <div class="name">
-              Hima Lakkaraju
-            </div>
-          </a>
-          <div class="background">
-            Harvard
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://www.andrew.cmu.edu/user/achoulde/">
-        <img src="images/Alexandra Chouldechova.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://www.andrew.cmu.edu/user/achoulde/">
-            <div class="name">
-              Alexandra Chouldechova
-            </div>
-          </a>
-          <div class="background">
-            CMU
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Health Day</h2>
-  </div>
-
-  <div class="container">
-    <figure class="u-block-hover">
-      <a href="https://weill.cornell.edu/faculty-highlight/fei-wang-phd">
-        <img src="images/Fei Wang.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://weill.cornell.edu/faculty-highlight/fei-wang-phd">
-            <div class="name">
-                Fei Wang
-            </div>
-          </a>
-          <div class="background">
-            Cornell University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://engineering.nyu.edu/faculty/rumi-chunara">
-        <img src="images/Rumi Chunara.png">
-        </img>
-        <figcaption>
-          <a href="https://engineering.nyu.edu/faculty/rumi-chunara">
-            <div class="name">
-              Rumi Chunara
-            </div>
-          </a>
-          <div class="background">
-            New York University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="https://engineering.tamu.edu/cse/profiles/chaspari-theodora.html">
-        <img src="images/Theodora Chaspari.jpeg">
-        </img>
-        <figcaption>
-          <a href="https://engineering.tamu.edu/cse/profiles/chaspari-theodora.html">
-            <div class="name">
-              Theodora Chaspari
-            </div>
-          </a>
-          <div class="background">
-            Texas, A&M
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-    <hr style="width:20%">
-  </center>
-  <br>
-  <div>
-    <h2 class="occupation">Undergraduate Consortium</h2>
-  </div>
-
-  <div class="container">
-    <figure class="u-block-hover">
-      <a href="http://davidanastasiu.net/index.php">
-        <img src="images/David Anastasiu.jpeg">
-        </img>
-        <figcaption>
-          <a href="http://davidanastasiu.net/index.php">
-            <div class="name">
-                David Anastasiu
-            </div>
-          </a>
-          <div class="background">
-            Santa Clara University 
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-
-    <figure class="u-block-hover">
-      <a href="http://www.cs.okstate.edu/~eakbas/">
-        <img src="images/Dr. Esra Akbas.jpeg">
-        </img>
-        <figcaption>
-          <a href="http://www.cs.okstate.edu/~eakbas/">
-            <div class="name">
-              Esra Akbas
-            </div>
-          </a>
-          <div class="background">
-            Oklahoma State University
-          </div>
-        </figcaption>
-      </a>
-    </figure>
-  </div>
-
-  <center>
-  <hr style="width:20%">
-  </center>
-
-
-
-
 
   <footer>
       <section class="footerLogo">
@@ -1096,7 +1086,7 @@
       </section>
 
       <section class="claim">
-        <span>2021 © All Rights Reserved</span>
+        <span>2020 © All Rights Reserved</span>
         <span> | </span>
         <span><a href="https://www.acm.org/special-interest-groups/volunteer-resources" target="_blank">ACM Code of Conduct</a></span>
       </section>
