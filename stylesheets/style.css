@@ -18,8 +18,7 @@ header{
   width: 100%;
   top: 0;
   position: fixed;
-  padding-bottom: 1vh;
-  padding-top: 1.5vh;
+  padding-top: 10px;
   height: 80px;
   display: flex;
   justify-content: space-between;
