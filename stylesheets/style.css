@@ -12,7 +12,11 @@ div, header, footer, section, form, input, select{
 
 /* NAVIGATION */
 
-
+body{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
 
 header{
   width: 100%;
@@ -21,13 +25,14 @@ header{
   padding-top: 10px;
   height: 80px;
   display: flex;
-  justify-content: space-between;
   background: white;
   border-bottom: 1px double rgba(45,43,87,0.2);
   z-index: 1000;
 }
 .logo{
+    float: left;
 	margin-left: 6vw;
+    margin-top: 10px;
 	text-decoration: none;
 }
 
@@ -39,19 +44,8 @@ header{
 	color: black;
 	letter-spacing: 1px;
 }
+/* Menu */
 
-.nav{
-  position: relative;
-  left: -10vw;
-}
-
-.nav a{
-  text-decoration: none;
-  position: relative;
-  top: 19px;
-  color: black;
-  margin-left: 3vw;
-}
 
 
 
