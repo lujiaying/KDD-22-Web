@@ -16,6 +16,11 @@ body{
     width: 100%;
     justify-content: center;
     align-items: center;
+	font-size:22px;
+	line-height: 32px;
+	word-wrap:break-word !important;
+	margin: 0;
+	padding: 0;
 }
 
 header{
@@ -29,10 +34,8 @@ header{
   border-bottom: 1px double rgba(45,43,87,0.2);
   z-index: 1000;
 }
+
 .logo{
-    float: left;
-	margin-left: 6vw;
-    margin-top: 10px;
 	text-decoration: none;
 }
 
