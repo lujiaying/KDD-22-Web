@@ -25,24 +25,8 @@ header{
   border-bottom: none;
 }
 
-.logo{
-  position: absolute;
-  left: -6vw;
-  text-decoration: none;
-  display: flex;
-  width: 100%;
-  justify-content: space-between;
-  padding: 10px;
-  border-bottom: 1px double rgba(45,43,87,0.2);
-}
-
-.logo span{
-  position: relative;
-  font-size: 20px;
-  margin-top: 5px;
-  padding-right: 2vw;
-  color: black;
-  letter-spacing: 1px;
+#KDDLogo {
+    margin-left: 10px;
 }
 
 .nav{

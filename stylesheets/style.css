@@ -35,18 +35,17 @@ header{
   z-index: 1000;
 }
 
-.logo{
+.logo {
+	float:left;
+	margin-left: 6vw;
 	text-decoration: none;
+	line-height: 10px;
 }
 
-.logo span{
-	position: relative;
-	font-size: 16px;
-	margin-left: 3vw;
-	top: 5px;
-	color: black;
-	letter-spacing: 1px;
+#KDDLogo {
+    margin-left: 150px;
 }
+
 /* Menu */
 
 

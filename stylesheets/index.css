@@ -68,13 +68,6 @@ nav {
 	border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
-#logo {
-	float:left;
-	margin-left: 6vw;
-	text-decoration: none;
-	line-height: 10px;
-}
-
 nav:after {
 	content:"";
 	display:table;
