@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+
+html, body,
+ul, li, ol, dl, dd, dt,
+p, h1, h2, h3, h4, h5, h6,
+form, fieldset, legend, img,
+div, header, footer, section, form, input, select{
+	font-family: 'Mukta', sans-serif;
+}
+
+.cfpAll a{
+	color: rgba(110,172,218,1);
+	text-decoration: none;
+}
+
+.cfpAll a:hover{
+	text-decoration: underline;
+}
+
+.cfpAll{
+	position: relative;
+	padding-left: 7vw;
+	padding-right: 7vw;
+	color: rgb(86,86, 86);
+
+}
+
+.cfpOverallTitle{
+	display: block;
+	width: 100%;
+	text-align: center;
+	margin-top: 4vw;
+	font-size: 35px;
+	color: black;
+}
+
+.cfpOverallTitle2{
+	border-bottom: 1px solid rgb(228,228,228);
+	font-size: 30px;
+	margin-top: 4vw;
+	padding-bottom: 1vw;
+}
+.cfpContent{
+	margin-top: 3vw;
+	font-size: 17px;
+}
+
+.cfpTitle{
+	font-size: 30px;
+}
+
+.cfpContentSection{
+	margin-top: 5vw;
+}
+
+.cfpContent li{
+	position: relative;
+	margin-left: 3vw;
+}

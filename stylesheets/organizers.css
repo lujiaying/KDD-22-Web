@@ -1,7 +1,10 @@
-header, footer {
-    font-family: 'Mukta', sans-serif;
-  }
-
+html, body,
+ul, li, ol, dl, dd, dt,
+p, h1, h2, h3, h4, h5, h6,
+form, fieldset, legend, img,
+div, header, footer, section, form, input, select{
+  font-family: 'Mukta', sans-serif;
+}
     a:link {
       color: green;
       background-color: transparent;
