@@ -46,12 +46,19 @@
   background-color: rgba(45,43,87,1.0);
 }
 
-/* CHAIRS */
+/* Latest News */
+.news{
+  width: 100%;
+  display: block;
+  text-align: center;
+  margin-top: 33vw;
+}
 
+/* CHAIRS */
 .chairs{
   width: 100%;
   text-align: center;
-  margin-top: 33vw;
+  margin-top: 10vw;
 }
 .chairTitle{
   font-size: 5vw;
