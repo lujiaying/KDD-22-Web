@@ -62,7 +62,6 @@ div, header, footer, section, form, input, select{
     width: 100%;
     display: flex;
     position: relative;
-    margin-top: 6vw;
     justify-content: center;
     padding-bottom: 3vw;
     align-items: flex-start;
@@ -143,3 +142,19 @@ div, header, footer, section, form, input, select{
 	font-size: 2.5vw;
 }
 
+/* ScrollSection */
+.scroll-bg{
+    width: 50vw;
+	margin: 2% auto;
+}
+
+.scroll-div{
+    width: 50vw;
+    height: 300px;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.scroll-object{
+    font-size:19px;
+    padding: 20px;
+}

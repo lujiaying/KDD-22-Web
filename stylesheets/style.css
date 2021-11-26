@@ -53,10 +53,11 @@ header{
 
 
 nav { 
+	z-index: 10;
 	margin-top: 0px;
 	padding: 0;
 	background-color: white;
-	border-bottom: 1px solid rgba(0,0,0,0.2);
+	border-bottom: 1px solid rgba(0,0,0,0.2) !important;
 }
 
 nav:after {
@@ -163,3 +164,4 @@ footer a:hover{
 .claim span~span{
 	margin-left: 0.5vw;
 }
+
