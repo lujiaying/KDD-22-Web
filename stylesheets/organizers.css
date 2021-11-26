@@ -6,7 +6,6 @@ div, header, footer, section, form, input, select{
   font-family: 'Mukta', sans-serif;
 }
     a:link {
-      color: green;
       background-color: transparent;
       text-decoration: none;
     }
