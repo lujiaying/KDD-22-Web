@@ -136,7 +136,7 @@ nav ul li ul li{
 footer{
 	bottom: 0;
 	width: 100%;
-	display: flex;
+	display: inline-flex !important;
 	background-color: rgb(23,23,23);
 	color: white;
 	padding: 2vw;
@@ -157,9 +157,11 @@ footer a:hover{
 	width: 12vw;
 }
 .claim{
+	float: left;
 	display: flex;
 	font-size: 0.9vw;
 	align-items: center;
+	margin-right: 10pxs;
 }
 .claim span~span{
 	margin-left: 0.5vw;
