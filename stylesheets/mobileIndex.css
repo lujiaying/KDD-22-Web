@@ -19,21 +19,24 @@
   padding: 4vw;
   margin-left: 3vw;
   top: 50vw;
-  color: rgba(45,43,87,1.0);
+  color: rgba(45,43,87,1.0) !important;
   text-align: center;
 }
 .title h1{
   font-size: 10vw;
   font-weight: bolder;
   margin-top: -2vw;
+  color: rgba(45,43,87,1.0) !important;
 }
 .title h4{
   font-size: 2vw;
   font-weight: light;
   opacity: 0.8;
+  color: rgba(45,43,87,1.0) !important;
 }
 .title h3{
   font-size: 6vw;
+  color: rgba(45,43,87,1.0) !important;
 }
 .title span{
   margin-left: 1vw;
