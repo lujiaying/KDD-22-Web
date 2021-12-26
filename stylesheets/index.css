@@ -70,6 +70,10 @@ div, header, footer, section, form, input, select{
     align-items: flex-start;
 }
 
+.news li:hover a{
+	color: white;
+}
+
 /* CHAIRS */
 .chairs{
 	width: 100%;

@@ -56,6 +56,9 @@
   text-align: center;
   margin-top: 33vw;
 }
+.news li:hover a{
+  color: white;
+}
 
 /* CHAIRS */
 .chairs{
