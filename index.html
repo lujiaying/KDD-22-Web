@@ -30,48 +30,8 @@
   
   <body>
 
-    <nav>
-      <div class="logo" id="KDDLogo"><img src="images/logos/KDD2022_logo.jpeg"></div>
-      <div class="logo"><img src="images/logos/acm_logo_header.png"></div>
-          <ul class="menu">
-              <li><a href="#">HOME</a>
-              </li>
-              
-              <li>
-                  <a href="#">PROGRAM</a>
-                  <ul>
-                      <li><a class="disabled">Program Overview</a></li>
-                      <li><a class="disabled">Full KDD Program Schedule</a></li>
-                      <li><a class="disabled">Workshop</a></li>
-                  </ul> 
-
-              </li>
-
-              <li>
-              <a href="#">CALLS</a>
-                  <ul>
-                      <li><a class="abled" href="cfpResearch.html">Call for Research Track Papers</a></li>
-                      <li><a class="abled" href="cfpAppliedDS.html">Call for Applied Data Science Track Papers</a></li>
-                      <li><a class="abled" href="cfTutorial.html">Call for Tutorials</a></li>
-                      <li><a class="abled" href="cfWorkshopProp.html">Call for Workshop Proposals</a></li>
-                      <li><a class="disabled">Call for KDD Cup Proposals</a></li>
-                  </ul>
-              </li>
-
-              <li><a href="#">SPONSORS</a>
-                  <ul>
-                      <li><a class="disabled">Become a Sponsor</a></li>
-                      <li><a class="disabled">Sponsors and Partners</a></li>
-                  </ul>
-              </li>
-
-              <li><a href="#">ORGANIZERS</a>
-                  <ul>
-                      <li class="abled"><a href="organizers.html">Organizing Committee</a></li>
-                      <li><a class="disabled">Track Chair</a></li>
-                  </ul>
-              </li>
-          </ul>
+      <nav id="commonNavBar">
+      <!-- load by jquery-->
       </nav>
 
     <section class="banner">
@@ -95,6 +55,7 @@
       <div class="scroll-div">
           <div class = "scroll-object">
                   <section class="highlights">
+                    <li>Jan. 6, 2022: Call for KDD Cup Proposals is available at <a href="cfKDDCup.html">here</a>.</li>
                     <li>Dec. 26, 2021: Call for Workshop Proposals is available at <a href="cfWorkshopProp.html">here</a>.</li>
                     <li>Dec. 26, 2021: Call for Tutorials is available at <a href="cfTutorial.html">here</a>.</li>
                     <li>Nov. 24, 2021: Those who are interested in serving as a PC, please feel free to fill in this <a href="https://forms.gle/Dc3LDjtaFMoRE3qT7">form</a>.</li>
@@ -223,22 +184,20 @@
       </section>
     </section>
 
-    <footer>
-      <section class="footerLogo">
-        <img src="images/logos/acm_logo_footer.png">
-      </section>
-
-      <section class="claim">
-        <span>2021 © All Rights Reserved</span>
-        <span> | </span>
-        <span><a href="https://www.acm.org/special-interest-groups/volunteer-resources" target="_blank">ACM Code of Conduct</a></span>
-      </section>
+    <footer id="commonFooter">
+    <!-- load by jquery-->
     </footer>
 
     <!-- SCRIPTS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script>
+    $(function(){
+      $("#commonNavBar").load("navBar.html");
+      $("#commonFooter").load("footer.html");
+    });
+    </script>
    
   </body>
 </html>
