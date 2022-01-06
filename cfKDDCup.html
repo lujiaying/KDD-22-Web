@@ -24,49 +24,8 @@
   </head>
   
   <body>
-
-    <nav>
-      <div class="logo" id="KDDLogo"><img src="images/logos/KDD2022_logo.jpeg"></div>
-      <div class="logo"><img src="images/logos/acm_logo_header.png"></div>
-          <ul class="menu">
-              <li><a href="index.html">HOME</a>
-              </li>
-              
-              <li>
-                  <a href="#">PROGRAM</a>
-                  <ul>
-                      <li><a class="disabled">Program Overview</a></li>
-                      <li><a class="disabled">Full KDD Program Schedule</a></li>
-                      <li><a class="disabled">Workshop</a></li>
-                  </ul> 
-
-              </li>
-
-              <li>
-              <a href="#">CALLS</a>
-                  <ul>
-                      <li><a class="abled" href="cfpResearch.html">Call for Research Track Papers</a></li>
-                      <li><a class="abled" href="cfpAppliedDS.html">Call for Applied Data Science Track Papers</a></li>
-                      <li><a class="abled" href="cfTutorial.html">Call for Tutorials</a></li>
-                      <li><a class="abled" href="cfWorkshopProp.html">Call for Workshop Proposals</a></li>
-                      <li><a class="abled" href="cfKDDCup.html" >Call for KDD Cup Proposals</a></li>
-                  </ul>
-              </li>
-
-              <li><a href="#">SPONSORS</a>
-                  <ul>
-                      <li><a class="disabled">Become a Sponsor</a></li>
-                      <li><a class="disabled">Sponsors and Partners</a></li>
-                  </ul>
-              </li>
-
-              <li><a href="#">ORGANIZERS</a>
-                  <ul>
-                      <li class="abled"><a href="organizers.html">Organizing Committee</a></li>
-                      <li><a class="disabled">Track Chair</a></li>
-                  </ul>
-              </li>
-          </ul>
+      <nav id="commonNavBar">
+      <!-- load by jquery-->
       </nav>
 
       <section class="cfpAll">
@@ -90,7 +49,7 @@
               <li>March 15, 2022 – Tentative start of the competition</li> 
               <li>June 15, 2022 - Announcement of the KDD Cup Winner</li>
             <br>
-            Contact email: kddcup2022@kdd.org
+            Contact email: <a href="mailto:kddcup2022@kdd.org">kddcup2022@kdd.org</a>
             </p>
           </section>
 
@@ -161,13 +120,13 @@
               </li>
               </ol>
 
-              Please keep the proposal concise and strictly confidential. Please send your proposals in the PDF format to kddcup2022@kdd.org by the submission deadline. Follow the updates provided on the website.
+              Please keep the proposal concise and strictly confidential. Please send your proposals in the PDF format to <a href="mailto:kddcup2022@kdd.org">kddcup2022@kdd.org</a> by the submission deadline. Follow the updates provided on the website.
 
               <br><br>
             </p>
           </section>
     
-    <section class="cfpContentSection">
+          <section class="cfpContentSection">
             <p class="cfpTitle">KDD Cup Chairs</p>
             <p class="cfpText">
               <a href="https://engineering.nd.edu/faculty/tim-weninger/" target="_blank">Tim Weninger</a>, University of Notre Dame<br/>
@@ -176,28 +135,24 @@
             
             </p>
           </section>
-
-
-
-
-
-
-    <footer>
-      <section class="footerLogo">
-        <img src="images/logos/acm_logo_footer.png">
+        </section>
       </section>
 
-      <section class="claim">
-        <span>2021 © All Rights Reserved</span>
-        <span> | </span>
-        <span><a href="https://www.acm.org/special-interest-groups/volunteer-resources" target="_blank">ACM Code of Conduct</a></span>
-      </section>
+
+    <footer id="commonFooter">
+    <!-- load by jquery-->
     </footer>
 
     <!-- SCRIPTS -->
-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script>
+    $(function(){
+      $("#commonNavBar").load("navBar.html");
+      $("#commonFooter").load("footer.html");
+    });
+    </script>
    
   </body>
 </html>
