@@ -17,4 +17,10 @@ jobs:
         server: ${{ secrets.ftp_host }}
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        dry-run: true
+        protocols: ftps
+        port: 21
+        exclude: |
+          README.md
+           **/.git*
+           **/.git*/**
+           **/node_modules/**
