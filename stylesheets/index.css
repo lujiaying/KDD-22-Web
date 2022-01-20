@@ -38,13 +38,8 @@ div, header, footer, section, form, input, select{
 	color: white !important;
 	font-weight: bolder;
 }
-.title h2{
-	font-size:2vw;
-	color: white !important;
-	font-weight: lighter;
-}
 .title h4{
-	font-size: 1.2vw;
+	font-size: 2vw;
 	color: white !important;
 	font-weight: lighter;
 }
@@ -55,7 +50,7 @@ div, header, footer, section, form, input, select{
 	opacity: 0.4;
 }
 .title h3{
-	font-size: 4vw;
+	font-size: 5vw;
 	color: white !important;
 	font-weight:bolder;
 }
