@@ -37,6 +37,10 @@
   font-size: 8vw;
   color: rgba(45,43,87,1.0) !important;
 }
+.title h5{
+	font-size: 2vw;
+  color: black !important;
+}
 .title span{
   margin-left: 1vw;
 }
