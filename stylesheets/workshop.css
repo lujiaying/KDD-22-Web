@@ -1,0 +1,115 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+
+html, body,
+ul, li, ol, dl, dd, dt,
+p, h1, h2, h3, h4, h5, h6,
+form, fieldset, legend, img,
+div, header, footer, section, form, input, select{
+	font-family: 'Mukta', sans-serif;
+}
+
+.workshopTitile{
+	text-align: center;
+	margin-top: 4vw;
+	font-size: 35px;
+}
+.workshopAll a{
+	text-decoration: none;
+}
+.workshopAll{
+	text-align: center;
+	padding-bottom: 3vw;
+	display: flex;
+	flex-direction: column;
+}
+.workshops a:hover{
+	text-decoration: underline;
+}
+.workshops{
+	display: flex;
+	width: 100%;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: space-between;
+	margin-top: 30px;
+}
+
+.eachWS{
+	font-size: 20px;
+	border: 1.5px solid rgba(0, 0, 0, .4);
+	width: 400px;
+	margin-top: 50px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+.fullDay{
+	box-shadow: 0px 0px 10px rgba(81, 143, 205,1);
+}
+.halfDay{
+	box-shadow: 0px 0px 10px rgba(40, 39, 70, 0.8);
+}
+
+.eachWSTop{
+	text-align: right;
+	font-size: 16px;
+	padding-right: 10px;
+	background-color: rgba(81, 143, 205,0.4);
+	color: rgba(0, 0, 0, .7);
+	font-weight: bold;
+}
+.halfTop{
+	background-color: rgba(40, 39, 70, 0.2);
+}
+.eachWSTop span~span{
+	margin-left: 6px;
+}
+.eachWSTitle{
+	font-size: 25px;
+	text-align: center;
+	margin-top: 20px;
+	height: 170px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+	padding: 10px;
+}
+.eachWSTitle a{
+	color: rgba(40, 39, 70, 1);
+	font-weight: bold;
+}
+.eachWSOrg{
+	font-size: 17px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	text-align: center;
+	margin-top: 20px;
+	align-items: center;
+	align-content: center;
+
+}
+.eachWSOrg::before{
+	content: "";
+	margin-left: 5%;
+	display: block;
+	width: 90%;
+	height: 2px;
+	background-color: rgba(0, 0, 0, .4);
+	border-radius: 50%;
+	margin-top: -30px;
+}
+.eachWSOrg p{
+	padding: none;
+	line-height: 17px;
+	width: 180px;
+
+}
+.WScompany{
+	display: block;
+	line-height: 14px;
+	font-size: 10px;
+	color: rgba(0, 0, 0, .4);;
+} 
+
