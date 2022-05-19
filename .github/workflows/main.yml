@@ -18,6 +18,7 @@ jobs:
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
         protocol: ftps
+        dry-run: true
         port: 21
         exclude: |
           README.md
