@@ -24,3 +24,4 @@ jobs:
            **/.git*
            **/.git*/**
            **/node_modules/**
+           images/Sponsor Logos/EDI Day Sponsor/Citadel.jpg 
