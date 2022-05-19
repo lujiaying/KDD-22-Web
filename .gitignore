@@ -4,3 +4,6 @@
 
 # track these files, if they exist
 !.gitignore
+
+# ignore files under certain directory
+./images/Sponsor Logos/
