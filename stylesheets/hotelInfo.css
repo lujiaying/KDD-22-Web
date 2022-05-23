@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+
+html, body,
+ul, li, ol, dl, dd, dt,
+p, h1, h2, h3, h4, h5, h6,
+form, fieldset, legend, img,
+div, header, footer, section, form, input, select{
+	font-family: 'Mukta', sans-serif;
+}
+
+.hotelAll a{
+	color: rgba(110,172,218,1);
+	text-decoration: none;
+}
+
+.hotelAll a:hover{
+	text-decoration: underline;
+}
+
+.hotelAll{
+	position: relative;
+	padding-left: 7vw;
+	padding-right: 7vw;
+}
+
+.hotelTitle{
+	display: block;
+	width: 100%;
+	text-align: center;
+	margin-top: 4vw;
+	font-size: 35px;
+	color: black;
+}
+.eventLoc{
+	padding-top: 40px;
+	line-height: 30px;
+}
+.eventLoc p:nth-child(1), .hotelInTitle{
+	font-size: 30px;
+	color: rgb(86,86, 86);
+	border-bottom: 2px solid rgba(86,86, 86,.6);
+	border-radius: 1px;
+}
+
+.eventLoc p:nth-child(2){
+	font-size: 27px;
+}
+.hotelSec{
+	margin-top: 40px;
+}
+.hotelIntro{
+	padding-top: 20px;
+	font-size: 19px;
+}
+
+.hotels{
+	margin-top: 40px;
+	padding-bottom: 40px;
+}
+.hotels section{
+	margin-top: 40px;
+	font-size: 21px;
+	line-height: 25px;
+	background-color: rgba(86,86, 86,.1);
+	padding: 20px;
+}
+.hotels section p:nth-child(1){
+	font-weight: 1000;
+	font-size: 23px;
+}
+.hotels section p:nth-child(2){
+	color: rgb(86,86, 86);
+}
+.hotels section p:nth-child(2) i{
+	font-size: 17px;
+}
