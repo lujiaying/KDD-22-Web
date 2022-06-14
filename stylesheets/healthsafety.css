@@ -20,7 +20,7 @@ div, header, footer, section, form, input, select{
 	width: 100%;
 	text-align: center;
 	margin-top: 4vw;
-	font-size: 35px;
+	font-size: 30px;
 	color: black;
 }
 
@@ -31,15 +31,19 @@ div, header, footer, section, form, input, select{
     margin-top: 4vw;
     margin-bottom: 10px;
     font-size: 30px;
-    color: black;
+    color: rgba(86,86,86,1);
+    border-bottom: 2px solid;
+    border-color: rgba(86,86,86,0.6);
+    border-radius: 1px;
 }
 
 .beWell{
-    color:#595959;
+    color:#868686;
 }
 
 .protocals{
     color:black;
+    font-size: 19px;
 }
 
 p, h4, h5{
@@ -56,7 +60,10 @@ p, h4, h5{
     text-align: left;
     margin-top: 4vw;
     margin-bottom: 20px;
-    font-size: 40px;
+    font-size: 30px;
     color: black;
+    border-bottom: 2px solid;
+    border-color: rgba(86,86,86,0.6);
+    border-radius: 1px;
 }
 
