@@ -55,7 +55,6 @@ div, header, footer, section, form, input, select{
 .eventLoc p:nth-child(1) a{
 	font-size: 25px;
 	font-weight: bolder;
-	color: rgb(0,0,0) !important;
 }
 
 .eventLoc p:nth-child(1){
