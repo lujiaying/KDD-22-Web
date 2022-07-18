@@ -1,0 +1,75 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+
+html, body,
+ul, li, ol, dl, dd, dt,
+p, h1, h2, h3, h4, h5, h6,
+form, fieldset, legend, img,
+div, header, footer, section, form, input, select{
+	font-family: 'Mukta', sans-serif;
+	
+}
+
+.session{
+	font-size: 25px;
+	font-weight: 800;
+	margin-bottom: -10px;
+	margin-top: 50px;
+}
+
+h3{
+	padding-top: 30px;
+}
+
+.paperAll{
+	width: 100vw;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	background-color: rgb(247, 247, 247);
+}
+.paperAll h3{
+	margin-top: 20px;
+	text-align: center;
+}
+.title{
+	margin-top: 60px;
+	font-weight: 500;
+	background-color: rgba(40, 39, 70, 0.7);
+	padding: 5px;
+	border-radius: 9px;
+	font-size: 22px;
+	color: rgb(247, 247, 247);;
+	width: 80vw;
+	text-align: center;
+}
+.papers{
+	width: 100vw;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 15px;
+
+}
+.paper{
+	border: 1.4px solid rgba(0,0,0,0.3);
+	padding-top: 10px;
+	padding-right: 15px;
+	padding-left: 15px;
+	border-radius: 10px;
+	background-color: white;
+	font-size: 20px;
+	line-height: 25px;
+	width: 80vw;
+	margin-top: 20px;
+}
+.paperTitle{
+	font-weight: 800;
+	color: rgba(81, 143, 205,1);
+	text-shadow: 1px 0px 0px rgba(0, 0, 0, 0.2);
+}
+.paperAuthor{
+	color: rgba(0, 0, 0, .7);
+	font-size: 16px;
+}

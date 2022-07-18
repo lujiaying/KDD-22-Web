@@ -17,7 +17,7 @@
  },
  {
    "r1": "Causal Attention for Graph Classification",
-   "r2": "Yongduo Sui (University of Science and Technology of China)*; Xiang Wang (National University of Singapore); Jiancan Wu (University of Science and Technology of China); Min Lin (University of Montreal); Xiangnan He (University of Science and Technology of"
+   "r2": "Yongduo Sui (University of Science and Technology of China)*; Xiang Wang (National University of Singapore); Jiancan Wu (University of Science and Technology of China); Min Lin (University of Montreal); Xiangnan He (University of Science and Technology of China); Tat-Seng Chua (National university of Singapore)"
  },
  {
    "r1": "Minimizing Congestion for Balanced Dominators",
@@ -37,7 +37,7 @@
  },
  {
    "r1": "Graph-in-Graph Network for Automatic Gene Ontology Description Generation",
-   "r2": "Fenglin Liu (Peking University)*; Bang Yang (Peking University); Xian Wu (Tencent Medical AI Lab); Shen Ge (Tencent Medical AI Lab); Adelaide Chambers (University of Washington); Sheng Wang (Paul G. Allen School of Computer Science, University of Washingt"
+   "r2": "Fenglin Liu (Peking University)*; Bang Yang (Peking University); Xian Wu (Tencent Medical AI Lab); Shen Ge (Tencent Medical AI Lab); Adelaide Chambers (University of Washington); Sheng Wang (Paul G. Allen School of Computer Science, University of Washington)"
  },
  {
    "r1": "Deep Representations for Time-varying Brain Datasets",
@@ -49,7 +49,7 @@
  },
  {
    "r1": "RetroGraph: Retrosynthetic Planning with Graph Search",
-   "r2": "Shufang Xie (Gaoling School of Artificial Intelligence, Renmin University of China)*; Peng Han (KAUST); Yingce Xia (Microsoft Research Asia); Lijun Wu (Microsoft Research); Tao Qin (Microsoft Research Asia); Chenjuan Guo (Aalborg University); Bin Yang (Aa"
+   "r2": "Shufang Xie (Gaoling School of Artificial Intelligence, Renmin University of China)*; Peng Han (KAUST); Yingce Xia (Microsoft Research Asia); Lijun Wu (Microsoft Research); Tao Qin (Microsoft Research Asia); Chenjuan Guo (Aalborg University); Bin Yang (Aalborg University); Rui Yan (Peking University)"
  },
  {
    "r1": "KRATOS: Context-aware cell type classification and interpretation using joint dimensionality reduction and clustering",
@@ -153,7 +153,7 @@
  },
  {
    "r1": "Geometer: Graph Few-Shot Class-Incremental Learning via Prototype Representation",
-   "r2": "Bin Lu (Shanghai Jiao Tong University); Xiaoying Gan (Shanghai Jiao Tong University)*; Lina Yang (Shanghai Jiao Tong University); Weinan Zhang (Shanghai Jiao Tong University); Luoyi Fu (Shanghai Jiao Tong University); Xinbing  Wang (Shanghai Jiao Tong Uni"
+   "r2": "Bin Lu (Shanghai Jiao Tong University); Xiaoying Gan (Shanghai Jiao Tong University)*; Lina Yang (Shanghai Jiao Tong University); Weinan Zhang (Shanghai Jiao Tong University); Luoyi Fu (Shanghai Jiao Tong University); Xinbing Wang (Shanghai Jiao Tong University)"
  },
  {
    "r1": "Avoiding Biases due to Similarity Assumptions in Node Embeddings",
