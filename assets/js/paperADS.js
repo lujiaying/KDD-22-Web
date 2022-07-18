@@ -1,5 +1,5 @@
 //import data
-import adsData from '/assets/csv/ads.json' assert {type: 'json'};
+import adsData from '../csv/ads.json' assert {type: 'json'};
 
 //matching patterns
 const regexSession = new RegExp('^SESSION');

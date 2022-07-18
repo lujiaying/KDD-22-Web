@@ -1,6 +1,6 @@
 //import data
 
-import researchData from '/assets/csv/research.json' assert {type: 'json'};
+import researchData from '../csv/research.json' assert {type: 'json'};
 
 //matching patterns
 const regexSession = new RegExp('^SESSION');
