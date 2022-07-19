@@ -7,7 +7,7 @@ const regexSession = new RegExp('^SESSION');
 
 
 window.onload = function(){
-	fetch('/csv/ads.json')
+	fetch('./assets/csv/ads.json')
 	.then(function(resp){
 		return resp.json();
 	})

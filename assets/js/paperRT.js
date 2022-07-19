@@ -6,7 +6,7 @@ let researchHTML = "";
 let researchData = [];
 
 window.onload = function(){
-	fetch('/csv/research.json')
+	fetch('./assets/csv/research.json')
 	.then(function(resp){
 		return resp.json();
 	})
