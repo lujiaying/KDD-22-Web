@@ -240,10 +240,6 @@
    "r2": "Weijieying Ren (universivity of Central Florida); Pengyang Wang (University of Macau); Xiaolin Li (Nanjing University); Charles E Hughes (University of Central Florida); Yanjie Fu (University of Central Florida)*"
  },
  {
-   "r1": "Human mobility prediction with causal and spatial-constrained multi-task network",
-   "r2": "Zongyuan Huang (Shanghai Jiao Tong University); Shengyuan Xu (Shanghai Jiao Tong University); Menghan Wang (ebay); Hansi  Wu (eBay Inc.); Yaohui Jin (Shanghai Jiao Tong University); Yanyan Xu (Shanghai Jiao Tong Unniversity)*"
- },
- {
    "r1": "TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation",
    "r2": "Di Yao (Institute of Computing Technology, Chinese Academy of Sciences)*; Haonan Hu (Institute of Computing Technology, Chinese Academy of Sciences); Lun Du (Microsoft Research); Gao Cong (Nanyang Technological Univesity); Shi Han (Microsoft Research); Jingping Bi (Institute of Computing Technology, Chinese Academy of Sciences)"
  },
@@ -266,6 +262,10 @@
  {
    "r1": "Delayed Feedback Modeling with a Time Window Assumption",
    "r2": "Shota Yasui (Cyberagent)*; Masahiro Kato (Cyberagent / The University of Tokyo)"
+ },
+ {
+   "r1": "Partial Label Learning with Semantic Label Representations",
+   "r2": "Shuo He (University of Electronic Science and Technology of China); Lei Feng (Chongqing University); Fengmao Lv (Southwest Jiaotong University); Wen Li (University of Electronic Science and Technology of China); Guowu Yang (Big Data Research Center and School of Computer Science and Engineering,University of Electronic Science and Technology of China)*"
  },
  {
    "r1": "A Generalized Backward-Compatibility Metric",
@@ -386,6 +386,10 @@
  {
    "r1": "SL-VAE: Variational Autoencoder for Source Localization in Graph Information Diffusion",
    "r2": "Chen Ling (Emory University)*; Junji Jiang (Tianjin University); Junxiang Wang (Emory University); Zhao Liang (Emory University)"
+ },
+ {
+   "r1": "Towards an Optimal Asymmetric Graph Structure for Robust Semi-supervised Node Classification",
+   "r2": "Zixing Song (The Chinese University of Hong Kong)*; Yifei Zhang (The Chinese University of Hong Kong); Irwin King (The Chinese University of Hong Kong)"
  },
  {
    "r1": "Wednesday, August 17, 10:00 AM-12:00 PM, Room 2, (Time Series and Spatiotemporal Data). Session Chair: Abdullah Mueen (University of New Mexico)",
