@@ -44,7 +44,7 @@ hr{
 }
 
 .frequentQuestionTitle{
-    font-weight: bolder;
+    font-weight: bold;
     margin-top: 3vw;
     margin-bottom: 2vw;
 }
@@ -54,7 +54,7 @@ hr{
 }
 
 .frequentQuestion{
-    font-weight: bolder;
+    font-weight: 400;
 }
 
 .frequentQuestionAnswer{
