@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Bree+Serif);
+
+html, body,
+ul, li, ol, dl, dd, dt,
+p, h1, h2, h3, h4, h5, h6,
+form, fieldset, legend, img,
+div, header, footer, section, form, input, select{
+	font-family: 'Mukta', sans-serif;
+}
+.assignAll{
+	position: relative;
+	padding-left: 7vw;
+	padding-right: 7vw;
+}
+.assignTitle{
+	display: block;
+	width: 100%;
+	text-align: center;
+	margin-top: 4vw;
+	font-size: 35px;
+	color: black;
+}
+
+.tableTitle{
+	font-weight: 1000;
+	font-size: 19px;
+}
+
+.assignTable{
+	width: 84vw;
+	font-size:17px;
+	overflow-x: scroll;
+	padding-left: 2vw;
+}
+
+.assignTable p{
+	font-size: 24px;
+}
+.assignTable td{
+	border: 1px solid black;
+	padding-top:.4vw;
+	padding-bottom:.4vw;
+}
+.assignTable tr{
+	border: 1px solid black;
+}
+
+.assignTable table{
+	border-collapse: collapse;
+	text-align: center;
+	width: 80vw;
+
+}

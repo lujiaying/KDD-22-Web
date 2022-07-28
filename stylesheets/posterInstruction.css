@@ -1,0 +1,63 @@
+.posterInstructionTitle{
+    text-align: center;
+    margin-top: 4vw;
+    margin-bottom: 4vw;
+
+}
+
+h1{
+    font-family:'Mukta', sans-serif;
+    font-size: calc(1.375rem + 1.5vw);
+}
+
+.instructionTitle{
+    margin-bottom: 4vw;
+    font-size: 30px;
+}
+
+.instructionText{
+    font-size: 20px;
+    color: black;
+    margin-top: 3vw;
+}
+
+.scheduleText{
+    font-size: 20px;
+    margin-top: 0.5vw;
+    margin-bottom: 0.5vw;
+}
+
+.posterSchedule{
+    width : relative;
+}
+
+b{
+    color:black;
+    font-weight: bolder;
+}
+
+hr{
+    width: 75%;
+    height:10px;
+    color:black;
+    background-color: black;
+}
+
+.frequentQuestionTitle{
+    font-weight: bold;
+    margin-top: 3vw;
+    margin-bottom: 2vw;
+}
+
+.faqClass{
+    margin-bottom: 2vw;
+}
+
+.frequentQuestion{
+    font-weight: 400;
+}
+
+.frequentQuestionAnswer{
+    margin-top:5px;
+    font-size: 20px;
+}
