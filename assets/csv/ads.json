@@ -1,902 +1,902 @@
 [
- {
-   "r1": "SESSION 1",
-   "r2": ""
- },
- {
-   "r1": "Tuesday, August 16, 10:00 AM-12:00 PM, Room 1 (Recommendation Systems) . Session Chair: Weize Kong\n",
-   "r2": ""
- },
- {
-   "r1": "Persia:  An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters",
-   "r2": "Xiangru Lian (University of Rochester)*; Binhang Yuan (ETH Zurich); Xuefeng Zhu (Kuaishou Technology); Yulong Wang (Kuaishou Technology); Yongjun He (ETH Zürich); wu honghuan (Kuaishou); Lei Sun (Kuaishou Technology); Haodong Lyu (Kuaishou Technology); Chengjun Liu (Kuaishou Technology); Xing Dong (Kuaishou Technology); Yiqiao Liao (Kuaishou Technology); Mingnan Luo (Kuaishou Technology); Congfei Zhang (Kuaishou Technology); Jingru Xie (Kwai Inc.); Haonan Li (Kuaishou Technology); Lei Chen (Kuaishou Technology); Renjie Huang (Kuaishou Technology); Jianying Lin (Kuaishou); Chengchun Shu (Kuaishou Technology); Xuezhong Qiu (Kuaishou Technology); Zhishan Liu (Kuaishou Technology); Dongying Kong (Kuaishou Technology); Lei Yuan (Kuaishou Technology); Hai Yu (Kuaishou Technology); Sen Yang (Kwai Inc.); Ce Zhang (ETH); Ji  Liu (Kwai Inc.)"
- },
- {
-   "r1": "Uncovering the Heterogeneous Effects of Preference Diversity on User Activeness: A Dynamic Mixture Model",
-   "r2": "Yunfei Lu (Huawei)*; Peng Cui (Tsinghua University); Linyun Yu (Bytedance AI Lab); Lei Li (Bytedance); Wenwu Zhu (Tsinghua University)"
- },
- {
-   "r1": "Affective Signals in a Social Media Recommender System",
-   "r2": "Jane Yu (Facebook)*; Yi-Chia Wang (Uber); Lijing Qin (Meta AI); Canton Cristian (Facebook AI); Alon Y Halevy (Facebook)"
- },
- {
-   "r1": "Pricing the Long Tail by Explainable Product Aggregation and Monotonic Bandits",
-   "r2": "Marco Mussi (Politecnico di Milano)*; Gianmarco Genalti (Politecnico di Milano); Francesco Trovò (Politecnico di Milano); Alessandro Nuara (Politecnico di Milano, Italy); Nicola Gatti (Politecnico di Milano); Marcello Restelli (Politecnico di Milano)"
- },
- {
-   "r1": "Multi Armed Bandit vs. A/B Tests in E-commence - Confidence Interval and Hypothesis Test Power Perspectives",
-   "r2": "Ding Xiang (The Home Depot)*; Rebecca West (The Home Depot); Jiaqi Wang (The Home Depot); Xiquan Cui (Homedepot); Jinzhou Huang (The Home Depot)"
- },
- {
-   "r1": "Tuesday, August 16, 10:00 AM-12:00 PM, Room 2 (Smart Transportation and Geo) . Session Chair: Yushun Dong",
-   "r2": ""
- },
- {
-   "r1": "Representative Routes Discovery From Massive Trajectories",
-   "r2": "Tingting Wang (RMIT University); Shixun Huang (RMIT); Zhifeng  Bao (RMIT University)*; J. Shane Culpepper (RMIT University); Reza Arablouei (CSIRO)"
- },
- {
-   "r1": "Uncertainty Quantification of Sparse Trip Demand Prediction with Spatial-Temporal Graph Neural Networks",
-   "r2": "Dingyi Zhuang (MIT)*; Shenhao Wang (MIT); Haris Koutsopoulos (Northeastern University); Jinhua Zhao (MIT)"
- },
- {
-   "r1": "Reinforcement Learning-based Placement of Charging Stations in Urban Road Networks",
-   "r2": "Leonie A von Wahl (Volkswagen Group)*; Nicolas Tempelmeier (Volkswagen AG); Ashutosh Sao (L3S Research Center, Leibniz University Hannover); Elena  Demidova (DSIS Research Group, University of Bonn)"
- },
- {
-   "r1": "Graph Meta-Reinforcement Learning for Transferable Autonomous Mobility-on-Demand",
-   "r2": "Daniele Gammelli (Technical University of Denmark (DTU))*; Kaidi Yang (Stanford University); James Harrison (Google); Filipe Rodrigues (Technical University of Denmark (DTU)); Francisco Pereira (DTU); Marco Pavone (Stanford University)"
- },
- {
-   "r1": "Para-Pred: Addressing Heterogeneity for City-Wide Indoor Status Estimation in On-Demand Delivery",
-   "r2": "Wei Liu (Southeast University)*; Yi Ding (UNIVERSITY OF MINNESOTA); Shuai Wang (Southeast University); Yu Yang (Lehigh University); Desheng Zhang (Rutgers University)"
- },
- {
-   "r1": "SESSION 2",
-   "r2": ""
- },
- {
-   "r1": "Tuesday, August 16, 1:30 PM-3:30 PM, Room 1 (Recommendation Systems & E-commerce) . Session Chair: Teng Ye",
-   "r2": ""
- },
- {
-   "r1": "Multilingual Taxonomic Web Page Classification for Contextual Targeting at Yahoo",
-   "r2": "Eric Ye (Yahoo Research)*; Xiao Bai (Yahoo); Neil O'Hare (Yahoo Research); Eliyar Asgarieh (Yahoo Research); Kapil Thadani (Yahoo Research); Francisco Perez-Sorrosal (Yahoo Research); Sujyothi Adiga (Ads - Targeting & Identity Engineering)"
- },
- {
-   "r1": "An Online Multi-task Learning Framework for Google Feed Ads Auction Models",
-   "r2": "Ning Ma (Google)*; Mustafa Ispir (Google); Yuan Li (Google); Yongpeng Yang (Google); Zhe Chen (Google); Derek Zhiyuan Cheng (Google); Lan Nie (Google); Kishor Barman (Google)"
- },
- {
-   "r1": "Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation",
-   "r2": "Ruohan Zhan (Stanford University)*; Changhua Pei (Alibaba Group); Qiang Su (Kuaishou Technology); Jianfeng WEN (Kuaishou Inc.); Xueliang Wang (University of Science and Technology of China); Guanyu Mu (Kuaishou Inc.); Dong Zheng (Kuaishou Technology); Peng Jiang (Kuaishou Inc.); Kun Gai (AI)"
- },
- {
-   "r1": "Automatic Controllable Product Copywriting for E-Commerce",
-   "r2": "Xiaojie Guo (JD.COM Silicon Valley Research Center)*; Qingkai Zeng (University of Notre Dame); Meng Jiang (University of Notre Dame); Xiao Yun (JD.com); Bo Long (JD.com); Lingfei Wu (JD.COM Silicon Valley Research Center)"
- },
- {
-   "r1": "Modeling the Effect of Persuasion Factor on User Decision for Recommendation",
-   "r2": "Chang Liu (Tsinghua University)*; Chen Gao (Tsinghua University); Yuan Yuan (Tsinghua University); BAI CHEN (Meituan); Lingrui Luo (Meituan); Xiaoyi Du (Meituan); shi xinlei (meituan); Hengliang Luo (Meituan); Depeng Jin (Tsinghua University); Yong Li (Tsinghua University)"
- },
- {
-   "r1": "Tuesday, August 16, 1:30 PM-3:30 PM, Room 2 (Geo Information and Failure Detection) . Session Chair: Yanchi Liu",
-   "r2": ""
- },
- {
-   "r1": "Connecting the Hosts: Street-Level IP Geolocation with Graph Neural Networks",
-   "r2": "Zhiyuan Wang (University of Electronic Science and Technology of China); Wenxuan Zeng (University of Electronic Science and Technology of China); Fan Zhou (School of Information and Software Engineering, University of Electronic Science and Technology of China)*; Goce Trajcevski (Iowa State University); Chunjing Xiao (Henan University); Yong Wang (Zhengzhou Aiwen Tech); Kai Chen (HKUST)"
- },
- {
-   "r1": "Physics-Guided Graph Meta Learning for Predicting Water Temperature and Streamflow in Stream Networks",
-   "r2": "Shengyu Chen (University of Pittsburgh); Jacob Zwart (U.S. geological survey); Xiaowei Jia (University of Pittsburgh)*"
- },
- {
-   "r1": "DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps",
-   "r2": "Jianzhong Yang (Baidu); Xiaoqing Ye (baidu); Bin Wu (Beijing Baidu Co,. Ltd); yanlei gu (Beijing Baidu Co,. Ltd); Ziyu Wang (Baidu ); Deguo Xia (Baidu); Jizhou Huang (Baidu)*"
- },
- {
-   "r1": "NENYA: Cascade Reinforcement Learning for Cost-Aware Failure Mitigation at Microsoft 365",
-   "r2": "Lu Wang (East China Normal University)*; Pu Zhao (Microsoft Research); Chao Du (Microsoft Research); Chuan Luo (Beihang University); Mengna Su (Microsoft); Fangkai Yang (Microsoft Research); yudong Liu (https://www.microsoft.com); Qingwei Lin (Microsoft Research); Paul Wang (Microsoft 365); Yingnong Dang (Microsoft, USA); Hongyu Zhang (University of Newcastle); Saravan Rajmohan (Microsoft 365); Dongmei Zhang (Microsoft Research Asia)"
- },
- {
-   "r1": "Multi-task Hierarchical Classification for Disk Failure Prediction in Online Service Systems",
-   "r2": "yudong Liu (https://www.microsoft.com); Hailan Yang (Microsoft); Pu Zhao (Microsoft Research); Minghua Ma (Microsoft Research); Chengwu Wen (Peking University); Hongyu Zhang (University of Newcastle); Chuan Luo (Beihang University); Qingwei Lin (Microsoft Research)*; Chang Yi (Microsoft); Jiaojian Wang (M365); Chenjian Zhang (Microsoft); Paul Wang (Microsoft 365); Yingnong Dang (Microsoft, USA); Saravan Rajmohan (Microsoft 365); Dongmei Zhang (Microsoft Research Asia)"
- },
- {
-   "r1": "SESSION 3",
-   "r2": ""
- },
- {
-   "r1": "Tuesday, August 16, 4:00 PM-6:00 PM, Room 1 (Human & Interfaces) . Session Chair: Liang Wu",
-   "r2": ""
- },
- {
-   "r1": "Looper: an end-to-end ML platform for product decisions",
-   "r2": "Igor L Markov (Meta)*; Hanson Wang (Facebook); Nitya S Kasturi (Facebook); Shaun Singh (Facebook); Mia R Garrard (Facebook ); Yin Huang (Facebook); Sze Way Celeste Yuen (Facebook); Sarah Tran (Facebook); Zehui Wang (Facebook); Igor Glotov (Facebook Inc.); Tanvi Gupta (Facebook); Peng Chen (Facebook); Boshuang Huang (Facebook); Xiaowen Xie (Google); Michael Belkin (Facebook); Sal Uryasev (Facebook); Sam Howie (Facebook); Eytan Bakshy (Meta); Norm Zhou (Facebook)"
- },
- {
-   "r1": "Interpretability, Then What? Editing Machine Learning Models to Reflect Human Knowledge and Values",
-   "r2": "Zijie J. Wang (Georgia Tech)*; Alex Kale (University of Washington); Harsha Nori (Microsoft); Peter Stella (NYU Langone Health); Mark Nunnally (NYU Langone health); Duen Horng Chau (Georgia Institute of Technology); Mihaela Vorvoreanu (Microsoft); Jennifer Wortman Vaughan (Microsoft Research); Rich Caruana (Microsoft Research)"
- },
- {
-   "r1": "Promotheus: An End-to-End Machine Learning Framework for Optimizing Markdown in Online Fashion E-commerce",
-   "r2": "Eleanor  Loh (ASOS)*; Jalaj Khandelwal (ASOS); Brian Regan (ASOS); Duncan A. Little (ASOS.com)"
- },
- {
-   "r1": "Crowdsourcing with Contextual Uncertainty",
-   "r2": "Viet-An Nguyen (Facebook)*; Peibei Shi (Facebook); Jagdish Ramakrishnan (Facebook); Narjes Torabi (Facebook); Nimar S Arora (Bayesian Logic); Udi Weinsberg (Facebook); Michael Tingley (Facebook)"
- },
- {
-   "r1": "CausalMTA: Eliminating the User Confounding Bias for Causal Multi-touch Attribution",
-   "r2": "Di Yao (Institute of Computing Technology, Chinese Academy of Sciences)*; Chang Gong (Institute of Computing Technology, Chinese Academy of Sciences); Lei Zhang (Alibaba); Sheng Chen (Alibaba Group); Jingping Bi (Institute of Computing Technology, Chinese Academy of Sciences)"
- },
- {
-   "r1": "SESSION 4",
-   "r2": ""
- },
- {
-   "r1": "Wednesday, August 17, 10:00 AM-12:00 PM, Room 1 (Search & Information Retrieval) . Session Chair: Yuening Li",
-   "r2": ""
- },
- {
-   "r1": "Rax: Composable Learning-to-Rank using JAX",
-   "r2": "Rolf Jagerman (Google Research)*; Xuanhui Wang (Google); Honglei Zhuang (Google Research); Zhen Qin (Google); Michael Bendersky (Google); Marc Najork (Google)"
- },
- {
-   "r1": "Multi-Aspect Dense Retrieval",
-   "r2": "Weize Kong (Google)*; Swaraj Khadanga (Google); Cheng Li (Google); Shaleen Gupta (Google); Mingyang Zhang (Google); Wensong Xu (Google); Michael Bendersky (Google)"
- },
- {
-   "r1": "A New Generation of Perspective API: Efficient Multilingual Character-level Transformers",
-   "r2": "Alyssa Lees (Google); Vinh Q Tran (Google)*; Yi Tay (Google); Jeffrey Sorensen (Google); Jai Gupta (Google); Donald Metzler (Google); Lucy Vasserman (Google)"
- },
- {
-   "r1": "A Graph Learning Based Framework for Billion-Scale Offline User Identification",
-   "r2": "Daixin Wang (Ant Financial Services Group)*; Zujian Weng (Ant Financial Services Group ); Zhengwei Wu (Ant Financial); Zhiqiang Zhang (Ant Group); Peng Cui (Tsinghua University); Hongwei Zhao (Ant Financial Services Group ); Jun Zhou (Ant Financial)"
- },
- {
-   "r1": "RT-VeD: Real-Time VoI Detection on Edge Nodes with an Adaptive Model Selection Framework",
-   "r2": "Shuai Wang (Southeast University); Junke Lu (Southeast University)*; Baoshen Guo (Southeast University); Zheng Dong (Wayne State University)"
- },
- {
-   "r1": "Wednesday, August 17, 10:00 AM-12:00 PM, Room 2 (Health Care and Biomedical) . Session Chair: Kimis Perros",
-   "r2": ""
- },
- {
-   "r1": "DNA-Stabilized Silver Nanocluster Design via Regularized Variational Autoencoders",
-   "r2": "Fariha Moomtaheen (University at Albany SUNY); Matthew Killeen (University at Albany-SUNY); James T Oswald (SUNY Albany DMM Lab); Anna Gonzàlez-Rosell (University of California, Irvine); Peter Mastracco (University of California, Irvine); Alexander Gorovits (Regeneron Pharmaceuticals); Stacy Copp (University of California, Irvine); Petko Bogdanov (University at Albany-SUNY)*"
- },
- {
-   "r1": "What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?",
-   "r2": "Hangwei Qian (Nanyang Technological University)*; Tian Tian (Nanyang Technological University); Chunyan Miao (NTU)"
- },
- {
-   "r1": "Multiwave COVID-19 Prediction from Social Awareness using Web Search and Mobility Data",
-   "r2": "Jiawei Xue (Purdue University); Takahiro  Yabe (Massachusetts Institute of Technology); Kota Tsubouchi (Yahoo Japan Corporation); Jianzhu Ma (Institute for Artificial Intelligence, Peking University); Satish V. Ukkusuri (Purdue University)*"
- },
- {
-   "r1": "Counseling Summarization using Mental Health Knowledge Guided Utterance Filtering",
-   "r2": "ASEEM SRIVASTAVA (IIIT Delhi)*; Tharun Suresh (Indraprastha Institute of Information Technology - Delhi); Sarah P Lord (Mpathic.ai); Md Shad Akhtar (IIIT Delhi); Tanmoy Chakraborty (Indraprastha Institute of Information Technology Delhi (IIIT-D),India )"
- },
- {
-   "r1": "ChemicalX: A Deep Learning Library for Drug Pair Scoring",
-   "r2": "Benedek A Rozemberczki (AstraZeneca)*; Charles T Hoyt (Harvard Medical School); Anna Gogleva (AstraZeneca); Piotr Grabowski (AstraZeneca); Klas Karis (Harvard Medical School); Andrej Lamov (AstraZeneca); Andriy Nikolov (AstraZeneca); Sebastian Nilsson (AstraZeneca); Michael Ughetto (AstraZeneca); Yu Wang (Vanderbilt university); Tyler Derr (Vanderbilt University); Bejamin Gyori (Harvard Medical School)"
- },
- {
-   "r1": "SESSION 5",
-   "r2": ""
- },
- {
-   "r1": "Wednesday, August 17, 1:30 PM-3:30 PM, Room 1 (Question Answering & NLP Applications) . Session Chair: Sushant More",
-   "r2": ""
- },
- {
-   "r1": "BE3R: BERT based Early-Exit using Expert Routing",
-   "r2": "Sourab Mangrulkar (Amazon Development Center India Pvt. Ltd.); Ankith M S (Amazon)*; Vivek Sembium (amazon)"
- },
- {
-   "r1": "Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization",
-   "r2": "Sarah Masud (IIIT Delhi, India)*; Manjot Bedi (Northeastern University); Mohammad Aflah Khan (IIIT Delhi); Md Shad Akhtar (IIIT Delhi); Tanmoy Chakraborty (Indraprastha Institute of Information Technology Delhi (IIIT-D),India )"
- },
- {
-   "r1": "Generating Examples From CLI Usage: Can Transformers Help?",
-   "r2": "Roshanak Zilouchian Moghaddam (Microsoft)*; Spandan Garg (Microsoft); Colin Clement (Microsoft); Yevhen Mohylevskyy (Microsoft); Neel Sundaresan (Microsoft)"
- },
- {
-   "r1": "Pretraining Representations of Multi-modal Multi-query E-commerce Search",
-   "r2": "xinyi liu (Xiamen University); Wanxian Guan (alibaba group); Lianyun Li (Xiamen University); Hui Li (Xiamen University); Chen Lin (Xiamen University)*; Xubin Li (Alibaba Group); Si Chen (alibaba); Jian Xu (Alibaba Group); Hongbo Deng (Alibaba Group); Bo Zheng (Alibaba Group)"
- },
- {
-   "r1": "Improving Relevance Modeling via Heterogeneous Behavior Graph Learning in Bing Ads",
-   "r2": "Bochen Pang (Microsoft); Chaozhuo Li (Microsoft Research Asia)*; Yuming Liu (Microsoft); Jianxun Lian (MSRA); Jianan Zhao (University of Notre Dame); Hao Sun (Microsoft); Weiwei Deng (Microsoft); Xing Xie (Microsoft Research Asia); Qi Zhang (Microsoft )"
- },
- {
-   "r1": "Wednesday, August 17, 1:30 PM-3:30 PM, Room 2 (Biomedical) . Session Chair: Menglling Feng",
-   "r2": ""
- },
- {
-   "r1": "Fast Mining and Forecasting of Co-evolving Epidemiological Data Streams",
-   "r2": "Tasuku Kimura (Osaka University)*; Yasuko Matsubara (Osaka University); Koki Kawabata (Osaka University); Yasushi Sakurai (Osaka University)"
- },
- {
-   "r1": "T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling",
-   "r2": "Yiren Jian (Dartmouth College); Erik J Kruus (NEC Labs); Martin Renqiang Min (NEC Labs America-Princeton)*"
- },
- {
-   "r1": "Predicting Age-Related Macular Degeneration Progression with Contrastive Attention and Time-Aware LSTM",
-   "r2": "Changchang Yin (The Ohio State University)*; Sayoko Moroi (Ohio State University); Ping Zhang (The Ohio State University)"
- },
- {
-   "r1": "SAMCNet: Towards a Spatially Explainable AI Approach for Classifying MxIF Oncology Data",
-   "r2": "Majid Farhadloo (University of Minnesota)*; Carl Molnar (University of Minnesota); Gaoxiang Luo (University of Minnesota); Yan Li (University of Minnesota); Shashi Shekhar (University of Minnesota); Rachel L Maus (Mayo Clinic); Svetomir Markovic (Mayo Clinic); Alexey  Leontovich (Mayo Clinic); Raymond Moore (Mayo Clinic)"
- },
- {
-   "r1": "SESSION 6",
-   "r2": ""
- },
- {
-   "r1": "Thursday, August 18, 10:00 AM-12:00 AM, Room 1 (Time-Series and Anomalies) . Session Chair: Jing Ma",
-   "r2": ""
- },
- {
-   "r1": "Data-Driven Oracle Bone Rejoining: A Dataset and Practical Self-Supervised Learning Scheme",
-   "r2": "Chongsheng Zhang (Henan University); Bin Wang (Henan University); Ke Chen (South China University of  Technology)*; Ruixing Zong (Henan University); Bofeng Mo (Capital Normal University, China); Yi Men (Henan University); George Almpanidis (Henan University); Shanxiong Chen (southwest university); Xiangliang Zhang (University of Notre Dame)"
- },
- {
-   "r1": "Towards Learning Disentangled Representations for Time Series",
-   "r2": "Yuening Li (Texas A&M University)*; Zhengzhang Chen (NEC Laboratories America, Inc.); Daochen Zha (Rice University); Mengnan Du (Texas A&M University); Jingchao Ni ( NEC Laboratories America); Denghui Zhang (Rutgers University); Haifeng Chen (NEC Labs); Xia Hu (Rice University)"
- },
- {
-   "r1": "Greykite: Deploying Flexible Forecasting at Scale in LinkedIn",
-   "r2": "Albert Chen (LinkedIn)*; Reza Hosseini (LinkedIn Inc); Kaixu Yang (LinkedIn); Sayan Patra (LinkedIn); Yi Su (LinkedIn); Saad Eddin Al Orjany (LinkedIn); Sishi Tang (Linkedin); Parvez Ahammad (LinkedIn)"
- },
- {
-   "r1": "Large-Scale Acoustic Automobile Fault Detection: Diagnosing Engines Through Sound",
-   "r2": "Dennis Fedorishin (University at Buffalo)*; Justas Birgiolas (ACV Auctions); Deen D Mohan (University at Buffalo); Livio Forte (ACV Auctions); Philip Schneider (ACV Auctions); Srirangaraj Setlur (University at Buffalo, SUNY); Venu Govindaraju (University at Buffalo, SUNY)"
- },
- {
-   "r1": "Rapid Regression Detection in Software Deployments through Sequential Testing",
-   "r2": "Michael S Lindon (Netflix)*; Chris Sanden (Netflix); Vache Shirikian (Netflix)"
- },
- {
-   "r1": "SESSION 7",
-   "r2": ""
- },
- {
-   "r1": "Thursday, August 18, 1:30 PM-3:30 PM, Room 1 (Graph Learning) . Session Chair: Tyler Derr",
-   "r2": ""
- },
- {
-   "r1": "EasyFGL: Towards a Unified, Comprehensive and Efficient Platform for Federated Graph Learning",
-   "r2": "Zhen Wang (Alibaba Group)*; Weirui Kuang (Alibaba Group); Yuexiang Xie (Alibaba Group); Liuyi Yao (Alibaba Group); Yaliang Li (Alibaba Group); Bolin Ding (\"Data Analytics and Intelligence Lab, Alibaba Group\"); Jingren Zhou (Alibaba Group)"
- },
- {
-   "r1": "Company-as-Tribe: Company Financial Risk Assessment On Tribe-Style Graph With Hierarchical Graph Neural Networks",
-   "r2": "Wendong Bi (Institute of Computing Technology, University of Chinese Academy of Sciences)*; Bingbing Xu ( Institute of Computing Technology,University of Chinese Academy of Sciences); Xiaoqian Sun (Institute of Computing Technology, Chinese Academy of Sciences); Zidong Wang (Institute of Computing Technology, Chinese Academy of Sciences); Huawei Shen (Institute of Computing Technology, Chinese Academy of Sciences); Xueqi Cheng (Institute of Computing Technology, Chinese Academy of Sciences)"
- },
- {
-   "r1": "OAG-LM: Towards A Unified Backbone Language Model For Academic Knowledge Services",
-   "r2": "Xiao Liu (Tsinghua University)*; Da Yin (Tsinghua University); Jingnan Zheng (National University of Singapore); Xingjian Zhang (Tsinghua University); Peng Zhang (Tsinghua University); Hongxia Yang (Alibaba Group); Yuxiao Dong (Tsinghua University); Jie Tang (Tsinghua University)"
- },
- {
-   "r1": "GraphWorld: Fake Graphs Bring Real Insights for GNNs",
-   "r2": "John  Palowitch (Google)*; Anton Tsitsulin (Google); Brandon Mayer (Google); Bryan Perozzi (Google Research)"
- },
- {
-   "r1": "CognitionNet: A Collaborative Neural Network for Play Style Discovery in Online Skill Gaming Platform",
-   "r2": "Rukma A Talwadker (Games24x7)*; Surajit Chakrabarty (Games24x7); Aditya Pareek (Games24x7); Tridib Mukherjee (Games24x7); Deepak Saini (Games24x7)"
- },
- {
-   "r1": "ADS PAPER SHOWCASE",
-   "r2": ""
- },
- {
-   "r1": "Thursday, August 18, 10:00 AM-12:00 PM, Room 1 (Abnormal Detection, Adversarial Attacks & Robustness ) . Session Chairs: Yingtong Dou and Wentao Wang",
-   "r2": ""
- },
- {
-   "r1": "Predicting Bearings' Degradation Stages for Predictive Maintenance in the Pharmaceutical Industry",
-   "r2": "Dovile Juodelyte (IT University of Copenhagen); Veronika Cheplygina (ITU); Therese Graversen (IT University of Copenhagen); Philippe Bonnet (IT Univ Copenhagen, Denmark)*"
- },
- {
-   "r1": "RCAD:Real-time Collaborative Anomaly Detection System for Mobile Broadband Networks",
-   "r2": "Azza H. Ahmed (SimulaMet)*; Michael Riegler (Simula); Steven Hicks (SimulaMet); Ahmed Elmokashfi (Simula Met)"
- },
- {
-   "r1": "AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks",
-   "r2": "Tianyi Chen (Boston University); Charalampos Tsourakakis (Boston University and ISI Foundation)*"
- },
- {
-   "r1": "One Label on Result Can Reduce Thirty False Anomalies: Augmenting Log-based Anomaly Detection Models with Human Feedback",
-   "r2": "Tong Jia (Peking University)*; Yong Yang (Peking University); Ying Li (Peking University); Gang Huang (Peking University); Zhonghai Wu (Peking University)"
- },
- {
-   "r1": "CMMD: Cross-Metric Multi-Dimensional Root Cause Analysis",
-   "r2": "Shifu Yan (East China University of Science and Technology)*; Caihua Shan (microsoft); Wenyi YANG (Microsoft); Dongsheng Li (Microsoft Research Asia); Lili Qiu (The University of Texas at Austin); Bixiong Xu (Microsoft); Jie Tong (Microsoft); Qi Zhang (Microsoft )"
- },
- {
-   "r1": "Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series",
-   "r2": "Siho Han (Sungkyunkwan University)*; Simon S Woo (Sungkyunkwan University (SKKU))"
- },
- {
-   "r1": "User Behavior Pre-training for Online Fraud Detection",
-   "r2": "Can Liu (Alibaba Group)*; Yuncong Gao (Institute of Computing Technology, CAS); Li Sun (Alibaba Group); Jinghua Feng (Ailbaba Group ); Hao Yang (Alibaba Group); Xiang Ao (Institute of Computing Technology, CAS )"
- },
- {
-   "r1": "CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences",
-   "r2": "SHENGMING ZHANG (Rutgers University); Yanchi Liu (NEC Labs America)*; Xuchao Zhang (NEC Labs America); Wei Cheng (NEC Laboratories America); Haifeng Chen (NEC Labs); Hui Xiong (the State University of New Jersey)"
- },
- {
-   "r1": "BrainNet: Epileptic Wave Detection from SEEG with Hierarchical Graph Diffusion Learning",
-   "r2": "Junru Chen (Zhejiang University); Yang Yang (Zhejiang University)*; Tao Yu (Zhejiang University); Yingying Fan (Zhejiang University); Xiaolong Mo (Neuroechos Medical(Shenzhen) Co., Ltd); Carl Yang (Emory University)"
- },
- {
-   "r1": "Human-in-the-Loop Large-Scale Predictive Maintenance of Workstations",
-   "r2": "Alexander V Nikitin (Aalto University)*; Samuel Kaski (Aalto University and University of Manchester)"
- },
- {
-   "r1": "Thursday, August 18, 10:00 AM-12:00 PM, Room 2 (Conversation, QA and Other NLP Applications) . Session Chairs: Kaize Ding and Xian Li",
-   "r2": ""
- },
- {
-   "r1": "DocLayNet: A Large Human-annotated Dataset for Document Layout Segmentation",
-   "r2": "Birgit Pfitzmann (IBM Research); Christoph Auer (IBM Research); Michele Dolfi (IBM Research); Ahmed S Nassar (IBM Research); Peter W J Staar (IBM Research)*"
- },
- {
-   "r1": "COBART: Controlled, Optimized, Bidirectional and Auto-Regressive Transformer for Ad Headline Generation",
-   "r2": "Yashal S Kanungo (Amazon)*; Gyanendra Das (Amazon); Pooja A (Amazon); Sumit Negi (Amazon)"
- },
- {
-   "r1": "Semantic Aware Answer Sentence Selection using Self-Learning based Domain Adaptation",
-   "r2": "Rajdeep Sarkar (National University of Ireland Galway)*; Sourav Dutta (Huawei Research Centre); Haytham Assem (Huawei Research); Mihael Arcan (Insight Centre for Data Analytics); John McCrae (National University of Ireland Galway)"
- },
- {
-   "r1": "Preventing Catastrophic Forgetting in Natural Language Tasks",
-   "r2": "Sudipta Kar (Amazon)*; Giuseppe Castellucci (Amazon); Simone Filice (Amazon); Shervin Malmasi (Amazon); Oleg Rokhlenko (Amazon)"
- },
- {
-   "r1": "ILASR: Privacy-Preserving Incremental Learning for Automatic Speech Recognition at Production Scale",
-   "r2": "Gopinath Chennupati (Amazon Alexa); Milind Rao (Amazon Alexa); Gurpreet Chadha (Amazon Alexa); Aaron Eakin (Amazon Alexa); Anirudh Raju (Amazon Alexa); Gautam Tiwari (Amazon Alexa); Anit Kumar Sahu (Amazon Alexa AI)*; Ariya Rastrow (Amazon Alexa); Jasha Droppo (Amazon Alexa); Andy Oberlin (Amazon Alexa); Buddha Nandanoor (Amazon Alexa); Prahalad Venkataramanan (Amazon Alexa); Zheng Wu (Amazon Alexa); Pankaj Sitpure (Amazon Alexa)"
- },
- {
-   "r1": "Ask to know more: Counterfactual Explanations for Fake Claims",
-   "r2": "Shih-Chieh Dai (University of Texas at Austin)*; Yi-Li Hsu (Academia Sinica; National Tsing Hua University); Aiping Xiong (The Pennsylvania State University); Lun-Wei Ku (Academia Sinica)"
- },
- {
-   "r1": "GradMask: Gradient-Guided Token Masking for Textual Adversarial Example Detection",
-   "r2": "Han Cheol Moon (Nanyang Technological University)*; Shafiq Joty (Nanyang Technological University); Xu Chi (Singapore Institute of Manufacturing Technology, A-Star)"
- },
- {
-   "r1": "Duplex Conversation: Enable Human-like Interaction in Spoken Dialogue System",
-   "r2": "Ting-En Lin (Alibaba Group)*; Yuchuan Wu (Alibaba); Fei Huang (Alibaba); Luo Si (); Jian Sun (Alibaba DAMO Academy); Yongbin Li (Alibaba Group )"
- },
- {
-   "r1": "Personalized Chit-Chat Generation for Recommendation Using External Chat Corpora",
-   "r2": "Changyu Chen (Renmin University of China); Xiting Wang (Microsoft Research Asia)*; Xiaoyuan Yi (Microsoft Research Asia); Fangzhao Wu (MSRA); Xing Xie (Microsoft Research Asia); Rui Yan (Peking University)"
- },
- {
-   "r1": "Thursday, August 18, 10:00 AM-12:00 PM, Room 3 (Graph Learning & Social Network) . Session Chairs: Denghui Zhang and Neil Shah",
-   "r2": ""
- },
- {
-   "r1": "Graph Neural Network Training and Data Tiering",
-   "r2": "Seung Won Min (University of Illinois at Urbana-Champaign)*; Kun Wu (University of Illinois at Urbana-Champaign); Mert Hidayetoglu (University of Illinois at Urbana-Champaign); Jinjun Xiong (University at Buffalo); Xiang Song (Amazon); Wen-mei Hwu (NVIDIA Corporation)"
- },
- {
-   "r1": "Learning Large-scale Subsurface Simulations with a Hybrid Graph Network Simulator",
-   "r2": "Tailin Wu (Stanford)*; Qinchen Wang (Stanford); Yinan Zhang (Stanford University ); Rex Ying (Stanford University); Kaidi Cao (Stanford University); Rok Sosic (Stanford University); Ridwan Jalali (Saudi Aramco); Hassan Hamam (Saudi Aramco); Marko Maucec (Saudi Aramco); Jure Leskovec (Stanford University)"
- },
- {
-   "r1": "CS-RAD: Conditional Member Status Refinement and Ability Discovery for Social Network Applications",
-   "r2": "Yiming Ma (LinkedIn)*"
- },
- {
-   "r1": "Embedding Compression with Hashing for Efficient Representation Learning in Large-Scale Graph",
-   "r2": "Michael Yeh (Visa Research)*; Mengting Gu (Visa Research); Yan Zheng (Visa Research); Huiyuan Chen (Visa Research); Javid Ebrahimi (Visa Research); Zhongfang Zhuang (Visa Research); Junpeng Wang (Visa Research); Liang Wang (Visa Research); Wei Zhang (Visa Research)"
- },
- {
-   "r1": "TAG: Toward Accurate Social Media Content Tagging with a Concept Graph",
-   "r2": "Jiuding Yang (University of Alberta)*; Weidong Guo (Tencent); Bang Liu (University of Montreal); Yakun Yu (University of Alberta); Chaoyue Wang (Tencent); Jinwen Luo (Tencent); Linglong Kong (University of Alberta); Di Niu (University of Alberta); Zhen Wen (Tencent Technology (Shenzhen) Co., Ltd)"
- },
- {
-   "r1": "TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation",
-   "r2": "Ahmed El-Kishky (Twitter)*; Thomas Markovich (Twitter); Serim Park (Twitter); Chetan Verma (Twitter); Baekjin Kim (Twitter); Ramy Eskander (Twitter); Yury Malkov (Twitter); Frank Portman (Twitter); Sofia Samaniego (Twitter); Ying Xiao (Twitter); Aria Haghighi (Twitter)"
- },
- {
-   "r1": "DP-GAT: A Framework for Image-based Disease Progression Prediction",
-   "r2": "Alex Foo (National University of Singapore)*; Wynne Hsu (National University of Singapore); Mong Li Lee (National University of Singapore); Gavin S Tan (Singapore eye research institute)"
- },
- {
-   "r1": "Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Heterogeneous Graphs",
-   "r2": "Da Zheng (Amazon)*; Xiang Song (Amazon); Chengru Yang (Amazon); Dominique LaSalle (NVIDIA Corporation); George Karypis (Amazon)"
- },
- {
-   "r1": "Generalizable floorplanner through Corner Block List representation and Hypergraph embedding",
-   "r2": "Mohammad Amini (Huawei Noah’s Ark Lab )*; Zhanguang Zhang (Huawei); Surya Penmetsa (Huawei Noah’s Ark Lab ); Yingxue Zhang (Huawei Technologies Canada); Jianye Hao (Huawei Noah's Ark Lab); Wulong Liu (Huawei Noah's Ark Lab)"
- },
- {
-   "r1": "Multi-objective Optimization of Notifications Using Offline Reinforcement Learning",
-   "r2": "Prakruthi Prabhakar (LinkedIn Corporation); Yiping Yuan (LinkedIn)*; Guangyu Yang (LinkedIn Corporation); Wensheng Sun (LinkedIn Corporation); Ajith Muralidharan (LINKEDIN CORPORATION)"
- },
- {
-   "r1": "Graph Neural Networks for Multimodal Single-Cell Data Integration",
-   "r2": "Hongzhi Wen (Michigan State University); Jiayuan Ding (Michigan State University); Wei Jin (Michigan State University)*; Yuying Xie (Michigan State University); Jiliang Tang (Michigan State University)"
- },
- {
-   "r1": "Thursday, August 18, 10:00 AM-12:00 PM, Room 4 (Health, Business, Geo and Other Real-World Applications) . Session Chairs: Yifan Ethan Xu and Sam Han",
-   "r2": ""
- },
- {
-   "r1": "What is the Most Effective Intervention to Increase Job Retention for this Disabled Worker?",
-   "r2": "Ha Xuan Tran (University of South Australia)*; Thuc Duy Le (University of South Australia); Jiuyong Li (University of South Australia); Lin Liu (University of South Australia); Jixue Liu (University of South Australia); Yanchang Zhao (CSIRO); Tony Waters (Maxima Training Group (Aust) Ltd.)"
- },
- {
-   "r1": "HiPAL: A Deep Framework for Physician Burnout Prediction Using Activity Logs in Electronic Health Records",
-   "r2": "Hanyang Liu (Washington University in St Louis )*; Sunny S. Lou (Washington University In St Louis); Benjamin C. Warner (Washington University In St Louis); Derek R. Harford (Washington University In St Louis); Thomas Kannampallil (Washington University in St. Louis); Chenyang Lu (Washington University in St. Louis)"
- },
- {
-   "r1": "Solar: Science of Entity Loss Attribution",
-   "r2": "Anshuman Mourya (Amazon)*; Prateek Sircar (Amazon); Anirban Majumder (Amazon); Deepak Gupta (Amazon)"
- },
- {
-   "r1": "A Process-Aware Decision Support System for Business Processes",
-   "r2": "Prerna Agarwal (IBM Research)*; Buyu Gao (IBM Research - China); Siyu Huo (IBM Research); Prabhat Reddy (IBM Research); Sampath Dechu (IBM Research); Yazan Obeidi (IBM); Vinod Muthusamy (IBM Research); Vatche Isahagian (IBM Research); Sebastian Carbajales (IBM)"
- },
- {
-   "r1": "4SDrug: Symptom-based Set-to-set Small and Safe Drug Recommendation",
-   "r2": "Yanchao Tan (Zhejiang University)*; Chengjun Kong (National University of Singapore); Leisheng Yu (Emory University); Pan Li (Purdue University); Chaochao Chen (Zhejiang University); Xiaolin Zheng (Zhejiang University); Vicki Hertzberg (Emory University); Carl Yang (Emory University)"
- },
- {
-   "r1": "Multi-task Envisioning Transformer-based Autoencoder for Corporate Credit Rating Migration Early Prediction",
-   "r2": "Han Yue (Brandeis University)*; Steve Xia (Guardian Life Insurance); Hongfu Liu (Brandeis University)"
- },
- {
-   "r1": "Counterfactual Phenotyping with Censored Time-to-Events",
-   "r2": "Chirag Nagpal (Carnegie Mellon University)*; Mononito Goswami (Carnegie Mellon University); Keith A Dufendach (University of Pittsburgh Medical Center); Artur Dubrawski (CMU)"
- },
- {
-   "r1": "Characterizing Covid waves via spatio-temporal decomposition",
-   "r2": "Kevin Quinn (Boston University); Evimaria Terzi (Boston University)*; Mark Crovella (Boston University)"
- },
- {
-   "r1": "Towards reliable detection of dielectric hotspots in thermal images of the underground distribution network",
-   "r2": "François Miralles (Hydro-Québec)*; Luc Cauchon (Hydro-Québec); Marc-Andre Magnan (Hydro-Québec); François Grégoire (Hydro-Québec); Mouhamadou Makhtar Dione (Hydro-Québec); Arnaud Zinflou (Hydro-Québec)"
- },
- {
-   "r1": "SoccerCPD: Formation and Role Change-Point Detection in Soccer Matches Using Spatiotemporal Tracking Data",
-   "r2": "Hyunsung Kim (Fitogether Inc.)*; Bit Kim (Fitogether Inc.); Dongwook Chung (Fitogether Inc.); Jinsung Yoon (Fitogether Inc.); Sang-Ki Ko (Kangwon National University)"
- },
- {
-   "r1": "Vexation-Aware Active Learning for On-Menu Restaurant Dish Availability",
-   "r2": "Jean-François Kagy (Google); Flip Korn (Google, USA)*; Afshin Rostamizadeh (Google Research); Chris Welty (Google)"
- },
- {
-   "r1": "A/B Testing Intuition Busters: Common Misunderstandings in Online Controlled Experiments",
-   "r2": "Ronny Kohavi (Kohavi)*; Alex Deng (Airbnb); Lukas Vermeer (Vista)"
- },
- {
-   "r1": "ADS PAPER SHOWCASE",
-   "r2": ""
- },
- {
-   "r1": "Thursday, August 18, 1:30 pM-3:30 PM, Room 1 (Multi-Modal and Multilingual knowledge & Data Mining) . Session Chairs: Amey Barapatre and Dawei Zhou",
-   "r2": ""
- },
- {
-   "r1": "The Good, the Bad, and the Outliers: A Testing Framework for Decision Optimization Model Learning",
-   "r2": "Orit Davidovich (IBM)*; Gheorghe-Teodor Bercea (IBM Research); Segev Wasserkrug (IBM Research)"
- },
- {
-   "r1": "Design Domain Specific Neural Network via Symbolic Testing",
-   "r2": "Hui Li (Ant Financial); Xing Fu (Ant Group)*; Ruofan Wu (Ant Group); Jinyu Xu (Ant group); Kai Xiao (Ant Group); Weiqiang Wang (Ant Group); SHUAI CHEN (Ant Financial); Leilei Shi (Ant Group); Tao Xiong (Ant Group); Yuan Qi (Ant Financial Services Group)"
- },
- {
-   "r1": "Seq2Event: Learning the Language of Soccer using Transformer-based Match Event Prediction",
-   "r2": "Ian Simpson (University of Southampton)*; Ryan J Beal (University of Southampton); Duncan Locke (Rugby Football Union); Timothy J Norman (University of Southampton)"
- },
- {
-   "r1": "A Fully Differentiable Set Autoencoder",
-   "r2": "Nikita Janakarajan (ETH Zürich)*; Jannis Born (IBM Research); Matteo Manica (IBM Research)"
- },
- {
-   "r1": "Temporal Multimodal Multivariate Learning",
-   "r2": "Hyoshin Park (North Carolina A&T State University)*; Justice Darko (North Carolina A&T State University); Niharika Deshpande (North Carolina A&T State University); Venktesh Pandey (North Carolina A&T State University); Hui Su (Jet Propulsion Laboratory); Masahiro Ono (JPL); Dedrick Barkley (North Carolina A&T State University); Larkin Folsom (North Carolina A&T State University); Derek Posselt (Jet Propulsion Laboratory); Steve Chien (Jet Propulsion Laboratory, California Institute of Technology)"
- },
- {
-   "r1": "Alexa Teacher Model: Pretraining and Distilling Multi-Billion-Parameter Encoders for Natural Language Understanding Systems",
-   "r2": "Jack FitzGerald (Amazon Alexa Artificial Intelligence)*; Shankar Ananthakrishnan (Amazon); Konstantine Arkoudas (Amazon); Davide Bernardi (Amazon); Abhishek Bhagia (Amazon); Claudio Delli Bovi (Amazon); Jin Cao (Amazon Inc); Rakesh Chada (Amazon); Amit Chauhan (Amazon); Luoxin Chen (Amazon); Anurag Dwarakanath (Amazon); Satyam Dwivedi (Amazon); Turan Gojayev (Amazon); Karthik Gopalakrishnan (Amazon Alexa AI); Thomas Gueudre (Amazon); Dilek Z Hakkani-Tur (Amazon Alexa AI); Wael Hamza (Amazon); Jonathan J Hüser (Amazon Alexa); Kevin Jose (Amazon); Haidar Khan (Amazon); Beiye Liu (Amazon); Jianhua Lu (Amazon Alexa AI); Alessandro Manzotti (Amazon); Pradeep Natarajan (Amazon.com Inc.); Karolina Owczarzak (Amazon); Gokmen Oz (Amazon); Enrico Palumbo (Amazon); Charith Peris (Amazon); Chandana Prakash (Amazon); Stephen Rawls (Amazon); Andy Rosenbaum (Amazon); Anjali Shenoy (Amazon); Saleh Soltan (Amazon); Mukund Sridhar (Amazon); Lizhen Tan (Amazon); Fabian Triefenbach (Amazon); Pan Wei (Amazon); Haiyang Yu (Amazon); Shuai Zheng (Amazon Web Services); Gokhan Tur ( Amazon Alexa AI); Prem Natarajan (Amazon.com Inc.)"
- },
- {
-   "r1": "TaxoTrans: Taxonomy-Guided Entity Translation",
-   "r2": "Zhuliu Li (LinkedIn)*, Yiming Wang (LinkedIn), Xiao Yan (LinkedIn), Weizhi Meng (LinkedIn), Yanen Li (LinkedIn), Jaewon Yang (LinkedIn)"
- },
- {
-   "r1": "Perioperative Predictions with Interpretable Latent Representation",
-   "r2": "Bing Xue (Washington University in St. Louis)*; York Jiao (Washington University in Saint Louis); Thomas Kannampallil (Washington University in St. Louis); Bradley A Fritz (Washington University in St. Louis); Christopher King (Washington University in St. Louis); Joanna Abraham (Washington University in St. Louis); Michael Avidan (Washington University in St. Louis); Chenyang Lu (Washington University in St. Louis)"
- },
- {
-   "r1": "Precise Mobility Intervention for Epidemic Control Using Unobservable Information via Deep Reinforcement Learning",
-   "r2": "Tao Feng (Tsinghua University)*; Tong Xia (University of Cambridge); Xiaochen Fan (Tsinghua University); Huandong Wang (Tsinghua University); Zefang Zong (Tsinghua University); Yong Li (Tsinghua University)"
- },
- {
-   "r1": "Thursday, August 18, 1:30 pM-3:30 PM, Room 2 (Recommendation & Contextualization) . Session Chairs: Charles Liu and Menglling Feng",
-   "r2": ""
- },
- {
-   "r1": "Surrogate for Long-Term User Experience in Recommender Systems",
-   "r2": "Yuyan Wang (Google Brain)*; Mohit Sharma (University of Minnesota); Sriraj Badam (Google); Can Xu (Google); Qian Sun (Google); Lee Richardson (Google); Lisa Chung (Google); Ed H. Chi (Google); Minmin Chen (Google)"
- },
- {
-   "r1": "Reinforcement Learning in the Wild: Scalable RL Dispatching Algorithm Deployed in Ridehailing Marketplace",
-   "r2": "Soheil Sadeghi Eshkevari (DiDi Labs)*; Xiaocheng Tang (DiDi AI Labs); Zhiwei Qin (DiDi AI Labs); Jinhan Mei (DiDi Global); Cheng Zhang (Didi Chuxing); Qianying Meng (DiDi Global); Jia Xu (DiDi Global)"
- },
- {
-   "r1": "Generalized Deep Mixed Models",
-   "r2": "Jun Shi (LinkedIn)*; Chengming Jiang (LinkedIn Corporation); Aman Gupta (LinkedIn); Mingzhou Zhou (LinkedIn Corporation); Yunbo Ouyang (LinkedIn Corporation); Charles Xiao (LinkedIn ); Qingquan Song (LinkedIn); Alice Wu (LinkedIn Corporation); Haichao Wei (LinkedIn Corporation); Huiji Gao (LinkedIn)"
- },
- {
-   "r1": "Automatically Discovering User Consumption Intents in Meituan",
-   "r2": "Yinfeng Li (Tsinghua University)*; Chen Gao (Tsinghua University); Xiaoyi Du (Meituan); HUAZHOU WEI (Meituan); Hengliang Luo (Meituan); Depeng Jin (Tsinghua University); Yong Li (Tsinghua University)"
- },
- {
-   "r1": "Automatic Generation of Product-Image Sequence in E-commerce",
-   "r2": "Xiaochuan Fan (JD.com)*; Chi Zhang (JD.com); Yong Yang (JD); Yue Shang (JD.com); xueying zhang (jd.com silicon valley research center); Zhen He (JD); Xiao Yun (JD.com); Bo Long (JD.com); Lingfei Wu (JD.COM Silicon Valley Research Center)"
- },
- {
-   "r1": "PinnerFormer: Sequence Modeling for User Representation at Pinterest",
-   "r2": "Nikil Pancha (Pinterest, Inc.)*; Andrew H Zhai (Pinterest, Inc.); Jure Leskovec (Stanford University); Charles Rosenberg (Pinterest)"
- },
- {
-   "r1": "ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest",
-   "r2": "Paul D Baltescu (Pinterest)*; Paul Baltescu (Pinterest); Haoyu Chen (Pinterest); Nikil Pancha (Pinterest, Inc.); Andrew H Zhai (Pinterest, Inc.); Jure Leskovec (Stanford University); Charles Rosenberg (Pinterest)"
- },
- {
-   "r1": "ASPIRE: Air Shipping Recommendation for E-commerce Products via Causal Inference Framework",
-   "r2": "Abhirup Mondal (Amazon)*; Anirban Majumder (Amazon); Vineet Chaoji (Amazon)"
- },
- {
-   "r1": "Recommendation in offline stores: A gamification approach for learning the spatiotemporal representation of indoor shopping",
-   "r2": "JongKyung Shin (Ulsan National Institute of Science and Technology); Changhun Lee (UNIST); Chiehyeon Lim (Ulsan National Institute of Science and Technology)*; Yunmo Shin (Retailtech co., Ltd.); Junseok Lim (Retailtech co., Ltd.)"
- },
- {
-   "r1": "ROI-Constrained Bidding via Curriculum-Guided Bayesian Reinforcement Learning",
-   "r2": "Haozhe Wang (ShanghaiTech University)*; Chao Du (Alibaba Group); Panyan Fang (Alibaba Group); Shuo Yuan (Alibaba Group); Xuming He (ShanghaiTech University); Liang Wang (Alibaba group); Bo Zheng (Alibaba Group)"
- },
- {
-   "r1": "NxtPost: User to Post Recommendations in Facebook Groups",
-   "r2": "Fedor Borisyuk (Facebook)*; Kaushik Rangadurai (Facebook); Yiqun Liu (Facebook); Siddarth Malreddy (Facebook); Xiaoyi Liu (Facebook)"
- },
- {
-   "r1": "Thursday, August 18, 1:30 pM-3:30 PM, Room 3 (Scalable, Distributed Systems & Trustable AI) . Session Chairs: Tianxiang Zhao and Dongkuan Xu",
-   "r2": ""
- },
- {
-   "r1": "Collborative Intelligence Orchestration: Inconsistency-Based Fusion of Semi-Supervised Learning and Active Learning",
-   "r2": "Jiannan Guo (Zhejiang University)*; Yangyang Kang (Alibaba Group); Yu Duan (Alibaba Group); Xiaozhong Liu (Indiana University Bloomington); Siliang Tang (Zhejiang University); Wenqiao Zhang (Zhejiang University); Kun Kuang (Zhejiang University); Changlong Sun (Alibaba Group); Fei Wu (Zhejiang University, China)"
- },
- {
-   "r1": "AutoShard: Automated Embedding Table Sharding for Recommender Systems",
-   "r2": "Daochen Zha (Rice University)*; Louis Feng (Meta); Bhargav Bhushanam (Facebook); Dhruv Choudhary (Facebook Inc.); Jade Nie (Meta); Yuandong Tian (Facebook); Jay Chae (Meta); Yinbin Ma (Meta Platforms, Inc.); Arun Kejariwal (Facebook Inc.); Xia Hu (Rice University)"
- },
- {
-   "r1": "Profiling Deep Learning Workloads at Scale using Amazon SageMaker",
-   "r2": "Nathalie Rauschmayr (Amazon)*; Sami Kama (Amazon); Muhyun Kim (AWS); Miyoung Choi (Amazon); Krishnaram Kenthapadi (Fiddler AI)"
- },
- {
-   "r1": "Fed-LTD: Towards Cross-Platform Ride Hailing via Federated Learning to Dispatch",
-   "r2": "Yansheng Wang (Beihang University); Yongxin Tong (Beihang University)*; Zimu Zhou (Singapore Management University); Ziyao Ren (Beihang University); Yi Xu (Beihang University); Guobin Wu (Didichuxing Inc.); Weifeng Lv (Beihang University)"
- },
- {
-   "r1": "Optimizing Long-Term Efficiency and Fairness in Ride-Hailing via Joint Order Dispatching and Driver Repositioning",
-   "r2": "Jiahui Sun (Shanghai Jiao Tong University); Haiming Jin (Shanghai Jiao Tong University)*; Zhaoxing Yang (Shanghai Jiao Tong University); Lu Su (Purdue University); Xinbing Wang (Shanghai Jiao Tong University)"
- },
- {
-   "r1": "A Meta Reinforcement Learning Approach for Predictive Autoscaling In the Cloud",
-   "r2": "Siqiao Xue (Ant Group)*; Chao Qu (Ant Financial Services Group); Xiaoming Shi (Ant Group); Cong Liao (Ant Group); Shiyi Zhu (Ant Group); Xiaoyu Tan (Ant Group); Lin-Tao Ma (Ant Group ); Shiyu Wang (antgroup); Shijun Wang (Ant Group); hu yun (ant group); Lei Lei (Ant Group); YangFei Zheng (antgroup); Jianguo Li (Ant Group); James Y Zhang (Ant Group)"
- },
- {
-   "r1": "Sparx: Distributed Outlier Detection at Scale",
-   "r2": "Sean Zhang (Carnegie Mellon University)*; Varun Ursekar (Carnegie Mellon University); Leman Akoglu (CMU)"
- },
- {
-   "r1": "Task-optimized User Clustering based on Mobile App Usage for Cold-start Recommendations",
-   "r2": "Bulou Liu (Tsinghua University)*; Bing Bai (Tencent); Weibang Xie (Tencent); Yiwen Guo (Independent Researcher); Hao Chen (UC Davis)"
- },
- {
-   "r1": "Real-Time Rideshare Driver Supply Values using Online Reinforcement Learning",
-   "r2": "Benjamin Han (Lyft)*; Hyungjun Lee (Snapchat); Sebastien Martin (Kellogg School of Management)"
- },
- {
-   "r1": "Amazon SageMaker Model Monitor: A System for Real-Time Insights into Deployed Machine Learning Models",
-   "r2": "David Nigenda (Amazon Web Services)*; Zohar Karnin (Amazon); Muhammad Bilal Zafar (Amazon Web Services); Raghu Ramesha (Amazon Web Services); Alan Tan (Amazon Web Services); Michele Donini (Amazon); Krishnaram Kenthapadi (Fiddler AI)"
- },
- {
-   "r1": "Interpretable Personalized Experimentation",
-   "r2": "Han Wu (Stanford University); Sarah Tan (Facebook)*; WEIWEI LI (Meta); Mia R Garrard (Facebook ); Adam Obeng (Meta); Drew Dimmery (Facebook); Shaun Singh (Facebook); Hanson Wang (Facebook); Daniel Jiang (Facebook); Eytan Bakshy (Meta)"
- },
- {
-   "r1": "CERAM: Coverage Expansion for Recommendations by Associating Discarded Models",
-   "r2": "Yoshiki Matsune (Ritsumeikan University)*; Kota Tsubouchi (Yahoo Japan Corporation); Nobuhiko Nishio (Ritsumeikan University)"
- },
- {
-   "r1": "Thursday, August 18, 1:30 pM-3:30 PM, Room 4 (Search & Information Retrieval) . Session Chairs: Jiyun Luo and Pan Du",
-   "r2": ""
- },
- {
-   "r1": "Learning Supplementary NLP features for CTR Prediction in Sponsored Search",
-   "r2": "Dong Wang (Microsoft)*; Shaoguang Yan (Microsoft); Yunqing Xia (Microsoft); Kave Salamatian (University of Savoie); Weiwei Deng (Microsoft); Qi Zhang (Microsoft )"
- },
- {
-   "r1": "Type Linking for Query Understanding and Semantic Search",
-   "r2": "Georgios Stoilos (Huawei Technologies UK)*; Nikos Papasarantopoulos (Huawei Technologies); Pavlos Vougiouklis (Huawei Technologies); Patrik Bansky (Huawei Technologies)"
- },
- {
-   "r1": "Amazon StyleSnap: A Visual Search System for Fashion and Home",
-   "r2": "Ming Du (Amazon)*; Arnau Ramisa (Amazon); Amit Kumar K C (Amazon); Sampath Chanda (Amazon); Mengjiao Wang (Amazon); Neelakandan Rajesh (Amazon); Shasha Li (Amazon); Yingchuan Hu (Amazon); Tao Zhou (Amazon Inc.); Nagashri Lakshminarayana (Amazon); Son Tran (Amazon A9); Douglas R Gray (Amazon)"
- },
- {
-   "r1": "Scale Calibration of Deep Ranking Models",
-   "r2": "Le Yan (Google)*; Zhen Qin (Google); Xuanhui Wang (Google); Michael Bendersky (Google); Marc Najork (Google)"
- },
- {
-   "r1": "Dynamic Graph Segmentation For Deep Graph Neural Networks",
-   "r2": "Johan Zhi Kang Kok (Grab)*; Suwei Yang (National University of Singapore); Suriya Venkatesan (Grab); Sienyi Tan (Grab); Feng Cheng (Grab); Bingsheng He (National University of Singapore)"
- },
- {
-   "r1": "CommerceMM: Large-Scale Commerce MultiModal Representation Learning with Omni Retrieval",
-   "r2": "Licheng Yu (Facebook)*; Jun Chen (Facebook); Animesh Sinha (Facebook AI); Mengjiao Wang (Facebook); Hugo Chen (Facebook); Tamara Berg (Facebook AI Research); Ning Zhang (Facebook)"
- },
- {
-   "r1": "Structure-Aware Multilingual Language Model: Leveraging Graph Structures for Search Relevance in E-commerce",
-   "r2": "Nurendra Choudhary (Virginia Tech)*; Nikhil Rao (Amazon); Karthik Subbian (Amazon); Chandan K Reddy (Virginia Tech)"
- },
- {
-   "r1": "Semantic Retrieval at Walmart",
-   "r2": "Alessandro Magnani ()*; Feng Liu (Walmart); Suthee chaidaroon (walmart); Praveen Reddy Suram (Walmart); Sachin Yadav (Walmart); Ajit Puthenputhussery (Walmart Global Tech); Tony Lee (Walmart); Sijie Chen (Walmart); Ciya Liao (Walmart Global Technology); Min Xie (Instacart); Anirudh Kashi (Usc)"
- },
- {
-   "r1": "Septor: Seismic Depth Estimation using Hierarchical Neural Network",
-   "r2": "Mohammad Ashraf Siddiquee (University of New Mexico)*; Vinicius Souza (Pontificia Universidade Catolica do Parana (PUCR)); Abdullah Mueen (University of New Mexico)"
- },
- {
-   "r1": "Learning Backward Compatible Embeddings",
-   "r2": "Weihua Hu (Stanford University)*; Rajas Bansal (Stanford University); Kaidi Cao (Stanford University); Nikhil Rao (Amazon); Karthik Subbian (Amazon); Jure Leskovec (Stanford University)"
- },
- {
-   "r1": "Adaptive Multi-view Rule Discovery for Weakly-Supervised Compatible Products Prediction",
-   "r2": "Rongzhi Zhang (Georgia Institution of Technology)*; Rebecca West (The Home Depot); Xiquan Cui (Homedepot); Chao Zhang (Georgia Institute of Technology)"
- },
- {
-   "r1": "All Other Accepted Papers",
-   "r2": ""
- },
- {
-   "r1": "Generative Adversarial Networks Enhanced Pre-training for Insufficient Electronic Health Records Modeling",
-   "r2": "Houxing Ren (Beihang University); Jingyuan Wang (Beihang University)*; Wayne Xin Zhao (Renmin University of China)"
- },
- {
-   "r1": "POLARIS: A Geographic Pre-trained Model and its Applications in Baidu Maps",
-   "r2": "Jizhou Huang (Baidu)*; Haifeng Wang (Baidu); Yibo Sun (Baidu); yunsheng shi (baidu); Zhengjie Huang (Baidu); An Zhuo (Baidu); Shikun Feng (Baidu)"
- },
- {
-   "r1": "G2NET: A General Geography-Aware Representation Network for Hotel Search Ranking",
-   "r2": "Jia Xu (Guangxi University)*; Fei Xiong (Alibaba Group); Zulong Chen (Alibaba); Mingyuan Tao (Alibaba Group); Liangyue Li (Alibaba Group); Quan Lu (Alibaba Group)"
- },
- {
-   "r1": "Service Time Prediction for Delivery Tasks via Spatial Meta-Learning",
-   "r2": "Sijie Ruan (Xidian University)*; Cheng Long (Nanyang Technological University); Zhipeng Ma (Southwest Jiaotong University); Jie Bao (JD Finance); Tianfu He (Harbin Institute of Technology); Ruiyuan Li (Chongqing University); Yiheng Chen (JD Logistics); Shengnan Wu (JD Logistics); Yu Zheng (JD)"
- },
- {
-   "r1": "Precision CityShield Against Hazardous Chemicals Threats via Location Mining and Self-supervised Learning",
-   "r2": "Jiahao Ji (Beihang University)*; Jingyuan Wang (Beihang University); Junjie Wu (Beihang University); Boyang Han (JD Intelligent Cities Research); Junbo Zhang (JD Intelligent Cities Research); Yu Zheng (JD)"
- },
- {
-   "r1": "DuIVA: An Intelligent Voice Assistant for Hands-free and Eyes-free Voice Interaction with Baidu Maps App",
-   "r2": "Jizhou Huang (Baidu)*; Haifeng Wang (Baidu); Shiqiang Ding (BAIDU); Shaolei Wang (Baidu)"
- },
- {
-   "r1": "Downscaling Earth System Models with Deep Learning",
-   "r2": "Sungwon Park (KAIST)*; Tung Duong Mai (KAIST); Karandeep Singh (Institute for Basic Science); Arjun Babu Nellikkattil (IBS Center for Climate Physics, Pusan National University); Elke CE Zeller (IBS Center for Climate Physics); Meeyoung Cha (Institute for Basic Science)"
- },
- {
-   "r1": "Applying Deep Learning Based Probabilistic Forecasting to Food Preparation Time for On-Demand Delivery Service",
-   "r2": "Chengliang Gao (Meituan)*; Fan Zhang (Meituan); Yue Zhou (Meituan); Ronggen Feng (Meituan); Qiang Ru (Meituan); Kaigui Bian (Peking University); Renqing He (Meituan-Dianping Group); Zhizhao Sun (Meituan-Dianping Group)"
- },
- {
-   "r1": "RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning",
-   "r2": "Zefang Zong (Tsinghua University)*; Hansen Wang (Tsinghua University); wang jingwei (Tsinghua); Meng Zheng (Hitachi); Yong Li (Tsinghua University)"
- },
- {
-   "r1": "Felicitas: Federated Learning in Distributed Cross Device Collaborative Frameworks",
-   "r2": "QI ZHANG (USTC); tiancheng wu (huawei)*; Zhou Peichen (Huawei Technologies Co., Ltd.); shan zhou (Huawei Technologies Co. Ltd); xiulang jin (huawei); Yuan Yang (Huawei)"
- },
- {
-   "r1": "Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems",
-   "r2": "Qihua Zhang (Tencent); Junning Liu (Tencent Inc.); Yuzhuo Dai (Tencent); Kunlun Zheng (Tencent); Fan Huang (Tencent)*; Yifan Yuan (Tencent); Xianfeng Tan (Tencent); Yiyan Qi (Tencent)"
- },
- {
-   "r1": "Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition",
-   "r2": "Mingjie Li (Tsinghua University)*; Zeyan Li (Tsinghua University); Kanglin Yin (BizSeer); Xiaohui Nie (BizSeer); Wenchi Zhang (BizSeer); Kaixin Sui (Bizseer Technology); Dan Pei (Tsinghua University)"
- },
- {
-   "r1": "Three-Stage Root Cause Analysis for Logistics Time Efficiency via Explainable Machine Learning",
-   "r2": "Shiqi Hao (JD Logistics); Yang Liu (JD Logistics)*; Yu Wang (JD Logistics); Yuan Wang (JD Logistics); Wenming Zhe (JD Logistics)"
- },
- {
-   "r1": "CONFLUX: A Request-level Fusion Framework for Impression Allocation via Cascade Distillation",
-   "r2": "XiaoYu Wang (University of Science and Technology of China); bin tan (tencent); Guo Yonghui (tencent); Tao Yang (Tencent); Dongbo Huang (Tencent); Lan Xu (Tencent); Nikolaos Freris (University of Science and Technology of China); Hao Zhou (University of Science and Technology of China); Xiangyang Li (University of Science and Technology of China)*"
- },
- {
-   "r1": "Arbitrary Distribution Modeling with Censorship in Real-Time Bidding Advertising",
-   "r2": "Xu Li (FreeWheel)*; Michelle Zhang (Northwestern University)"
- },
- {
-   "r1": "Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival",
-   "r2": "Zebin Chen (South China University of Technology); Xiaolin Xiao (South China University of Technology)*; Yuejiao Gong (South China University of Technology); Jun Fang (Didi Chuxing); Nan Ma (Didi Chuxing); Hua Chai (Didi Chuxing); Zhiguang Cao (Singapore Institute of Manufacturing Technology)"
- },
- {
-   "r1": "Retrieval-Based Gradient Boosting Decision Trees for Disease Risk Assessment",
-   "r2": "Handong Ma (Shanghai Jiaotong University); Jiahang Cao (Shanghai Jiao Tong University)*; Yuchen Fang (Shanghai Jiao Tong University); Weinan Zhang (Shanghai Jiao Tong University); Yong Yu (Shanghai Jiao Tong University); Wenbo Sheng (Shanghai Synyi Medical Technology Co. Ltd); Shaodian Zhang (Shanghai Synyi Medical Technology Co. Ltd)"
- },
- {
-   "r1": "EXTR: Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search",
-   "r2": "Chi Chen (Alibaba)*; Hui Chen (Tsinghua University); Kangzhi Zhao (Alibaba Group); Junsheng Zhou (Alibaba Group); Li He (Alibaba Group); Hongbo Deng (Alibaba Group); Jian Xu (Alibaba Group); Bo Zheng (Alibaba Group); Yong Zhang (\" Tsinghua University, China\"); Chunxiao Xing (Tsinghua University)"
- },
- {
-   "r1": "Lion: A GPU-Accelerated Online Serving System for Web-Scale Recommendation at Baidu",
-   "r2": "Hao Liu (HKUST)*; Qian Gao (Baidu, Inc); Xiaochao Liao (Baidu Inc.); Guangxing Chen (Baidu, Inc.); Hao Xiong (Baidu, Inc.); Silin Ren (Baidu Inc.); Guobao Yang (Baidu, Inc.); Zhiwei Zha (Baidu, Inc.)"
- },
- {
-   "r1": "EGM: Enhanced Graph-based Model for Large-scale Video Advertisement Search",
-   "r2": "Tan Yu (Baidu Research)*; Jie Liu (BaiDu); yi yang (Baidu); YI LI (Baidu); Hongliang Fei (Baidu Research); Ping Li (Baidu Research)"
- },
- {
-   "r1": "Mixture of Virtual-Kernel Experts for Multi-Objective User Profile Modeling",
-   "r2": "Zhenhui Xu (Tencent Inc.)*; Meng Zhao (Tencent Inc.); Liqun Liu (Tencent Inc.); Lei Xiao (Tencent); Xiaopeng Zhang (Tencent); Bifeng Zhang (Tencent Inc.)"
- },
- {
-   "r1": "A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling",
-   "r2": "Junyao Ye (Harbin Institute of Technology, Shenzhen); Jingyong Su (Harbin Institute of Technology, Shenzhen)*; Yilong Cao (Maimemo, Inc.)"
- },
- {
-   "r1": "A Logic Aware Neural Generation Method for Explainable Data-to-text",
-   "r2": "Xiexiong Lin (ant-fintech)*; Huaisong Li (Ant Group); Tao Huang (Antgroup); Feng Wang (ant-fintech); Taifeng Wang (Ant Group); Tianyi Zhang (Alipay (Hangzhou) Information & Technology Co., Ltd); Fuzhen Zhuang (Institute of Artificial Intelligence, Beihang University); Linlin Chao (Ant Financial Services Group)"
- },
- {
-   "r1": "AutoFAS: Automatic Feature and Architecture Selection for Pre-Ranking System",
-   "r2": "Xiang Li (Meituan)*; Xiaojiang Zhou (Meituan); Yao Xiao (Meituan); Peihao Huang (Meituan); Dayao Chen (Meituan); Sheng Chen (Meituan); Yunsen Xian (Meituan)"
- },
- {
-   "r1": "Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction",
-   "r2": "Haomin Wen (Beijing Jiaotong University)*; Youfang Lin (Beijing Jiaotong University); Xiaowei Mao (Beijing Jiaotong University); Fan Wu (Cainiao Network); Yiji Zhao (Beijing JiaoTong University); Haochen Wang (BeijingJiaotong University); Jianbin Zheng (Cainiao Network); lixia wu (Cainiao Ltd. ); Haoyuan Hu (Cainiao Network); Huaiyu Wan (Beijing Jiaotong University)"
- },
- {
-   "r1": "Packet Representation Learning for Traffic Classification",
-   "r2": "Xuying Meng (Chinese Academy of Sciences)*; Yequan Wang (ICT, CAS); Runxin Ma (Chinese Academy of Sciences); Haitong Luo (Chinese Academy of Sciences); Xiang Li (Alibaba Group); Yujun Zhang (Chinese Academy of Sciences)"
- },
- {
-   "r1": "No One Left Behind: Inclusive Federated Learning over Heterogeneous Devices",
-   "r2": "Ruixuan Liu (Renmin University of China)*; Fangzhao Wu (MSRA); Chuhan Wu (Tsinghua University); Yanlin Wang (Microsoft Research Asia); Lingjuan Lyu (Sony AI); Hong Chen (\" Renmin University, China\"); Xing Xie (Microsoft Research Asia)"
- },
- {
-   "r1": "ReprBERT: Distilling BERT to an Efficient Representation-Based Relevance Model for E-Commerce",
-   "r2": "Shaowei Yao (Alibaba Group)*; Jiwei Tan (Alibaba Group); Xi Chen (Alibaba Group); Juhao Zhang (Alibaba); Xiaoyi Zeng (Alibaba Group); Keping Yang (Alibaba)"
- },
- {
-   "r1": "Self-Supervised Augmentation and Generation for Multi-lingual Text Advertisements at Bing",
-   "r2": "Xiaoyu Kou (Microsoft)*; Tianqi Zhao (Microsoft); Fan Zhang (Microsoft); Song Li (Microsoft); Qi Zhang (Microsoft)"
- },
- {
-   "r1": "Analyzing Online Transaction Networks with Network Motifs",
-   "r2": "Jiawei Jiang (Wuhan University)*; Yusong Hu (Tencent Inc.); Xiaosen Li (Tencent Inc.); Wen Ouyang (Tencent Inc.); Zhitao Wang ( Tencent Inc.); Fangcheng Fu (Peking University); Bin Cui (Peking University)"
- },
- {
-   "r1": "Combo-Fashion: Fashion Clothes Matching CTR Prediction with Item History",
-   "r2": "Chenxu Zhu (Shanghai Jiao Tong University)*; Peng Du (Alibaba); Weinan Zhang (Shanghai Jiao Tong University); Yong Yu (Shanghai Jiao Tong University); Yang Cao (Vision & Beauty Team, Alibaba Group)"
- },
- {
-   "r1": "User-tag Profile Modeling in Recommendation System via Contrast Weighted Tag Masking",
-   "r2": "Chenxu Zhu (Shanghai Jiao Tong University)*; Peng Du (Alibaba); Xianghui Zhu (SJTU); Weinan Zhang (Shanghai Jiao Tong University); Yong Yu (Shanghai Jiao Tong University); Yang Cao (Vision & Beauty Team, Alibaba Group)"
- },
- {
-   "r1": "EdgeWatch: Collaborative Investigation of Data Integrity at the Edge based on Blockchain",
-   "r2": "BO LI (Swinburne University of Technology)*; Qiang He (Swinburne University of Technology); Liang Yuan (Swinburne University of Technology); Feifei Chen (Deakin University); Lingjuan Lyu (Sony AI); Yun Yang (Swinburne University of Technology)"
- },
- {
-   "r1": "Unsupervised Learning Style Classification for Learning Path Generation in Online Education Platforms",
-   "r2": "Zhicheng He (Huawei Noah's Ark Lab)*; Wei Xia (Huawei Noah's Ark Lab); KAI DONG (huawei); Huifeng Guo (Huawei Noah's Ark Lab); Ruiming Tang (Huawei Noah's Ark Lab); dingyin xia (huawei); Rui Zhang (ruizhang.info)"
- },
- {
-   "r1": "COSSUM: Towards Conversation-Oriented StructuredSummarization for Automatic Medical Insurance Assessment",
-   "r2": "Sheng Xu (Peking University)*; Xiaojun Wan (Peking University); Sen Hu (Ant Group); Mengdi Zhou (Ant Group); Teng Xu (Ant Group); Hongbin Wang (Ant Group); Haitao Mi (Ant Group)"
- },
- {
-   "r1": "FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling",
-   "r2": "Chuhan Wu (Tsinghua University)*; Fangzhao Wu (MSRA); Tao Qi (Tsinghua University); Yongfeng Huang (Tsinghua University); Xing Xie (Microsoft Research Asia)"
- },
- {
-   "r1": "Training Large-Scale News Recommenders with Pretrained Language Models in the Loop",
-   "r2": "Shitao Xiao (BUPT)*; Zheng Liu (MSRA); Yingxia Shao (BUPT); Tao Di (microsoft); Fangzhao Wu (Microsoft Research Asia); Bhuvan Middha (Microsoft); Xing Xie (Microsoft Research Asia)"
- },
- {
-   "r1": "Graph Attention Multi-Layer Perceptron",
-   "r2": "Wentao Zhang (Peking University)*; Ziqi Yin (BeiJing Institute of Technology); Zeang Sheng (Peking University); Yang Li (Peking University); wen ouyang (tencent); Xiaosen Li (Tencent Inc.); Yangyu Tao (Tencent); Zhi Yang (Peking University); Bin Cui (Peking University)"
- },
- {
-   "r1": "Intelligent Request Strategy Design in Recommender System",
-   "r2": "Xufeng Qian (Alibaba Group)*; Yue Xu (Alibaba Group); Fuyu Lv (Alibaba Group); Shengyu Zhang (Zhejiang University); Ziwen Jiang (Alibaba); Qingwen Liu (Alibaba Group ); Xiaoyi Zeng (Alibaba Group); Tat-Seng Chua (National university of Singapore); Fei Wu (Zhejiang University, China)"
- },
- {
-   "r1": "Medical Symptom Detection in Intelligent Pre-Consultation using Bi-directional Hard-Negative Noise Contrastive Estimation",
-   "r2": "Shiwei Zhang (Tencent Jarvis Lab)*; JiChao Sun (Tencent Jarvis Lab); Yu Huang (Tencent Jarvis Lab); Xueqi Ding (Tencent); Yefeng Zheng (Tencent)"
- },
- {
-   "r1": "Contrastive Cross-domain Recommendation in Matching",
-   "r2": "Ruobing Xie (WeChat Search Application Department, Tencent)*; Qi Liu (Tencent); Liangdong Wang (WeChat, Tencent); Shukai Liu (Tencent); Bo Zhang (WeChat Search Application Department, Tencent); Leyu Lin (WeChat Search Application Department, Tencent)"
- },
- {
-   "r1": "Feature-aware Diversified Re-ranking with Disentangled Representations for Relevant Recommendation",
-   "r2": "Zihan Lin (Renmin University of China)*; Hui Wang (Renmin University of China); Jingshu Mao (Kuaishou Inc); Wayne Xin Zhao (Renmin University of China); Cheng Wang (Kuaishou Inc); Peng Jiang (Kuaishou Inc.); Ji-Rong Wen (Renmin University of China)"
- },
- {
-   "r1": "JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding",
-   "r2": "Wayne Xin Zhao (Renmin University of China); Kun Zhou (Renmin University of China)*; Zheng Gong (Renming University of China); Beichen Zhang (Renmin University of China); Yuanhang Zhou (Renmin University of China); Jing Sha (iFLYTEK Research); Zhigang Chen (iFLYTEK CO., LTD); Shijin WANG (State Key Laboratory of Cognitive Intelligence); Cong Liu (iFLYTEK Research); Ji-Rong Wen (Renmin University of China)"
- },
- {
-   "r1": "Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space",
-   "r2": "Yu Sha (Xidian University, Frankfurt Institute for Advanced Studies)*; Faber Johannes (Frankfurt Institute for Advanced Studies); Shuiping Gou (Xidian University); Bo Liu (Xidian University); Wei Li (Frankfurt Institute for Advanced Studies); Stefan Schramm (Frankfurt Institute for Advanced Studies); Horst Stoecker (Frankfurt Institute for Advanced Studies); Thomas Steckenreiter (SAMSON AG); Domagoj Vnucec (SAMSON AG); Nadine Wetzstein (SAMSON AG); Andreas Widl (SAMSON AG); Kai Zhou (Frankfurt Institute for Advanced Studies)"
- },
- {
-   "r1": "A Tuning-free Framework for Exploiting Pre-trained Language Models in Knowledge Grounded Dialogue Generation",
-   "r2": "Jifan Yu (Tsinghua University)*; Xiaohan Zhang (Tsinghua University); 逸凡 徐 (徐逸凡); Xuanyu Lei (Tsinghua University); Xinyu Guan (biendata); Jing Zhang (Renmin University of China); Lei Hou (Tsinghua University); Juanzi Li (Tsinghua University); Jie Tang (Tsinghua University)"
- },
- {
-   "r1": "Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning",
-   "r2": "Zhuoning Guo (Harbin Institute of Technology)*; Hao Liu (HKUST); Le Zhang (University of Science and Technology of China); Qi Zhang (University of Science and Technology of China); Hengshu Zhu (Baidu Talent Intelligence Center, Baidu Inc.); Hui Xiong (Hong Kong University of Science and Tech)"
- },
- {
-   "r1": "Few-shot Learning for Trajectory-based Mobile Game Cheating Detection",
-   "r2": "Yueyang Su (Institute of Computing Technology, Chinese Academ); Di Yao (Institute of Computing Technology, Chinese Academy of Sciences); Xiaokai Chu (Institute of Computing Technology, Chinese Academy of Sciences, University of Chinese Academy of Sciences); Wenbin Li (Institute of Computing Technology, Chinese Academy of Sciences); Jingping Bi (Institute of Computing Technology, Chinese Academy of Sciences)*; Shiwei Zhao (NetEase Fuxi AI Lab); Runze Wu (NetEase Fuxi AI Lab); Shize Zhang (NetEase Fuxi AI Lab); Jianrong Tao (Netease); Hao Deng (NetEase)"
- },
- {
-   "r1": "Device-Cloud Collaborative Recommendation via Meta Controller",
-   "r2": "Jiangchao Yao (Shanghai Jiao Tong University)*; Feng 8 Wang (Alibaba Group); XICHEN DING (Ant Group); SHAOHU CHEN (Ant Group); Bo Han (HKBU / RIKEN); Jingren Zhou (Alibaba Group); Hongxia Yang (Alibaba Group)"
- },
- {
-   "r1": "Learning to Discover Causes of Traffic Congestion with Limited Labeled Data",
-   "r2": "Mudan Wang (Tsinghua University); Huan Yan (Tsinghua University)*; Hongjie Sui (Tsinghua University); Fan Zuo (Alibaba Group); Yue Liu (Alibaba Group); Yong Li (Tsinghua University)"
- },
- {
-   "r1": "Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data",
-   "r2": "Fudan Yu (Tsinghua University); Wenxuan Ao (Tsinghua University); Huan Yan (Tsinghua University)*; Guozhen Zhang (Tsinghua University); Wei Wu (SenseTime Group Limited); Yong Li (Tsinghua University)"
- },
- {
-   "r1": "Friend Recommendations with Self-Rescaling Graph Neural Networks",
-   "r2": "Xiran Song (Huazhong University of Science and Technology); Jianxun Lian (MSRA); Hong Huang (Huazhong University of Science and Technology)*; Mingqi Wu (Microsoft Gaming, Redmond); Hai Jin (Huazhong University of Science and Technology); Xing Xie (Microsoft Research Asia)"
- },
- {
-   "r1": "DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect Estimation",
-   "r2": "kailiang Zhong (Alibaba Group)*; Fengtong Xiao (Alibaba Group); Yan Ren (Alibaba Group); Yaorong Liang (Alibaba Group); Wenqing Yao (Alibaba Group); Xiaofeng Yang (Alibaba Group); Ling Cen (Alibaba Group)"
- },
- {
-   "r1": "DDR: Dialogue based Doctor Recommendation for Online Medical Service",
-   "r2": "Zhi Zheng (University of Science and Technology of China)*; Zhaopeng Qiu (Tencent Medical AI Lab); Tong Xu (University of Science and Technology of China); Xian Wu (Tencent Medical AI Lab); Xiangyu Zhao (City University of Hong Kong); Enhong Chen (University of Science and Technology of China); Hui Xiong (Rutgers University)"
- },
- {
-   "r1": "A Framework for Multi-stage Bonus Allocation in meal delivery Platform",
-   "r2": "zhuolin wu (meituan)*; li wang (Huazhong University of Science and Technology); Fangsheng Huang (Meituan); Linjun Zhou (Meituan); Yu Song (Meituan); chengpeng ye (meituan); pengyu nie (meituan); Hao Ren (Meituan); Jinghua Hao (Meituan); Renqing He (Meituan-Dianping Group); Zhizhao Sun (Meituan-Dianping Group)"
- },
- {
-   "r1": "Adaptive Feature Selection in Deep Recommender Systems",
-   "r2": "Weilin LIN (City University of HongKong); Xiangyu Zhao (City University of Hong Kong)*; Yejing Wang (City University of Hongkong); Tong Xu (University of Science and Technology of China); Xian Wu (Tencent Medical AI Lab)"
- },
- {
-   "r1": "Uni-Retriever: Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search",
-   "r2": "Jianjin Zhang (Microsoft, Beijing)*; Zheng Liu (MSRA); Weihao Han (Microsoft); Shitao Xiao (BUPT); Ruicheng Zheng (Microsoft STCA); Yingxia Shao (BUPT); Hao Sun (Microsoft); hanqing zhu (Microsoft); Premkumar Srinivasan (Microsoft); Weiwei Deng (Microsoft); Qi Zhang (Microsoft ); Xing Xie (Microsoft Research Asia)"
- },
- {
-   "r1": "CausalInt: Causal Inspired Intervention for Multi-Domain Recommendation",
-   "r2": "Yichao Wang (Huawei Noah's Ark Lab)*; Huifeng Guo (Huawei Noah's Ark Lab); Bo Chen (Huawei Noah’s Ark Lab); Weiwen Liu (Huawei Noah's Ark Lab); Zhirong Liu (Huawei Noah's Ark Lab); Qi Zhang (Huawei Noah's Ark Lab); Zhicheng He (Huawei Noah's Ark Lab); Hongkun Zheng (Huawei Technologies Co Ltd); Weiwei Yao (Huawei); Muyu Zhang (Huawei); Zhenhua Dong (Huawei Noah's Ark Lab); Ruiming Tang (Huawei Noah's Ark Lab)"
- }
-]
+  {
+    "r1": "SESSION 1",
+    "r2": ""
+  },
+  {
+    "r1": "Tuesday, August 16, 10:00 AM-12:00 PM, Room 1 (Recommendation Systems) . Session Chair: Weize Kong\n",
+    "r2": ""
+  },
+  {
+    "r1": "Persia:  An Open, Hybrid System Scaling Deep Learning-based Recommenders up to 100 Trillion Parameters",
+    "r2": "Xiangru Lian (University of Rochester)*; Binhang Yuan (ETH Zurich); Xuefeng Zhu (Kuaishou Technology); Yulong Wang (Kuaishou Technology); Yongjun He (ETH Zürich); wu honghuan (Kuaishou); Lei Sun (Kuaishou Technology); Haodong Lyu (Kuaishou Technology); Chengjun Liu (Kuaishou Technology); Xing Dong (Kuaishou Technology); Yiqiao Liao (Kuaishou Technology); Mingnan Luo (Kuaishou Technology); Congfei Zhang (Kuaishou Technology); Jingru Xie (Kwai Inc.); Haonan Li (Kuaishou Technology); Lei Chen (Kuaishou Technology); Renjie Huang (Kuaishou Technology); Jianying Lin (Kuaishou); Chengchun Shu (Kuaishou Technology); Xuezhong Qiu (Kuaishou Technology); Zhishan Liu (Kuaishou Technology); Dongying Kong (Kuaishou Technology); Lei Yuan (Kuaishou Technology); Hai Yu (Kuaishou Technology); Sen Yang (Kwai Inc.); Ce Zhang (ETH); Ji  Liu (Kwai Inc.)"
+  },
+  {
+    "r1": "Uncovering the Heterogeneous Effects of Preference Diversity on User Activeness: A Dynamic Mixture Model",
+    "r2": "Yunfei Lu (Huawei)*; Peng Cui (Tsinghua University); Linyun Yu (Bytedance AI Lab); Lei Li (Bytedance); Wenwu Zhu (Tsinghua University)"
+  },
+  {
+    "r1": "Affective Signals in a Social Media Recommender System",
+    "r2": "Jane Yu (Facebook)*; Yi-Chia Wang (Uber); Lijing Qin (Meta AI); Canton Cristian (Facebook AI); Alon Y Halevy (Facebook)"
+  },
+  {
+    "r1": "Pricing the Long Tail by Explainable Product Aggregation and Monotonic Bandits",
+    "r2": "Marco Mussi (Politecnico di Milano)*; Gianmarco Genalti (Politecnico di Milano); Francesco Trovò (Politecnico di Milano); Alessandro Nuara (Politecnico di Milano, Italy); Nicola Gatti (Politecnico di Milano); Marcello Restelli (Politecnico di Milano)"
+  },
+  {
+    "r1": "Multi Armed Bandit vs. A/B Tests in E-commence - Confidence Interval and Hypothesis Test Power Perspectives",
+    "r2": "Ding Xiang (The Home Depot)*; Rebecca West (The Home Depot); Jiaqi Wang (The Home Depot); Xiquan Cui (Homedepot); Jinzhou Huang (The Home Depot)"
+  },
+  {
+    "r1": "Tuesday, August 16, 10:00 AM-12:00 PM, Room 2 (Smart Transportation and Geo) . Session Chair: Yushun Dong",
+    "r2": ""
+  },
+  {
+    "r1": "Representative Routes Discovery From Massive Trajectories",
+    "r2": "Tingting Wang (RMIT University); Shixun Huang (RMIT); Zhifeng  Bao (RMIT University)*; J. Shane Culpepper (RMIT University); Reza Arablouei (CSIRO)"
+  },
+  {
+    "r1": "Uncertainty Quantification of Sparse Trip Demand Prediction with Spatial-Temporal Graph Neural Networks",
+    "r2": "Dingyi Zhuang (MIT)*; Shenhao Wang (MIT); Haris Koutsopoulos (Northeastern University); Jinhua Zhao (MIT)"
+  },
+  {
+    "r1": "Reinforcement Learning-based Placement of Charging Stations in Urban Road Networks",
+    "r2": "Leonie A von Wahl (Volkswagen Group)*; Nicolas Tempelmeier (Volkswagen AG); Ashutosh Sao (L3S Research Center, Leibniz University Hannover); Elena  Demidova (DSIS Research Group, University of Bonn)"
+  },
+  {
+    "r1": "Graph Meta-Reinforcement Learning for Transferable Autonomous Mobility-on-Demand",
+    "r2": "Daniele Gammelli (Technical University of Denmark (DTU))*; Kaidi Yang (Stanford University); James Harrison (Google); Filipe Rodrigues (Technical University of Denmark (DTU)); Francisco Pereira (DTU); Marco Pavone (Stanford University)"
+  },
+  {
+    "r1": "Downscaling Earth System Models with Deep Learning",
+    "r2": "Sungwon Park (KAIST)*; Tung Duong Mai (KAIST); Karandeep Singh (Institute for Basic Science); Arjun Babu Nellikkattil (IBS Center for Climate Physics, Pusan National University); Elke CE Zeller (IBS Center for Climate Physics); Meeyoung Cha (Institute for Basic Science)"
+  },
+  {
+    "r1": "SESSION 2",
+    "r2": ""
+  },
+  {
+    "r1": "Tuesday, August 16, 1:30 PM-3:30 PM, Room 1 (Recommendation Systems & E-commerce) . Session Chair: Teng Ye",
+    "r2": ""
+  },
+  {
+    "r1": "Multilingual Taxonomic Web Page Classification for Contextual Targeting at Yahoo",
+    "r2": "Eric Ye (Yahoo Research)*; Xiao Bai (Yahoo); Neil O'Hare (Yahoo Research); Eliyar Asgarieh (Yahoo Research); Kapil Thadani (Yahoo Research); Francisco Perez-Sorrosal (Yahoo Research); Sujyothi Adiga (Ads - Targeting & Identity Engineering)"
+  },
+  {
+    "r1": "DESCN: Deep Entire Space Cross Networks for Individual Treatment Effect Estimation",
+    "r2": "kailiang Zhong (Alibaba Group)*; Fengtong Xiao (Alibaba Group); Yan Ren (Alibaba Group); Yaorong Liang (Alibaba Group); Wenqing Yao (Alibaba Group); Xiaofeng Yang (Alibaba Group); Ling Cen (Alibaba Group)"
+  },
+  {
+    "r1": "Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation",
+    "r2": "Ruohan Zhan (Stanford University)*; Changhua Pei (Alibaba Group); Qiang Su (Kuaishou Technology); Jianfeng WEN (Kuaishou Inc.); Xueliang Wang (University of Science and Technology of China); Guanyu Mu (Kuaishou Inc.); Dong Zheng (Kuaishou Technology); Peng Jiang (Kuaishou Inc.); Kun Gai (AI)"
+  },
+  {
+    "r1": "Automatic Controllable Product Copywriting for E-Commerce",
+    "r2": "Xiaojie Guo (JD.COM Silicon Valley Research Center)*; Qingkai Zeng (University of Notre Dame); Meng Jiang (University of Notre Dame); Xiao Yun (JD.com); Bo Long (JD.com); Lingfei Wu (JD.COM Silicon Valley Research Center)"
+  },
+  {
+    "r1": "Modeling the Effect of Persuasion Factor on User Decision for Recommendation",
+    "r2": "Chang Liu (Tsinghua University)*; Chen Gao (Tsinghua University); Yuan Yuan (Tsinghua University); BAI CHEN (Meituan); Lingrui Luo (Meituan); Xiaoyi Du (Meituan); shi xinlei (meituan); Hengliang Luo (Meituan); Depeng Jin (Tsinghua University); Yong Li (Tsinghua University)"
+  },
+  {
+    "r1": "Tuesday, August 16, 1:30 PM-3:30 PM, Room 2 (Geo Information and Failure Detection) . Session Chair: Yanchi Liu",
+    "r2": ""
+  },
+  {
+    "r1": "Connecting the Hosts: Street-Level IP Geolocation with Graph Neural Networks",
+    "r2": "Zhiyuan Wang (University of Electronic Science and Technology of China); Wenxuan Zeng (University of Electronic Science and Technology of China); Fan Zhou (School of Information and Software Engineering, University of Electronic Science and Technology of China)*; Goce Trajcevski (Iowa State University); Chunjing Xiao (Henan University); Yong Wang (Zhengzhou Aiwen Tech); Kai Chen (HKUST)"
+  },
+  {
+    "r1": "Physics-Guided Graph Meta Learning for Predicting Water Temperature and Streamflow in Stream Networks",
+    "r2": "Shengyu Chen (University of Pittsburgh); Jacob Zwart (U.S. geological survey); Xiaowei Jia (University of Pittsburgh)*"
+  },
+  {
+    "r1": "DuARE: Automatic Road Extraction with Aerial Images and Trajectory Data at Baidu Maps",
+    "r2": "Jianzhong Yang (Baidu); Xiaoqing Ye (baidu); Bin Wu (Beijing Baidu Co,. Ltd); yanlei gu (Beijing Baidu Co,. Ltd); Ziyu Wang (Baidu ); Deguo Xia (Baidu); Jizhou Huang (Baidu)*"
+  },
+  {
+    "r1": "NENYA: Cascade Reinforcement Learning for Cost-Aware Failure Mitigation at Microsoft 365",
+    "r2": "Lu Wang (East China Normal University)*; Pu Zhao (Microsoft Research); Chao Du (Microsoft Research); Chuan Luo (Beihang University); Mengna Su (Microsoft); Fangkai Yang (Microsoft Research); yudong Liu (https://www.microsoft.com); Qingwei Lin (Microsoft Research); Paul Wang (Microsoft 365); Yingnong Dang (Microsoft, USA); Hongyu Zhang (University of Newcastle); Saravan Rajmohan (Microsoft 365); Dongmei Zhang (Microsoft Research Asia)"
+  },
+  {
+    "r1": "Multi-task Hierarchical Classification for Disk Failure Prediction in Online Service Systems",
+    "r2": "yudong Liu (https://www.microsoft.com); Hailan Yang (Microsoft); Pu Zhao (Microsoft Research); Minghua Ma (Microsoft Research); Chengwu Wen (Peking University); Hongyu Zhang (University of Newcastle); Chuan Luo (Beihang University); Qingwei Lin (Microsoft Research)*; Chang Yi (Microsoft); Jiaojian Wang (M365); Chenjian Zhang (Microsoft); Paul Wang (Microsoft 365); Yingnong Dang (Microsoft, USA); Saravan Rajmohan (Microsoft 365); Dongmei Zhang (Microsoft Research Asia)"
+  },
+  {
+    "r1": "SESSION 3",
+    "r2": ""
+  },
+  {
+    "r1": "Tuesday, August 16, 4:00 PM-6:00 PM, Room 1 (Human & Interfaces) . Session Chair: Liang Wu",
+    "r2": ""
+  },
+  {
+    "r1": "Looper: an end-to-end ML platform for product decisions",
+    "r2": "Igor L Markov (Meta)*; Hanson Wang (Facebook); Nitya S Kasturi (Facebook); Shaun Singh (Facebook); Mia R Garrard (Facebook ); Yin Huang (Facebook); Sze Way Celeste Yuen (Facebook); Sarah Tran (Facebook); Zehui Wang (Facebook); Igor Glotov (Facebook Inc.); Tanvi Gupta (Facebook); Peng Chen (Facebook); Boshuang Huang (Facebook); Xiaowen Xie (Google); Michael Belkin (Facebook); Sal Uryasev (Facebook); Sam Howie (Facebook); Eytan Bakshy (Meta); Norm Zhou (Facebook)"
+  },
+  {
+    "r1": "Interpretability, Then What? Editing Machine Learning Models to Reflect Human Knowledge and Values",
+    "r2": "Zijie J. Wang (Georgia Tech)*; Alex Kale (University of Washington); Harsha Nori (Microsoft); Peter Stella (NYU Langone Health); Mark Nunnally (NYU Langone health); Duen Horng Chau (Georgia Institute of Technology); Mihaela Vorvoreanu (Microsoft); Jennifer Wortman Vaughan (Microsoft Research); Rich Caruana (Microsoft Research)"
+  },
+  {
+    "r1": "Promotheus: An End-to-End Machine Learning Framework for Optimizing Markdown in Online Fashion E-commerce",
+    "r2": "Eleanor  Loh (ASOS)*; Jalaj Khandelwal (ASOS); Brian Regan (Spotify); Duncan A. Little (ASOS.com)"
+  },
+  {
+    "r1": "Crowdsourcing with Contextual Uncertainty",
+    "r2": "Viet-An Nguyen (Facebook)*; Peibei Shi (Facebook); Jagdish Ramakrishnan (Facebook); Narjes Torabi (Facebook); Nimar S Arora (Bayesian Logic); Udi Weinsberg (Facebook); Michael Tingley (Facebook)"
+  },
+  {
+    "r1": "CausalMTA: Eliminating the User Confounding Bias for Causal Multi-touch Attribution",
+    "r2": "Di Yao (Institute of Computing Technology, Chinese Academy of Sciences)*; Chang Gong (Institute of Computing Technology, Chinese Academy of Sciences); Lei Zhang (Alibaba); Sheng Chen (Alibaba Group); Jingping Bi (Institute of Computing Technology, Chinese Academy of Sciences)"
+  },
+  {
+    "r1": "SESSION 4",
+    "r2": ""
+  },
+  {
+    "r1": "Wednesday, August 17, 10:00 AM-12:00 PM, Room 1 (Search & Information Retrieval) . Session Chair: Yuening Li",
+    "r2": ""
+  },
+  {
+    "r1": "Rax: Composable Learning-to-Rank using JAX",
+    "r2": "Rolf Jagerman (Google Research)*; Xuanhui Wang (Google); Honglei Zhuang (Google Research); Zhen Qin (Google); Michael Bendersky (Google); Marc Najork (Google)"
+  },
+  {
+    "r1": "Multi-Aspect Dense Retrieval",
+    "r2": "Weize Kong (Google)*; Swaraj Khadanga (Google); Cheng Li (Google); Shaleen Gupta (Google); Mingyang Zhang (Google); Wensong Xu (Google); Michael Bendersky (Google)"
+  },
+  {
+    "r1": "A New Generation of Perspective API: Efficient Multilingual Character-level Transformers",
+    "r2": "Alyssa Lees (Google); Vinh Q Tran (Google)*; Yi Tay (Google); Jeffrey Sorensen (Google); Jai Gupta (Google); Donald Metzler (Google); Lucy Vasserman (Google)"
+  },
+  {
+    "r1": "A Graph Learning Based Framework for Billion-Scale Offline User Identification",
+    "r2": "Daixin Wang (Ant Financial Services Group)*; Zujian Weng (Ant Financial Services Group ); Zhengwei Wu (Ant Financial); Zhiqiang Zhang (Ant Group); Peng Cui (Tsinghua University); Hongwei Zhao (Ant Financial Services Group ); Jun Zhou (Ant Financial)"
+  },
+  {
+    "r1": "RT-VeD: Real-Time VoI Detection on Edge Nodes with an Adaptive Model Selection Framework",
+    "r2": "Shuai Wang (Southeast University); Junke Lu (Southeast University)*; Baoshen Guo (Southeast University); Zheng Dong (Wayne State University)"
+  },
+  {
+    "r1": "Wednesday, August 17, 10:00 AM-12:00 PM, Room 2 (Health Care and Biomedical) . Session Chair: Kimis Perros",
+    "r2": ""
+  },
+  {
+    "r1": "DNA-Stabilized Silver Nanocluster Design via Regularized Variational Autoencoders",
+    "r2": "Fariha Moomtaheen (University at Albany SUNY); Matthew Killeen (University at Albany-SUNY); James T Oswald (SUNY Albany DMM Lab); Anna Gonzàlez-Rosell (University of California, Irvine); Peter Mastracco (University of California, Irvine); Alexander Gorovits (Regeneron Pharmaceuticals); Stacy Copp (University of California, Irvine); Petko Bogdanov (University at Albany-SUNY)*"
+  },
+  {
+    "r1": "What Makes Good Contrastive Learning on Small-Scale Wearable-based Tasks?",
+    "r2": "Hangwei Qian (Nanyang Technological University)*; Tian Tian (Nanyang Technological University); Chunyan Miao (NTU)"
+  },
+  {
+    "r1": "Multiwave COVID-19 Prediction from Social Awareness using Web Search and Mobility Data",
+    "r2": "Jiawei Xue (Purdue University); Takahiro  Yabe (Massachusetts Institute of Technology); Kota Tsubouchi (Yahoo Japan Corporation); Jianzhu Ma (Institute for Artificial Intelligence, Peking University); Satish V. Ukkusuri (Purdue University)*"
+  },
+  {
+    "r1": "Counseling Summarization using Mental Health Knowledge Guided Utterance Filtering",
+    "r2": "ASEEM SRIVASTAVA (IIIT Delhi)*; Tharun Suresh (Indraprastha Institute of Information Technology - Delhi); Sarah P Lord (Mpathic.ai); Md Shad Akhtar (IIIT Delhi); Tanmoy Chakraborty (Indraprastha Institute of Information Technology Delhi (IIIT-D),India )"
+  },
+  {
+    "r1": "ChemicalX: A Deep Learning Library for Drug Pair Scoring",
+    "r2": "Benedek A Rozemberczki (AstraZeneca)*; Charles T Hoyt (Harvard Medical School); Anna Gogleva (AstraZeneca); Piotr Grabowski (AstraZeneca); Klas Karis (Harvard Medical School); Andrej Lamov (AstraZeneca); Andriy Nikolov (AstraZeneca); Sebastian Nilsson (AstraZeneca); Michael Ughetto (AstraZeneca); Yu Wang (Vanderbilt university); Tyler Derr (Vanderbilt University); Bejamin Gyori (Harvard Medical School)"
+  },
+  {
+    "r1": "SESSION 5",
+    "r2": ""
+  },
+  {
+    "r1": "Wednesday, August 17, 1:30 PM-3:30 PM, Room 1 (Question Answering & NLP Applications) . Session Chair: Sushant More",
+    "r2": ""
+  },
+  {
+    "r1": "BE3R: BERT based Early-Exit using Expert Routing",
+    "r2": "Sourab Mangrulkar (Amazon Development Center India Pvt. Ltd.); Ankith M S (Amazon)*; Vivek Sembium (amazon)"
+  },
+  {
+    "r1": "Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization",
+    "r2": "Sarah Masud (IIIT Delhi, India)*; Manjot Bedi (Northeastern University); Mohammad Aflah Khan (IIIT Delhi); Md Shad Akhtar (IIIT Delhi); Tanmoy Chakraborty (Indraprastha Institute of Information Technology Delhi (IIIT-D),India )"
+  },
+  {
+    "r1": "Generating Examples From CLI Usage: Can Transformers Help?",
+    "r2": "Roshanak Zilouchian Moghaddam (Microsoft)*; Spandan Garg (Microsoft); Colin Clement (Microsoft); Yevhen Mohylevskyy (Microsoft); Neel Sundaresan (Microsoft)"
+  },
+  {
+    "r1": "Pretraining Representations of Multi-modal Multi-query E-commerce Search",
+    "r2": "xinyi liu (Xiamen University); Wanxian Guan (alibaba group); Lianyun Li (Xiamen University); Hui Li (Xiamen University); Chen Lin (Xiamen University)*; Xubin Li (Alibaba Group); Si Chen (alibaba); Jian Xu (Alibaba Group); Hongbo Deng (Alibaba Group); Bo Zheng (Alibaba Group)"
+  },
+  {
+    "r1": "Improving Relevance Modeling via Heterogeneous Behavior Graph Learning in Bing Ads",
+    "r2": "Bochen Pang (Microsoft); Chaozhuo Li (Microsoft Research Asia)*; Yuming Liu (Microsoft); Jianxun Lian (MSRA); Jianan Zhao (University of Notre Dame); Hao Sun (Microsoft); Weiwei Deng (Microsoft); Xing Xie (Microsoft Research Asia); Qi Zhang (Microsoft )"
+  },
+  {
+    "r1": "Wednesday, August 17, 1:30 PM-3:30 PM, Room 2 (Biomedical) . Session Chair: Menglling Feng",
+    "r2": ""
+  },
+  {
+    "r1": "Fast Mining and Forecasting of Co-evolving Epidemiological Data Streams",
+    "r2": "Tasuku Kimura (Osaka University)*; Yasuko Matsubara (Osaka University); Koki Kawabata (Osaka University); Yasushi Sakurai (Osaka University)"
+  },
+  {
+    "r1": "T-Cell Receptor-Peptide Interaction Prediction with Physical Model Augmented Pseudo-Labeling",
+    "r2": "Yiren Jian (Dartmouth College); Erik J Kruus (NEC Labs); Martin Renqiang Min (NEC Labs America-Princeton)*"
+  },
+  {
+    "r1": "Predicting Age-Related Macular Degeneration Progression with Contrastive Attention and Time-Aware LSTM",
+    "r2": "Changchang Yin (The Ohio State University)*; Sayoko Moroi (Ohio State University); Ping Zhang (The Ohio State University)"
+  },
+  {
+    "r1": "SAMCNet: Towards a Spatially Explainable AI Approach for Classifying MxIF Oncology Data",
+    "r2": "Majid Farhadloo (University of Minnesota)*; Carl Molnar (University of Minnesota); Gaoxiang Luo (University of Minnesota); Yan Li (University of Minnesota); Shashi Shekhar (University of Minnesota); Rachel L Maus (Mayo Clinic); Svetomir Markovic (Mayo Clinic); Alexey  Leontovich (Mayo Clinic); Raymond Moore (Mayo Clinic)"
+  },
+  {
+    "r1": "SESSION 6",
+    "r2": ""
+  },
+  {
+    "r1": "Thursday, August 18, 10:00 AM-12:00 AM, Room 1 (Time-Series and Anomalies) . Session Chair: Jing Ma",
+    "r2": ""
+  },
+  {
+    "r1": "Data-Driven Oracle Bone Rejoining: A Dataset and Practical Self-Supervised Learning Scheme",
+    "r2": "Chongsheng Zhang (Henan University); Bin Wang (Henan University); Ke Chen (South China University of  Technology)*; Ruixing Zong (Henan University); Bofeng Mo (Capital Normal University, China); Yi Men (Henan University); George Almpanidis (Henan University); Shanxiong Chen (southwest university); Xiangliang Zhang (University of Notre Dame)"
+  },
+  {
+    "r1": "Towards Learning Disentangled Representations for Time Series",
+    "r2": "Yuening Li (Texas A&M University)*; Zhengzhang Chen (NEC Laboratories America, Inc.); Daochen Zha (Rice University); Mengnan Du (Texas A&M University); Jingchao Ni ( NEC Laboratories America); Denghui Zhang (Rutgers University); Haifeng Chen (NEC Labs); Xia Hu (Rice University)"
+  },
+  {
+    "r1": "Greykite: Deploying Flexible Forecasting at Scale in LinkedIn",
+    "r2": "Albert Chen (LinkedIn)*; Reza Hosseini (LinkedIn Inc); Kaixu Yang (LinkedIn); Sayan Patra (LinkedIn); Yi Su (LinkedIn); Saad Eddin Al Orjany (LinkedIn); Sishi Tang (Linkedin); Parvez Ahammad (LinkedIn)"
+  },
+  {
+    "r1": "Large-Scale Acoustic Automobile Fault Detection: Diagnosing Engines Through Sound",
+    "r2": "Dennis Fedorishin (University at Buffalo)*; Justas Birgiolas (ACV Auctions); Deen D Mohan (University at Buffalo); Livio Forte (ACV Auctions); Philip Schneider (ACV Auctions); Srirangaraj Setlur (University at Buffalo, SUNY); Venu Govindaraju (University at Buffalo, SUNY)"
+  },
+  {
+    "r1": "Rapid Regression Detection in Software Deployments through Sequential Testing",
+    "r2": "Michael S Lindon (Netflix)*; Chris Sanden (Netflix); Vache Shirikian (Netflix)"
+  },
+  {
+    "r1": "SESSION 7",
+    "r2": ""
+  },
+  {
+    "r1": "Thursday, August 18, 1:30 PM-3:30 PM, Room 1 (Graph Learning) . Session Chair: Tyler Derr",
+    "r2": ""
+  },
+  {
+    "r1": "EasyFGL: Towards a Unified, Comprehensive and Efficient Platform for Federated Graph Learning",
+    "r2": "Zhen Wang (Alibaba Group)*; Weirui Kuang (Alibaba Group); Yuexiang Xie (Alibaba Group); Liuyi Yao (Alibaba Group); Yaliang Li (Alibaba Group); Bolin Ding (\"Data Analytics and Intelligence Lab, Alibaba Group\"); Jingren Zhou (Alibaba Group)"
+  },
+  {
+    "r1": "Company-as-Tribe: Company Financial Risk Assessment On Tribe-Style Graph With Hierarchical Graph Neural Networks",
+    "r2": "Wendong Bi (Institute of Computing Technology, University of Chinese Academy of Sciences)*; Bingbing Xu ( Institute of Computing Technology,University of Chinese Academy of Sciences); Xiaoqian Sun (Institute of Computing Technology, Chinese Academy of Sciences); Zidong Wang (Institute of Computing Technology, Chinese Academy of Sciences); Huawei Shen (Institute of Computing Technology, Chinese Academy of Sciences); Xueqi Cheng (Institute of Computing Technology, Chinese Academy of Sciences)"
+  },
+  {
+    "r1": "OAG-LM: Towards A Unified Backbone Language Model For Academic Knowledge Services",
+    "r2": "Xiao Liu (Tsinghua University)*; Da Yin (Tsinghua University); Jingnan Zheng (National University of Singapore); Xingjian Zhang (Tsinghua University); Peng Zhang (Tsinghua University); Hongxia Yang (Alibaba Group); Yuxiao Dong (Tsinghua University); Jie Tang (Tsinghua University)"
+  },
+  {
+    "r1": "GraphWorld: Fake Graphs Bring Real Insights for GNNs",
+    "r2": "John  Palowitch (Google)*; Anton Tsitsulin (Google); Brandon Mayer (Google); Bryan Perozzi (Google Research)"
+  },
+  {
+    "r1": "CognitionNet: A Collaborative Neural Network for Play Style Discovery in Online Skill Gaming Platform",
+    "r2": "Rukma A Talwadker (Games24x7)*; Surajit Chakrabarty (Games24x7); Aditya Pareek (Games24x7); Tridib Mukherjee (Games24x7); Deepak Saini (Games24x7)"
+  },
+  {
+    "r1": "ADS PAPER SHOWCASE",
+    "r2": ""
+  },
+  {
+    "r1": "Thursday, August 18, 10:00 AM-12:00 PM, Room 1 (Abnormal Detection, Adversarial Attacks & Robustness ) . Session Chairs: Yingtong Dou and Wentao Wang",
+    "r2": ""
+  },
+  {
+    "r1": "Predicting Bearings' Degradation Stages for Predictive Maintenance in the Pharmaceutical Industry",
+    "r2": "Dovile Juodelyte (IT University of Copenhagen); Veronika Cheplygina (ITU); Therese Graversen (IT University of Copenhagen); Philippe Bonnet (IT Univ Copenhagen, Denmark)*"
+  },
+  {
+    "r1": "RCAD:Real-time Collaborative Anomaly Detection System for Mobile Broadband Networks",
+    "r2": "Azza H. Ahmed (SimulaMet)*; Michael Riegler (Simula); Steven Hicks (SimulaMet); Ahmed Elmokashfi (Simula Met)"
+  },
+  {
+    "r1": "AntiBenford Subgraphs: Unsupervised Anomaly Detection in Financial Networks",
+    "r2": "Tianyi Chen (Boston University); Charalampos Tsourakakis (Boston University and ISI Foundation)*"
+  },
+  {
+    "r1": "One Label on Result Can Reduce Thirty False Anomalies: Augmenting Log-based Anomaly Detection Models with Human Feedback",
+    "r2": "Tong Jia (Peking University)*; Yong Yang (Peking University); Ying Li (Peking University); Gang Huang (Peking University); Zhonghai Wu (Peking University)"
+  },
+  {
+    "r1": "CMMD: Cross-Metric Multi-Dimensional Root Cause Analysis",
+    "r2": "Shifu Yan (East China University of Science and Technology)*; Caihua Shan (microsoft); Wenyi YANG (Microsoft); Dongsheng Li (Microsoft Research Asia); Lili Qiu (The University of Texas at Austin); Bixiong Xu (Microsoft); Jie Tong (Microsoft); Qi Zhang (Microsoft )"
+  },
+  {
+    "r1": "Learning Sparse Latent Graph Representations for Anomaly Detection in Multivariate Time Series",
+    "r2": "Siho Han (Sungkyunkwan University)*; Simon S Woo (Sungkyunkwan University (SKKU))"
+  },
+  {
+    "r1": "User Behavior Pre-training for Online Fraud Detection",
+    "r2": "Can Liu (Alibaba Group)*; Yuncong Gao (Institute of Computing Technology, CAS); Li Sun (Alibaba Group); Jinghua Feng (Ailbaba Group ); Hao Yang (Alibaba Group); Xiang Ao (Institute of Computing Technology, CAS )"
+  },
+  {
+    "r1": "CAT: Beyond Efficient Transformer for Content-Aware Anomaly Detection in Event Sequences",
+    "r2": "SHENGMING ZHANG (Rutgers University); Yanchi Liu (NEC Labs America)*; Xuchao Zhang (NEC Labs America); Wei Cheng (NEC Laboratories America); Haifeng Chen (NEC Labs); Hui Xiong (the State University of New Jersey)"
+  },
+  {
+    "r1": "BrainNet: Epileptic Wave Detection from SEEG with Hierarchical Graph Diffusion Learning",
+    "r2": "Junru Chen (Zhejiang University); Yang Yang (Zhejiang University)*; Tao Yu (Zhejiang University); Yingying Fan (Zhejiang University); Xiaolong Mo (Neuroechos Medical(Shenzhen) Co., Ltd); Carl Yang (Emory University)"
+  },
+  {
+    "r1": "Human-in-the-Loop Large-Scale Predictive Maintenance of Workstations",
+    "r2": "Alexander V Nikitin (Aalto University)*; Samuel Kaski (Aalto University and University of Manchester)"
+  },
+  {
+    "r1": "Thursday, August 18, 10:00 AM-12:00 PM, Room 2 (Conversation, QA and Other NLP Applications) . Session Chairs: Kaize Ding and Xian Li",
+    "r2": ""
+  },
+  {
+    "r1": "DocLayNet: A Large Human-annotated Dataset for Document Layout Segmentation",
+    "r2": "Birgit Pfitzmann (IBM Research); Christoph Auer (IBM Research); Michele Dolfi (IBM Research); Ahmed S Nassar (IBM Research); Peter W J Staar (IBM Research)*"
+  },
+  {
+    "r1": "COBART: Controlled, Optimized, Bidirectional and Auto-Regressive Transformer for Ad Headline Generation",
+    "r2": "Yashal S Kanungo (Amazon)*; Gyanendra Das (Amazon); Pooja A (Amazon); Sumit Negi (Amazon)"
+  },
+  {
+    "r1": "Semantic Aware Answer Sentence Selection using Self-Learning based Domain Adaptation",
+    "r2": "Rajdeep Sarkar (National University of Ireland Galway)*; Sourav Dutta (Huawei Research Centre); Haytham Assem (Huawei Research); Mihael Arcan (Insight Centre for Data Analytics); John McCrae (National University of Ireland Galway)"
+  },
+  {
+    "r1": "Preventing Catastrophic Forgetting in Natural Language Tasks",
+    "r2": "Sudipta Kar (Amazon)*; Giuseppe Castellucci (Amazon); Simone Filice (Amazon); Shervin Malmasi (Amazon); Oleg Rokhlenko (Amazon)"
+  },
+  {
+    "r1": "ILASR: Privacy-Preserving Incremental Learning for Automatic Speech Recognition at Production Scale",
+    "r2": "Gopinath Chennupati (Amazon Alexa); Milind Rao (Amazon Alexa); Gurpreet Chadha (Amazon Alexa); Aaron Eakin (Amazon Alexa); Anirudh Raju (Amazon Alexa); Gautam Tiwari (Amazon Alexa); Anit Kumar Sahu (Amazon Alexa AI)*; Ariya Rastrow (Amazon Alexa); Jasha Droppo (Amazon Alexa); Andy Oberlin (Amazon Alexa); Buddha Nandanoor (Amazon Alexa); Prahalad Venkataramanan (Amazon Alexa); Zheng Wu (Amazon Alexa); Pankaj Sitpure (Amazon Alexa)"
+  },
+  {
+    "r1": "Ask to know more: Counterfactual Explanations for Fake Claims",
+    "r2": "Shih-Chieh Dai (University of Texas at Austin)*; Yi-Li Hsu (Academia Sinica; National Tsing Hua University); Aiping Xiong (The Pennsylvania State University); Lun-Wei Ku (Academia Sinica)"
+  },
+  {
+    "r1": "GradMask: Gradient-Guided Token Masking for Textual Adversarial Example Detection",
+    "r2": "Han Cheol Moon (Nanyang Technological University)*; Shafiq Joty (Nanyang Technological University); Xu Chi (Singapore Institute of Manufacturing Technology, A-Star)"
+  },
+  {
+    "r1": "Duplex Conversation: Enable Human-like Interaction in Spoken Dialogue System",
+    "r2": "Ting-En Lin (Alibaba Group)*; Yuchuan Wu (Alibaba); Fei Huang (Alibaba); Luo Si (); Jian Sun (Alibaba DAMO Academy); Yongbin Li (Alibaba Group )"
+  },
+  {
+    "r1": "Personalized Chit-Chat Generation for Recommendation Using External Chat Corpora",
+    "r2": "Changyu Chen (Renmin University of China); Xiting Wang (Microsoft Research Asia)*; Xiaoyuan Yi (Microsoft Research Asia); Fangzhao Wu (MSRA); Xing Xie (Microsoft Research Asia); Rui Yan (Peking University)"
+  },
+  {
+    "r1": "Thursday, August 18, 10:00 AM-12:00 PM, Room 3 (Graph Learning & Social Network) . Session Chairs: Denghui Zhang and Neil Shah",
+    "r2": ""
+  },
+  {
+    "r1": "Graph Neural Network Training and Data Tiering",
+    "r2": "Seung Won Min (University of Illinois at Urbana-Champaign)*; Kun Wu (University of Illinois at Urbana-Champaign); Mert Hidayetoglu (University of Illinois at Urbana-Champaign); Jinjun Xiong (University at Buffalo); Xiang Song (Amazon); Wen-mei Hwu (NVIDIA Corporation)"
+  },
+  {
+    "r1": "Learning Large-scale Subsurface Simulations with a Hybrid Graph Network Simulator",
+    "r2": "Tailin Wu (Stanford)*; Qinchen Wang (Stanford); Yinan Zhang (Stanford University ); Rex Ying (Stanford University); Kaidi Cao (Stanford University); Rok Sosic (Stanford University); Ridwan Jalali (Saudi Aramco); Hassan Hamam (Saudi Aramco); Marko Maucec (Saudi Aramco); Jure Leskovec (Stanford University)"
+  },
+  {
+    "r1": "CS-RAD: Conditional Member Status Refinement and Ability Discovery for Social Network Applications",
+    "r2": "Yiming Ma (LinkedIn)*"
+  },
+  {
+    "r1": "Embedding Compression with Hashing for Efficient Representation Learning in Large-Scale Graph",
+    "r2": "Michael Yeh (Visa Research)*; Mengting Gu (Visa Research); Yan Zheng (Visa Research); Huiyuan Chen (Visa Research); Javid Ebrahimi (Visa Research); Zhongfang Zhuang (Visa Research); Junpeng Wang (Visa Research); Liang Wang (Visa Research); Wei Zhang (Visa Research)"
+  },
+  {
+    "r1": "TAG: Toward Accurate Social Media Content Tagging with a Concept Graph",
+    "r2": "Jiuding Yang (University of Alberta)*; Weidong Guo (Tencent); Bang Liu (University of Montreal); Yakun Yu (University of Alberta); Chaoyue Wang (Tencent); Jinwen Luo (Tencent); Linglong Kong (University of Alberta); Di Niu (University of Alberta); Zhen Wen (Tencent Technology (Shenzhen) Co., Ltd)"
+  },
+  {
+    "r1": "TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation",
+    "r2": "Ahmed El-Kishky (Twitter)*; Thomas Markovich (Twitter); Serim Park (Twitter); Chetan Verma (Twitter); Baekjin Kim (Twitter); Ramy Eskander (Twitter); Yury Malkov (Twitter); Frank Portman (Twitter); Sofia Samaniego (Twitter); Ying Xiao (Twitter); Aria Haghighi (Twitter)"
+  },
+  {
+    "r1": "DP-GAT: A Framework for Image-based Disease Progression Prediction",
+    "r2": "Alex Foo (National University of Singapore)*; Wynne Hsu (National University of Singapore); Mong Li Lee (National University of Singapore); Gavin S Tan (Singapore eye research institute)"
+  },
+  {
+    "r1": "Distributed Hybrid CPU and GPU training for Graph Neural Networks on Billion-Scale Heterogeneous Graphs",
+    "r2": "Da Zheng (Amazon)*; Xiang Song (Amazon); Chengru Yang (Amazon); Dominique LaSalle (NVIDIA Corporation); George Karypis (Amazon)"
+  },
+  {
+    "r1": "Generalizable floorplanner through Corner Block List representation and Hypergraph embedding",
+    "r2": "Mohammad Amini (Huawei Noah’s Ark Lab )*; Zhanguang Zhang (Huawei); Surya Penmetsa (Huawei Noah’s Ark Lab ); Yingxue Zhang (Huawei Technologies Canada); Jianye Hao (Huawei Noah's Ark Lab); Wulong Liu (Huawei Noah's Ark Lab)"
+  },
+  {
+    "r1": "Multi-objective Optimization of Notifications Using Offline Reinforcement Learning",
+    "r2": "Prakruthi Prabhakar (LinkedIn Corporation); Yiping Yuan (LinkedIn)*; Guangyu Yang (LinkedIn Corporation); Wensheng Sun (LinkedIn Corporation); Ajith Muralidharan (LINKEDIN CORPORATION)"
+  },
+  {
+    "r1": "Graph Neural Networks for Multimodal Single-Cell Data Integration",
+    "r2": "Hongzhi Wen (Michigan State University); Jiayuan Ding (Michigan State University); Wei Jin (Michigan State University)*; Yuying Xie (Michigan State University); Jiliang Tang (Michigan State University)"
+  },
+  {
+    "r1": "Thursday, August 18, 10:00 AM-12:00 PM, Room 4 (Health, Business, Geo and Other Real-World Applications) . Session Chairs: Yifan Ethan Xu and Sam Han",
+    "r2": ""
+  },
+  {
+    "r1": "What is the Most Effective Intervention to Increase Job Retention for this Disabled Worker?",
+    "r2": "Ha Xuan Tran (University of South Australia)*; Thuc Duy Le (University of South Australia); Jiuyong Li (University of South Australia); Lin Liu (University of South Australia); Jixue Liu (University of South Australia); Yanchang Zhao (CSIRO); Tony Waters (Maxima Training Group (Aust) Ltd.)"
+  },
+  {
+    "r1": "HiPAL: A Deep Framework for Physician Burnout Prediction Using Activity Logs in Electronic Health Records",
+    "r2": "Hanyang Liu (Washington University in St Louis )*; Sunny S. Lou (Washington University In St Louis); Benjamin C. Warner (Washington University In St Louis); Derek R. Harford (Washington University In St Louis); Thomas Kannampallil (Washington University in St. Louis); Chenyang Lu (Washington University in St. Louis)"
+  },
+  {
+    "r1": "Solar: Science of Entity Loss Attribution",
+    "r2": "Anshuman Mourya (Amazon)*; Prateek Sircar (Amazon); Anirban Majumder (Amazon); Deepak Gupta (Amazon)"
+  },
+  {
+    "r1": "A Process-Aware Decision Support System for Business Processes",
+    "r2": "Prerna Agarwal (IBM Research)*; Buyu Gao (IBM Research - China); Siyu Huo (IBM Research); Prabhat Reddy (IBM Research); Sampath Dechu (IBM Research); Yazan Obeidi (IBM); Vinod Muthusamy (IBM Research); Vatche Isahagian (IBM Research); Sebastian Carbajales (IBM)"
+  },
+  {
+    "r1": "4SDrug: Symptom-based Set-to-set Small and Safe Drug Recommendation",
+    "r2": "Yanchao Tan (Zhejiang University)*; Chengjun Kong (National University of Singapore); Leisheng Yu (Emory University); Pan Li (Purdue University); Chaochao Chen (Zhejiang University); Xiaolin Zheng (Zhejiang University); Vicki Hertzberg (Emory University); Carl Yang (Emory University)"
+  },
+  {
+    "r1": "Multi-task Envisioning Transformer-based Autoencoder for Corporate Credit Rating Migration Early Prediction",
+    "r2": "Han Yue (Brandeis University)*; Steve Xia (Guardian Life Insurance); Hongfu Liu (Brandeis University)"
+  },
+  {
+    "r1": "Counterfactual Phenotyping with Censored Time-to-Events",
+    "r2": "Chirag Nagpal (Carnegie Mellon University)*; Mononito Goswami (Carnegie Mellon University); Keith A Dufendach (University of Pittsburgh Medical Center); Artur Dubrawski (CMU)"
+  },
+  {
+    "r1": "Characterizing Covid waves via spatio-temporal decomposition",
+    "r2": "Kevin Quinn (Boston University); Evimaria Terzi (Boston University)*; Mark Crovella (Boston University)"
+  },
+  {
+    "r1": "Towards reliable detection of dielectric hotspots in thermal images of the underground distribution network",
+    "r2": "François Miralles (Hydro-Québec)*; Luc Cauchon (Hydro-Québec); Marc-Andre Magnan (Hydro-Québec); François Grégoire (Hydro-Québec); Mouhamadou Makhtar Dione (Hydro-Québec); Arnaud Zinflou (Hydro-Québec)"
+  },
+  {
+    "r1": "SoccerCPD: Formation and Role Change-Point Detection in Soccer Matches Using Spatiotemporal Tracking Data",
+    "r2": "Hyunsung Kim (Fitogether Inc.)*; Bit Kim (Fitogether Inc.); Dongwook Chung (Fitogether Inc.); Jinsung Yoon (Fitogether Inc.); Sang-Ki Ko (Kangwon National University)"
+  },
+  {
+    "r1": "Vexation-Aware Active Learning for On-Menu Restaurant Dish Availability",
+    "r2": "Jean-François Kagy (Google); Flip Korn (Google, USA)*; Afshin Rostamizadeh (Google Research); Chris Welty (Google)"
+  },
+  {
+    "r1": "A/B Testing Intuition Busters: Common Misunderstandings in Online Controlled Experiments",
+    "r2": "Ronny Kohavi (Kohavi)*; Alex Deng (Airbnb); Lukas Vermeer (Vista)"
+  },
+  {
+    "r1": "ADS PAPER SHOWCASE",
+    "r2": ""
+  },
+  {
+    "r1": "Thursday, August 18, 1:30 pM-3:30 PM, Room 1 (Multi-Modal and Multilingual knowledge & Data Mining) . Session Chairs: Amey Barapatre and Dawei Zhou",
+    "r2": ""
+  },
+  {
+    "r1": "The Good, the Bad, and the Outliers: A Testing Framework for Decision Optimization Model Learning",
+    "r2": "Orit Davidovich (IBM)*; Gheorghe-Teodor Bercea (IBM Research); Segev Wasserkrug (IBM Research)"
+  },
+  {
+    "r1": "Design Domain Specific Neural Network via Symbolic Testing",
+    "r2": "Hui Li (Ant Financial); Xing Fu (Ant Group)*; Ruofan Wu (Ant Group); Jinyu Xu (Ant group); Kai Xiao (Ant Group); Weiqiang Wang (Ant Group); SHUAI CHEN (Ant Financial); Leilei Shi (Ant Group); Tao Xiong (Ant Group); Yuan Qi (Ant Financial Services Group)"
+  },
+  {
+    "r1": "Seq2Event: Learning the Language of Soccer using Transformer-based Match Event Prediction",
+    "r2": "Ian Simpson (University of Southampton)*; Ryan J Beal (University of Southampton); Duncan Locke (Rugby Football Union); Timothy J Norman (University of Southampton)"
+  },
+  {
+    "r1": "A Fully Differentiable Set Autoencoder",
+    "r2": "Nikita Janakarajan (ETH Zürich)*; Jannis Born (IBM Research); Matteo Manica (IBM Research)"
+  },
+  {
+    "r1": "Temporal Multimodal Multivariate Learning",
+    "r2": "Hyoshin Park (North Carolina A&T State University)*; Justice Darko (North Carolina A&T State University); Niharika Deshpande (North Carolina A&T State University); Venktesh Pandey (North Carolina A&T State University); Hui Su (Jet Propulsion Laboratory); Masahiro Ono (JPL); Dedrick Barkley (North Carolina A&T State University); Larkin Folsom (North Carolina A&T State University); Derek Posselt (Jet Propulsion Laboratory); Steve Chien (Jet Propulsion Laboratory, California Institute of Technology)"
+  },
+  {
+    "r1": "Para-Pred: Addressing Heterogeneity for City-Wide Indoor Status Estimation in On-Demand Delivery",
+    "r2": "Wei Liu (Southeast University)*; Yi Ding (UNIVERSITY OF MINNESOTA); Shuai Wang (Southeast University); Yu Yang (Lehigh University); Desheng Zhang (Rutgers University)"
+  },
+  {
+    "r1": "Alexa Teacher Model: Pretraining and Distilling Multi-Billion-Parameter Encoders for Natural Language Understanding Systems",
+    "r2": "Jack FitzGerald (Amazon Alexa Artificial Intelligence)*; Shankar Ananthakrishnan (Amazon); Konstantine Arkoudas (Amazon); Davide Bernardi (Amazon); Abhishek Bhagia (Amazon); Claudio Delli Bovi (Amazon); Jin Cao (Amazon Inc); Rakesh Chada (Amazon); Amit Chauhan (Amazon); Luoxin Chen (Amazon); Anurag Dwarakanath (Amazon); Satyam Dwivedi (Amazon); Turan Gojayev (Amazon); Karthik Gopalakrishnan (Amazon Alexa AI); Thomas Gueudre (Amazon); Dilek Z Hakkani-Tur (Amazon Alexa AI); Wael Hamza (Amazon); Jonathan J Hüser (Amazon Alexa); Kevin Jose (Amazon); Haidar Khan (Amazon); Beiye Liu (Amazon); Jianhua Lu (Amazon Alexa AI); Alessandro Manzotti (Amazon); Pradeep Natarajan (Amazon.com Inc.); Karolina Owczarzak (Amazon); Gokmen Oz (Amazon); Enrico Palumbo (Amazon); Charith Peris (Amazon); Chandana Prakash (Amazon); Stephen Rawls (Amazon); Andy Rosenbaum (Amazon); Anjali Shenoy (Amazon); Saleh Soltan (Amazon); Mukund Sridhar (Amazon); Lizhen Tan (Amazon); Fabian Triefenbach (Amazon); Pan Wei (Amazon); Haiyang Yu (Amazon); Shuai Zheng (Amazon Web Services); Gokhan Tur ( Amazon Alexa AI); Prem Natarajan (Amazon.com Inc.)"
+  },
+  {
+    "r1": "TaxoTrans: Taxonomy-Guided Entity Translation",
+    "r2": "Zhuliu Li (LinkedIn)*; Yiming Wang (LinkedIn); Xiao Yan (LinkedIn); Weizhi Meng (LinkedIn); Yanen Li (LinkedIn); Jaewon Yang (LinkedIn)"
+  },
+  {
+    "r1": "Perioperative Predictions with Interpretable Latent Representation",
+    "r2": "Bing Xue (Washington University in St. Louis)*; York Jiao (Washington University in Saint Louis); Thomas Kannampallil (Washington University in St. Louis); Bradley A Fritz (Washington University in St. Louis); Christopher King (Washington University in St. Louis); Joanna Abraham (Washington University in St. Louis); Michael Avidan (Washington University in St. Louis); Chenyang Lu (Washington University in St. Louis)"
+  },
+  {
+    "r1": "Precise Mobility Intervention for Epidemic Control Using Unobservable Information via Deep Reinforcement Learning",
+    "r2": "Tao Feng (Tsinghua University)*; Tong Xia (University of Cambridge); Xiaochen Fan (Tsinghua University); Huandong Wang (Tsinghua University); Zefang Zong (Tsinghua University); Yong Li (Tsinghua University)"
+  },
+  {
+    "r1": "Thursday, August 18, 1:30 pM-3:30 PM, Room 2 (Recommendation & Contextualization) . Session Chairs: Charles Liu and Menglling Feng",
+    "r2": ""
+  },
+  {
+    "r1": "An Online Multi-task Learning Framework for Google Feed Ads Auction Models",
+    "r2": "Ning Ma (Google)*; Mustafa Ispir (Google); Yuan Li (Google); Yongpeng Yang (Google); Zhe Chen (Google); Derek Zhiyuan Cheng (Google); Lan Nie (Google); Kishor Barman (Google)"
+  },
+  {
+    "r1": "Surrogate for Long-Term User Experience in Recommender Systems",
+    "r2": "Yuyan Wang (Google Brain)*; Mohit Sharma (University of Minnesota); Sriraj Badam (Google); Can Xu (Google); Qian Sun (Google); Lee Richardson (Google); Lisa Chung (Google); Ed H. Chi (Google); Minmin Chen (Google)"
+  },
+  {
+    "r1": "Reinforcement Learning in the Wild: Scalable RL Dispatching Algorithm Deployed in Ridehailing Marketplace",
+    "r2": "Soheil Sadeghi Eshkevari (DiDi Labs)*; Xiaocheng Tang (DiDi AI Labs); Zhiwei Qin (DiDi AI Labs); Jinhan Mei (DiDi Global); Cheng Zhang (Didi Chuxing); Qianying Meng (DiDi Global); Jia Xu (DiDi Global)"
+  },
+  {
+    "r1": "Generalized Deep Mixed Models",
+    "r2": "Jun Shi (LinkedIn)*; Chengming Jiang (LinkedIn Corporation); Aman Gupta (LinkedIn); Mingzhou Zhou (LinkedIn Corporation); Yunbo Ouyang (LinkedIn Corporation); Charles Xiao (LinkedIn ); Qingquan Song (LinkedIn); Alice Wu (LinkedIn Corporation); Haichao Wei (LinkedIn Corporation); Huiji Gao (LinkedIn)"
+  },
+  {
+    "r1": "Automatically Discovering User Consumption Intents in Meituan",
+    "r2": "Yinfeng Li (Tsinghua University)*; Chen Gao (Tsinghua University); Xiaoyi Du (Meituan); HUAZHOU WEI (Meituan); Hengliang Luo (Meituan); Depeng Jin (Tsinghua University); Yong Li (Tsinghua University)"
+  },
+  {
+    "r1": "Automatic Generation of Product-Image Sequence in E-commerce",
+    "r2": "Xiaochuan Fan (JD.com)*; Chi Zhang (JD.com); Yong Yang (JD); Yue Shang (JD.com); xueying zhang (jd.com silicon valley research center); Zhen He (JD); Xiao Yun (JD.com); Bo Long (JD.com); Lingfei Wu (JD.COM Silicon Valley Research Center)"
+  },
+  {
+    "r1": "PinnerFormer: Sequence Modeling for User Representation at Pinterest",
+    "r2": "Nikil Pancha (Pinterest, Inc.)*; Andrew H Zhai (Pinterest, Inc.); Jure Leskovec (Stanford University); Charles Rosenberg (Pinterest)"
+  },
+  {
+    "r1": "ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest",
+    "r2": "Paul D Baltescu (Pinterest)*; Paul Baltescu (Pinterest); Haoyu Chen (Pinterest); Nikil Pancha (Pinterest, Inc.); Andrew H Zhai (Pinterest, Inc.); Jure Leskovec (Stanford University); Charles Rosenberg (Pinterest)"
+  },
+  {
+    "r1": "ASPIRE: Air Shipping Recommendation for E-commerce Products via Causal Inference Framework",
+    "r2": "Abhirup Mondal (Amazon)*; Anirban Majumder (Amazon); Vineet Chaoji (Amazon)"
+  },
+  {
+    "r1": "Recommendation in offline stores: A gamification approach for learning the spatiotemporal representation of indoor shopping",
+    "r2": "JongKyung Shin (Ulsan National Institute of Science and Technology); Changhun Lee (UNIST); Chiehyeon Lim (Ulsan National Institute of Science and Technology)*; Yunmo Shin (Retailtech co., Ltd.); Junseok Lim (Retailtech co., Ltd.)"
+  },
+  {
+    "r1": "ROI-Constrained Bidding via Curriculum-Guided Bayesian Reinforcement Learning",
+    "r2": "Haozhe Wang (ShanghaiTech University)*; Chao Du (Alibaba Group); Panyan Fang (Alibaba Group); Shuo Yuan (Alibaba Group); Xuming He (ShanghaiTech University); Liang Wang (Alibaba group); Bo Zheng (Alibaba Group)"
+  },
+  {
+    "r1": "NxtPost: User to Post Recommendations in Facebook Groups",
+    "r2": "Fedor Borisyuk (Facebook)*; Kaushik Rangadurai (Facebook); Yiqun Liu (Facebook); Siddarth Malreddy (Facebook); Xiaoyi Liu (Facebook)"
+  },
+  {
+    "r1": "Thursday, August 18, 1:30 pM-3:30 PM, Room 3 (Scalable, Distributed Systems & Trustable AI) . Session Chairs: Tianxiang Zhao and Dongkuan Xu",
+    "r2": ""
+  },
+  {
+    "r1": "Collborative Intelligence Orchestration: Inconsistency-Based Fusion of Semi-Supervised Learning and Active Learning",
+    "r2": "Jiannan Guo (Zhejiang University)*; Yangyang Kang (Alibaba Group); Yu Duan (Alibaba Group); Xiaozhong Liu (Indiana University Bloomington); Siliang Tang (Zhejiang University); Wenqiao Zhang (Zhejiang University); Kun Kuang (Zhejiang University); Changlong Sun (Alibaba Group); Fei Wu (Zhejiang University, China)"
+  },
+  {
+    "r1": "AutoShard: Automated Embedding Table Sharding for Recommender Systems",
+    "r2": "Daochen Zha (Rice University)*; Louis Feng (Meta); Bhargav Bhushanam (Facebook); Dhruv Choudhary (Facebook Inc.); Jade Nie (Meta); Yuandong Tian (Facebook); Jay Chae (Meta); Yinbin Ma (Meta Platforms, Inc.); Arun Kejariwal (Facebook Inc.); Xia Hu (Rice University)"
+  },
+  {
+    "r1": "Profiling Deep Learning Workloads at Scale using Amazon SageMaker",
+    "r2": "Nathalie Rauschmayr (Amazon)*; Sami Kama (Amazon); Muhyun Kim (AWS); Miyoung Choi (Amazon); Krishnaram Kenthapadi (Fiddler AI)"
+  },
+  {
+    "r1": "Fed-LTD: Towards Cross-Platform Ride Hailing via Federated Learning to Dispatch",
+    "r2": "Yansheng Wang (Beihang University); Yongxin Tong (Beihang University)*; Zimu Zhou (Singapore Management University); Ziyao Ren (Beihang University); Yi Xu (Beihang University); Guobin Wu (Didichuxing Inc.); Weifeng Lv (Beihang University)"
+  },
+  {
+    "r1": "Optimizing Long-Term Efficiency and Fairness in Ride-Hailing via Joint Order Dispatching and Driver Repositioning",
+    "r2": "Jiahui Sun (Shanghai Jiao Tong University); Haiming Jin (Shanghai Jiao Tong University)*; Zhaoxing Yang (Shanghai Jiao Tong University); Lu Su (Purdue University); Xinbing Wang (Shanghai Jiao Tong University)"
+  },
+  {
+    "r1": "A Meta Reinforcement Learning Approach for Predictive Autoscaling In the Cloud",
+    "r2": "Siqiao Xue (Ant Group)*; Chao Qu (Ant Financial Services Group); Xiaoming Shi (Ant Group); Cong Liao (Ant Group); Shiyi Zhu (Ant Group); Xiaoyu Tan (Ant Group); Lin-Tao Ma (Ant Group ); Shiyu Wang (antgroup); Shijun Wang (Ant Group); hu yun (ant group); Lei Lei (Ant Group); YangFei Zheng (antgroup); Jianguo Li (Ant Group); James Y Zhang (Ant Group)"
+  },
+  {
+    "r1": "Sparx: Distributed Outlier Detection at Scale",
+    "r2": "Sean Zhang (Carnegie Mellon University)*; Varun Ursekar (Carnegie Mellon University); Leman Akoglu (CMU)"
+  },
+  {
+    "r1": "Task-optimized User Clustering based on Mobile App Usage for Cold-start Recommendations",
+    "r2": "Bulou Liu (Tsinghua University)*; Bing Bai (Tencent); Weibang Xie (Tencent); Yiwen Guo (Independent Researcher); Hao Chen (UC Davis)"
+  },
+  {
+    "r1": "Real-Time Rideshare Driver Supply Values using Online Reinforcement Learning",
+    "r2": "Benjamin Han (Lyft)*; Hyungjun Lee (Snapchat); Sebastien Martin (Kellogg School of Management)"
+  },
+  {
+    "r1": "Amazon SageMaker Model Monitor: A System for Real-Time Insights into Deployed Machine Learning Models",
+    "r2": "David Nigenda (Amazon Web Services)*; Zohar Karnin (Amazon); Muhammad Bilal Zafar (Amazon Web Services); Raghu Ramesha (Amazon Web Services); Alan Tan (Amazon Web Services); Michele Donini (Amazon); Krishnaram Kenthapadi (Fiddler AI)"
+  },
+  {
+    "r1": "Interpretable Personalized Experimentation",
+    "r2": "Han Wu (Stanford University); Sarah Tan (Facebook)*; WEIWEI LI (Meta); Mia R Garrard (Facebook ); Adam Obeng (Meta); Drew Dimmery (Facebook); Shaun Singh (Facebook); Hanson Wang (Facebook); Daniel Jiang (Facebook); Eytan Bakshy (Meta)"
+  },
+  {
+    "r1": "CERAM: Coverage Expansion for Recommendations by Associating Discarded Models",
+    "r2": "Yoshiki Matsune (Ritsumeikan University)*; Kota Tsubouchi (Yahoo Japan Corporation); Nobuhiko Nishio (Ritsumeikan University)"
+  },
+  {
+    "r1": "Thursday, August 18, 1:30 pM-3:30 PM, Room 4 (Search & Information Retrieval) . Session Chairs: Jiyun Luo and Pan Du",
+    "r2": ""
+  },
+  {
+    "r1": "Learning Supplementary NLP features for CTR Prediction in Sponsored Search",
+    "r2": "Dong Wang (Microsoft)*; Shaoguang Yan (Microsoft); Yunqing Xia (Microsoft); Kave Salamatian (University of Savoie); Weiwei Deng (Microsoft); Qi Zhang (Microsoft )"
+  },
+  {
+    "r1": "Type Linking for Query Understanding and Semantic Search",
+    "r2": "Georgios Stoilos (Huawei Technologies UK)*; Nikos Papasarantopoulos (Huawei Technologies); Pavlos Vougiouklis (Huawei Technologies); Patrik Bansky (Huawei Technologies)"
+  },
+  {
+    "r1": "Amazon StyleSnap: A Visual Search System for Fashion and Home",
+    "r2": "Ming Du (Amazon)*; Arnau Ramisa (Amazon); Amit Kumar K C (Amazon); Sampath Chanda (Amazon); Mengjiao Wang (Amazon); Neelakandan Rajesh (Amazon); Shasha Li (Amazon); Yingchuan Hu (Amazon); Tao Zhou (Amazon Inc.); Nagashri Lakshminarayana (Amazon); Son Tran (Amazon A9); Douglas R Gray (Amazon)"
+  },
+  {
+    "r1": "Scale Calibration of Deep Ranking Models",
+    "r2": "Le Yan (Google)*; Zhen Qin (Google); Xuanhui Wang (Google); Michael Bendersky (Google); Marc Najork (Google)"
+  },
+  {
+    "r1": "Dynamic Graph Segmentation For Deep Graph Neural Networks",
+    "r2": "Johan Zhi Kang Kok (Grab)*; Suwei Yang (National University of Singapore); Suriya Venkatesan (Grab); Sienyi Tan (Grab); Feng Cheng (Grab); Bingsheng He (National University of Singapore)"
+  },
+  {
+    "r1": "CommerceMM: Large-Scale Commerce MultiModal Representation Learning with Omni Retrieval",
+    "r2": "Licheng Yu (Facebook)*; Jun Chen (Facebook); Animesh Sinha (Facebook AI); Mengjiao Wang (Facebook); Hugo Chen (Facebook); Tamara Berg (Facebook AI Research); Ning Zhang (Facebook)"
+  },
+  {
+    "r1": "Structure-Aware Multilingual Language Model: Leveraging Graph Structures for Search Relevance in E-commerce",
+    "r2": "Nurendra Choudhary (Virginia Tech)*; Nikhil Rao (Amazon); Karthik Subbian (Amazon); Chandan K Reddy (Virginia Tech)"
+  },
+  {
+    "r1": "Semantic Retrieval at Walmart",
+    "r2": "Alessandro Magnani ()*; Feng Liu (Walmart); Suthee chaidaroon (walmart); Praveen Reddy Suram (Walmart); Sachin Yadav (Walmart); Ajit Puthenputhussery (Walmart Global Tech); Tony Lee (Walmart); Sijie Chen (Walmart); Ciya Liao (Walmart Global Technology); Min Xie (Instacart); Anirudh Kashi (Usc)"
+  },
+  {
+    "r1": "Septor: Seismic Depth Estimation using Hierarchical Neural Network",
+    "r2": "Mohammad Ashraf Siddiquee (University of New Mexico)*; Vinicius Souza (Pontificia Universidade Catolica do Parana (PUCR)); Abdullah Mueen (University of New Mexico)"
+  },
+  {
+    "r1": "Learning Backward Compatible Embeddings",
+    "r2": "Weihua Hu (Stanford University)*; Rajas Bansal (Stanford University); Kaidi Cao (Stanford University); Nikhil Rao (Amazon); Karthik Subbian (Amazon); Jure Leskovec (Stanford University)"
+  },
+  {
+    "r1": "Adaptive Multi-view Rule Discovery for Weakly-Supervised Compatible Products Prediction",
+    "r2": "Rongzhi Zhang (Georgia Institution of Technology)*; Rebecca West (The Home Depot); Xiquan Cui (Homedepot); Chao Zhang (Georgia Institute of Technology)"
+  },
+  {
+    "r1": "All Other Accepted Papers",
+    "r2": ""
+  },
+  {
+    "r1": "Generative Adversarial Networks Enhanced Pre-training for Insufficient Electronic Health Records Modeling",
+    "r2": "Houxing Ren (Beihang University); Jingyuan Wang (Beihang University)*; Wayne Xin Zhao (Renmin University of China)"
+  },
+  {
+    "r1": "POLARIS: A Geographic Pre-trained Model and its Applications in Baidu Maps",
+    "r2": "Jizhou Huang (Baidu)*; Haifeng Wang (Baidu); Yibo Sun (Baidu); yunsheng shi (baidu); Zhengjie Huang (Baidu); An Zhuo (Baidu); Shikun Feng (Baidu)"
+  },
+  {
+    "r1": "G2NET: A General Geography-Aware Representation Network for Hotel Search Ranking",
+    "r2": "Jia Xu (Guangxi University)*; Fei Xiong (Alibaba Group); Zulong Chen (Alibaba); Mingyuan Tao (Alibaba Group); Liangyue Li (Alibaba Group); Quan Lu (Alibaba Group)"
+  },
+  {
+    "r1": "Service Time Prediction for Delivery Tasks via Spatial Meta-Learning",
+    "r2": "Sijie Ruan (Xidian University)*; Cheng Long (Nanyang Technological University); Zhipeng Ma (Southwest Jiaotong University); Jie Bao (JD Finance); Tianfu He (Harbin Institute of Technology); Ruiyuan Li (Chongqing University); Yiheng Chen (JD Logistics); Shengnan Wu (JD Logistics); Yu Zheng (JD)"
+  },
+  {
+    "r1": "Precision CityShield Against Hazardous Chemicals Threats via Location Mining and Self-supervised Learning",
+    "r2": "Jiahao Ji (Beihang University)*; Jingyuan Wang (Beihang University); Junjie Wu (Beihang University); Boyang Han (JD Intelligent Cities Research); Junbo Zhang (JD Intelligent Cities Research); Yu Zheng (JD)"
+  },
+  {
+    "r1": "DuIVA: An Intelligent Voice Assistant for Hands-free and Eyes-free Voice Interaction with Baidu Maps App",
+    "r2": "Jizhou Huang (Baidu)*; Haifeng Wang (Baidu); Shiqiang Ding (BAIDU); Shaolei Wang (Baidu)"
+  },
+  {
+    "r1": "Applying Deep Learning Based Probabilistic Forecasting to Food Preparation Time for On-Demand Delivery Service",
+    "r2": "Chengliang Gao (Meituan)*; Fan Zhang (Meituan); Yue Zhou (Meituan); Ronggen Feng (Meituan); Qiang Ru (Meituan); Kaigui Bian (Peking University); Renqing He (Meituan-Dianping Group); Zhizhao Sun (Meituan-Dianping Group)"
+  },
+  {
+    "r1": "RBG: Hierarchically Solving Large-Scale Routing Problems in Logistic Systems via Reinforcement Learning",
+    "r2": "Zefang Zong (Tsinghua University)*; Hansen Wang (Tsinghua University); wang jingwei (Tsinghua); Meng Zheng (Hitachi); Yong Li (Tsinghua University)"
+  },
+  {
+    "r1": "Felicitas: Federated Learning in Distributed Cross Device Collaborative Frameworks",
+    "r2": "QI ZHANG (USTC); tiancheng wu (huawei)*; Zhou Peichen (Huawei Technologies Co., Ltd.); shan zhou (Huawei Technologies Co. Ltd); xiulang jin (huawei); Yuan Yang (Huawei)"
+  },
+  {
+    "r1": "Multi-Task Fusion via Reinforcement Learning for Long-Term User Satisfaction in Recommender Systems",
+    "r2": "Qihua Zhang (Tencent); Junning Liu (Tencent Inc.); Yuzhuo Dai (Tencent); Kunlun Zheng (Tencent); Fan Huang (Tencent)*; Yifan Yuan (Tencent); Xianfeng Tan (Tencent); Yiyan Qi (Tencent)"
+  },
+  {
+    "r1": "Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition",
+    "r2": "Mingjie Li (Tsinghua University)*; Zeyan Li (Tsinghua University); Kanglin Yin (BizSeer); Xiaohui Nie (BizSeer); Wenchi Zhang (BizSeer); Kaixin Sui (Bizseer Technology); Dan Pei (Tsinghua University)"
+  },
+  {
+    "r1": "Three-Stage Root Cause Analysis for Logistics Time Efficiency via Explainable Machine Learning",
+    "r2": "Shiqi Hao (JD Logistics); Yang Liu (JD Logistics)*; Yu Wang (JD Logistics); Yuan Wang (JD Logistics); Wenming Zhe (JD Logistics)"
+  },
+  {
+    "r1": "CONFLUX: A Request-level Fusion Framework for Impression Allocation via Cascade Distillation",
+    "r2": "XiaoYu Wang (University of Science and Technology of China); bin tan (tencent); Guo Yonghui (tencent); Tao Yang (Tencent); Dongbo Huang (Tencent); Lan Xu (Tencent); Nikolaos Freris (University of Science and Technology of China); Hao Zhou (University of Science and Technology of China); Xiangyang Li (University of Science and Technology of China)*"
+  },
+  {
+    "r1": "Arbitrary Distribution Modeling with Censorship in Real-Time Bidding Advertising",
+    "r2": "Xu Li (FreeWheel)*; Michelle Zhang (Northwestern University)"
+  },
+  {
+    "r1": "Interpreting Trajectories from Multiple Views: A Hierarchical Self-Attention Network for Estimating the Time of Arrival",
+    "r2": "Zebin Chen (South China University of Technology); Xiaolin Xiao (South China University of Technology)*; Yuejiao Gong (South China University of Technology); Jun Fang (Didi Chuxing); Nan Ma (Didi Chuxing); Hua Chai (Didi Chuxing); Zhiguang Cao (Singapore Institute of Manufacturing Technology)"
+  },
+  {
+    "r1": "Retrieval-Based Gradient Boosting Decision Trees for Disease Risk Assessment",
+    "r2": "Handong Ma (Shanghai Jiaotong University); Jiahang Cao (Shanghai Jiao Tong University)*; Yuchen Fang (Shanghai Jiao Tong University); Weinan Zhang (Shanghai Jiao Tong University); Yong Yu (Shanghai Jiao Tong University); Wenbo Sheng (Shanghai Synyi Medical Technology Co. Ltd); Shaodian Zhang (Shanghai Synyi Medical Technology Co. Ltd)"
+  },
+  {
+    "r1": "EXTR: Click-Through Rate Prediction with Externalities in E-Commerce Sponsored Search",
+    "r2": "Chi Chen (Alibaba)*; Hui Chen (Tsinghua University); Kangzhi Zhao (Alibaba Group); Junsheng Zhou (Alibaba Group); Li He (Alibaba Group); Hongbo Deng (Alibaba Group); Jian Xu (Alibaba Group); Bo Zheng (Alibaba Group); Yong Zhang (\" Tsinghua University, China\"); Chunxiao Xing (Tsinghua University)"
+  },
+  {
+    "r1": "Lion: A GPU-Accelerated Online Serving System for Web-Scale Recommendation at Baidu",
+    "r2": "Hao Liu (HKUST)*; Qian Gao (Baidu, Inc); Xiaochao Liao (Baidu Inc.); Guangxing Chen (Baidu, Inc.); Hao Xiong (Baidu, Inc.); Silin Ren (Baidu Inc.); Guobao Yang (Baidu, Inc.); Zhiwei Zha (Baidu, Inc.)"
+  },
+  {
+    "r1": "EGM: Enhanced Graph-based Model for Large-scale Video Advertisement Search",
+    "r2": "Tan Yu (Baidu Research)*; Jie Liu (BaiDu); yi yang (Baidu); YI LI (Baidu); Hongliang Fei (Baidu Research); Ping Li (Baidu Research)"
+  },
+  {
+    "r1": "Mixture of Virtual-Kernel Experts for Multi-Objective User Profile Modeling",
+    "r2": "Zhenhui Xu (Tencent Inc.)*; Meng Zhao (Tencent Inc.); Liqun Liu (Tencent Inc.); Lei Xiao (Tencent); Xiaopeng Zhang (Tencent); Bifeng Zhang (Tencent Inc.)"
+  },
+  {
+    "r1": "A Stochastic Shortest Path Algorithm for Optimizing Spaced Repetition Scheduling",
+    "r2": "Junyao Ye (Harbin Institute of Technology, Shenzhen); Jingyong Su (Harbin Institute of Technology, Shenzhen)*; Yilong Cao (Maimemo, Inc.)"
+  },
+  {
+    "r1": "A Logic Aware Neural Generation Method for Explainable Data-to-text",
+    "r2": "Xiexiong Lin (ant-fintech)*; Huaisong Li (Ant Group); Tao Huang (Antgroup); Feng Wang (ant-fintech); Taifeng Wang (Ant Group); Tianyi Zhang (Alipay (Hangzhou) Information & Technology Co., Ltd); Fuzhen Zhuang (Institute of Artificial Intelligence, Beihang University); Linlin Chao (Ant Financial Services Group)"
+  },
+  {
+    "r1": "AutoFAS: Automatic Feature and Architecture Selection for Pre-Ranking System",
+    "r2": "Xiang Li (Meituan)*; Xiaojiang Zhou (Meituan); Yao Xiao (Meituan); Peihao Huang (Meituan); Dayao Chen (Meituan); Sheng Chen (Meituan); Yunsen Xian (Meituan)"
+  },
+  {
+    "r1": "Graph2Route: A Dynamic Spatial-Temporal Graph Neural Network for Pick-up and Delivery Route Prediction",
+    "r2": "Haomin Wen (Beijing Jiaotong University)*; Youfang Lin (Beijing Jiaotong University); Xiaowei Mao (Beijing Jiaotong University); Fan Wu (Cainiao Network); Yiji Zhao (Beijing JiaoTong University); Haochen Wang (BeijingJiaotong University); Jianbin Zheng (Cainiao Network); lixia wu (Cainiao Ltd. ); Haoyuan Hu (Cainiao Network); Huaiyu Wan (Beijing Jiaotong University)"
+  },
+  {
+    "r1": "Packet Representation Learning for Traffic Classification",
+    "r2": "Xuying Meng (Chinese Academy of Sciences)*; Yequan Wang (ICT, CAS); Runxin Ma (Chinese Academy of Sciences); Haitong Luo (Chinese Academy of Sciences); Xiang Li (Alibaba Group); Yujun Zhang (Chinese Academy of Sciences)"
+  },
+  {
+    "r1": "No One Left Behind: Inclusive Federated Learning over Heterogeneous Devices",
+    "r2": "Ruixuan Liu (Renmin University of China)*; Fangzhao Wu (MSRA); Chuhan Wu (Tsinghua University); Yanlin Wang (Microsoft Research Asia); Lingjuan Lyu (Sony AI); Hong Chen (\" Renmin University, China\"); Xing Xie (Microsoft Research Asia)"
+  },
+  {
+    "r1": "ReprBERT: Distilling BERT to an Efficient Representation-Based Relevance Model for E-Commerce",
+    "r2": "Shaowei Yao (Alibaba Group)*; Jiwei Tan (Alibaba Group); Xi Chen (Alibaba Group); Juhao Zhang (Alibaba); Xiaoyi Zeng (Alibaba Group); Keping Yang (Alibaba)"
+  },
+  {
+    "r1": "Self-Supervised Augmentation and Generation for Multi-lingual Text Advertisements at Bing",
+    "r2": "Xiaoyu Kou (Microsoft)*; Tianqi Zhao (Microsoft); Fan Zhang (Microsoft); Song Li (Microsoft); Qi Zhang (Microsoft)"
+  },
+  {
+    "r1": "Analyzing Online Transaction Networks with Network Motifs",
+    "r2": "Jiawei Jiang (Wuhan University)*; Yusong Hu (Tencent Inc.); Xiaosen Li (Tencent Inc.); Wen Ouyang (Tencent Inc.); Zhitao Wang ( Tencent Inc.); Fangcheng Fu (Peking University); Bin Cui (Peking University)"
+  },
+  {
+    "r1": "Combo-Fashion: Fashion Clothes Matching CTR Prediction with Item History",
+    "r2": "Chenxu Zhu (Shanghai Jiao Tong University)*; Peng Du (Alibaba); Weinan Zhang (Shanghai Jiao Tong University); Yong Yu (Shanghai Jiao Tong University); Yang Cao (Vision & Beauty Team, Alibaba Group)"
+  },
+  {
+    "r1": "User-tag Profile Modeling in Recommendation System via Contrast Weighted Tag Masking",
+    "r2": "Chenxu Zhu (Shanghai Jiao Tong University)*; Peng Du (Alibaba); Xianghui Zhu (SJTU); Weinan Zhang (Shanghai Jiao Tong University); Yong Yu (Shanghai Jiao Tong University); Yang Cao (Vision & Beauty Team, Alibaba Group)"
+  },
+  {
+    "r1": "EdgeWatch: Collaborative Investigation of Data Integrity at the Edge based on Blockchain",
+    "r2": "BO LI (Swinburne University of Technology)*; Qiang He (Swinburne University of Technology); Liang Yuan (Swinburne University of Technology); Feifei Chen (Deakin University); Lingjuan Lyu (Sony AI); Yun Yang (Swinburne University of Technology)"
+  },
+  {
+    "r1": "Unsupervised Learning Style Classification for Learning Path Generation in Online Education Platforms",
+    "r2": "Zhicheng He (Huawei Noah's Ark Lab)*; Wei Xia (Huawei Noah's Ark Lab); KAI DONG (huawei); Huifeng Guo (Huawei Noah's Ark Lab); Ruiming Tang (Huawei Noah's Ark Lab); dingyin xia (huawei); Rui Zhang (ruizhang.info)"
+  },
+  {
+    "r1": "COSSUM: Towards Conversation-Oriented StructuredSummarization for Automatic Medical Insurance Assessment",
+    "r2": "Sheng Xu (Peking University)*; Xiaojun Wan (Peking University); Sen Hu (Ant Group); Mengdi Zhou (Ant Group); Teng Xu (Ant Group); Hongbin Wang (Ant Group); Haitao Mi (Ant Group)"
+  },
+  {
+    "r1": "FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling",
+    "r2": "Chuhan Wu (Tsinghua University)*; Fangzhao Wu (MSRA); Tao Qi (Tsinghua University); Yongfeng Huang (Tsinghua University); Xing Xie (Microsoft Research Asia)"
+  },
+  {
+    "r1": "Training Large-Scale News Recommenders with Pretrained Language Models in the Loop",
+    "r2": "Shitao Xiao (BUPT)*; Zheng Liu (MSRA); Yingxia Shao (BUPT); Tao Di (microsoft); Fangzhao Wu (Microsoft Research Asia); Bhuvan Middha (Microsoft); Xing Xie (Microsoft Research Asia)"
+  },
+  {
+    "r1": "Graph Attention Multi-Layer Perceptron",
+    "r2": "Wentao Zhang (Peking University)*; Ziqi Yin (BeiJing Institute of Technology); Zeang Sheng (Peking University); Yang Li (Peking University); wen ouyang (tencent); Xiaosen Li (Tencent Inc.); Yangyu Tao (Tencent); Zhi Yang (Peking University); Bin Cui (Peking University)"
+  },
+  {
+    "r1": "Intelligent Request Strategy Design in Recommender System",
+    "r2": "Xufeng Qian (Alibaba Group)*; Yue Xu (Alibaba Group); Fuyu Lv (Alibaba Group); Shengyu Zhang (Zhejiang University); Ziwen Jiang (Alibaba); Qingwen Liu (Alibaba Group ); Xiaoyi Zeng (Alibaba Group); Tat-Seng Chua (National university of Singapore); Fei Wu (Zhejiang University, China)"
+  },
+  {
+    "r1": "Medical Symptom Detection in Intelligent Pre-Consultation using Bi-directional Hard-Negative Noise Contrastive Estimation",
+    "r2": "Shiwei Zhang (Tencent Jarvis Lab)*; JiChao Sun (Tencent Jarvis Lab); Yu Huang (Tencent Jarvis Lab); Xueqi Ding (Tencent); Yefeng Zheng (Tencent)"
+  },
+  {
+    "r1": "Contrastive Cross-domain Recommendation in Matching",
+    "r2": "Ruobing Xie (WeChat Search Application Department, Tencent)*; Qi Liu (Tencent); Liangdong Wang (WeChat, Tencent); Shukai Liu (Tencent); Bo Zhang (WeChat Search Application Department, Tencent); Leyu Lin (WeChat Search Application Department, Tencent)"
+  },
+  {
+    "r1": "Feature-aware Diversified Re-ranking with Disentangled Representations for Relevant Recommendation",
+    "r2": "Zihan Lin (Renmin University of China)*; Hui Wang (Renmin University of China); Jingshu Mao (Kuaishou Inc); Wayne Xin Zhao (Renmin University of China); Cheng Wang (Kuaishou Inc); Peng Jiang (Kuaishou Inc.); Ji-Rong Wen (Renmin University of China)"
+  },
+  {
+    "r1": "JiuZhang: A Chinese Pre-trained Language Model for Mathematical Problem Understanding",
+    "r2": "Wayne Xin Zhao (Renmin University of China); Kun Zhou (Renmin University of China)*; Zheng Gong (Renming University of China); Beichen Zhang (Renmin University of China); Yuanhang Zhou (Renmin University of China); Jing Sha (iFLYTEK Research); Zhigang Chen (iFLYTEK CO., LTD); Shijin WANG (State Key Laboratory of Cognitive Intelligence); Cong Liu (iFLYTEK Research); Ji-Rong Wen (Renmin University of China)"
+  },
+  {
+    "r1": "Regional-Local Adversarially Learned One-Class Classifier Anomalous Sound Detection in Global Long-Term Space",
+    "r2": "Yu Sha (Xidian University, Frankfurt Institute for Advanced Studies)*; Faber Johannes (Frankfurt Institute for Advanced Studies); Shuiping Gou (Xidian University); Bo Liu (Xidian University); Wei Li (Frankfurt Institute for Advanced Studies); Stefan Schramm (Frankfurt Institute for Advanced Studies); Horst Stoecker (Frankfurt Institute for Advanced Studies); Thomas Steckenreiter (SAMSON AG); Domagoj Vnucec (SAMSON AG); Nadine Wetzstein (SAMSON AG); Andreas Widl (SAMSON AG); Kai Zhou (Frankfurt Institute for Advanced Studies)"
+  },
+  {
+    "r1": "A Tuning-free Framework for Exploiting Pre-trained Language Models in Knowledge Grounded Dialogue Generation",
+    "r2": "Jifan Yu (Tsinghua University)*; Xiaohan Zhang (Tsinghua University); 逸凡 徐 (徐逸凡); Xuanyu Lei (Tsinghua University); Xinyu Guan (biendata); Jing Zhang (Renmin University of China); Lei Hou (Tsinghua University); Juanzi Li (Tsinghua University); Jie Tang (Tsinghua University)"
+  },
+  {
+    "r1": "Talent Demand-Supply Joint Prediction with Dynamic Heterogeneous Graph Enhanced Meta-Learning",
+    "r2": "Zhuoning Guo (Harbin Institute of Technology)*; Hao Liu (HKUST); Le Zhang (University of Science and Technology of China); Qi Zhang (University of Science and Technology of China); Hengshu Zhu (Baidu Talent Intelligence Center, Baidu Inc.); Hui Xiong (Hong Kong University of Science and Tech)"
+  },
+  {
+    "r1": "Few-shot Learning for Trajectory-based Mobile Game Cheating Detection",
+    "r2": "Yueyang Su (Institute of Computing Technology, Chinese Academ); Di Yao (Institute of Computing Technology, Chinese Academy of Sciences); Xiaokai Chu (Institute of Computing Technology, Chinese Academy of Sciences, University of Chinese Academy of Sciences); Wenbin Li (Institute of Computing Technology, Chinese Academy of Sciences); Jingping Bi (Institute of Computing Technology, Chinese Academy of Sciences)*; Shiwei Zhao (NetEase Fuxi AI Lab); Runze Wu (NetEase Fuxi AI Lab); Shize Zhang (NetEase Fuxi AI Lab); Jianrong Tao (Netease); Hao Deng (NetEase)"
+  },
+  {
+    "r1": "Device-Cloud Collaborative Recommendation via Meta Controller",
+    "r2": "Jiangchao Yao (Shanghai Jiao Tong University)*; Feng 8 Wang (Alibaba Group); XICHEN DING (Ant Group); SHAOHU CHEN (Ant Group); Bo Han (HKBU / RIKEN); Jingren Zhou (Alibaba Group); Hongxia Yang (Alibaba Group)"
+  },
+  {
+    "r1": "Learning to Discover Causes of Traffic Congestion with Limited Labeled Data",
+    "r2": "Mudan Wang (Tsinghua University); Huan Yan (Tsinghua University)*; Hongjie Sui (Tsinghua University); Fan Zuo (Alibaba Group); Yue Liu (Alibaba Group); Yong Li (Tsinghua University)"
+  },
+  {
+    "r1": "Spatio-Temporal Vehicle Trajectory Recovery on Road Network Based on Traffic Camera Video Data",
+    "r2": "Fudan Yu (Tsinghua University); Wenxuan Ao (Tsinghua University); Huan Yan (Tsinghua University)*; Guozhen Zhang (Tsinghua University); Wei Wu (SenseTime Group Limited); Yong Li (Tsinghua University)"
+  },
+  {
+    "r1": "Friend Recommendations with Self-Rescaling Graph Neural Networks",
+    "r2": "Xiran Song (Huazhong University of Science and Technology); Jianxun Lian (MSRA); Hong Huang (Huazhong University of Science and Technology)*; Mingqi Wu (Microsoft Gaming, Redmond); Hai Jin (Huazhong University of Science and Technology); Xing Xie (Microsoft Research Asia)"
+  },
+  {
+    "r1": "DDR: Dialogue based Doctor Recommendation for Online Medical Service",
+    "r2": "Zhi Zheng (University of Science and Technology of China)*; Zhaopeng Qiu (Tencent Medical AI Lab); Tong Xu (University of Science and Technology of China); Xian Wu (Tencent Medical AI Lab); Xiangyu Zhao (City University of Hong Kong); Enhong Chen (University of Science and Technology of China); Hui Xiong (Rutgers University)"
+  },
+  {
+    "r1": "A Framework for Multi-stage Bonus Allocation in meal delivery Platform",
+    "r2": "zhuolin wu (meituan)*; li wang (Huazhong University of Science and Technology); Fangsheng Huang (Meituan); Linjun Zhou (Meituan); Yu Song (Meituan); chengpeng ye (meituan); pengyu nie (meituan); Hao Ren (Meituan); Jinghua Hao (Meituan); Renqing He (Meituan-Dianping Group); Zhizhao Sun (Meituan-Dianping Group)"
+  },
+  {
+    "r1": "Adaptive Feature Selection in Deep Recommender Systems",
+    "r2": "Weilin LIN (City University of HongKong); Xiangyu Zhao (City University of Hong Kong)*; Yejing Wang (City University of Hongkong); Tong Xu (University of Science and Technology of China); Xian Wu (Tencent Medical AI Lab)"
+  },
+  {
+    "r1": "Uni-Retriever: Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search",
+    "r2": "Jianjin Zhang (Microsoft, Beijing)*; Zheng Liu (MSRA); Weihao Han (Microsoft); Shitao Xiao (BUPT); Ruicheng Zheng (Microsoft STCA); Yingxia Shao (BUPT); Hao Sun (Microsoft); hanqing zhu (Microsoft); Premkumar Srinivasan (Microsoft); Weiwei Deng (Microsoft); Qi Zhang (Microsoft ); Xing Xie (Microsoft Research Asia)"
+  },
+  {
+    "r1": "CausalInt: Causal Inspired Intervention for Multi-Domain Recommendation",
+    "r2": "Yichao Wang (Huawei Noah's Ark Lab)*; Huifeng Guo (Huawei Noah's Ark Lab); Bo Chen (Huawei Noah’s Ark Lab); Weiwen Liu (Huawei Noah's Ark Lab); Zhirong Liu (Huawei Noah's Ark Lab); Qi Zhang (Huawei Noah's Ark Lab); Zhicheng He (Huawei Noah's Ark Lab); Hongkun Zheng (Huawei Technologies Co Ltd); Weiwei Yao (Huawei); Muyu Zhang (Huawei); Zhenhua Dong (Huawei Noah's Ark Lab); Ruiming Tang (Huawei Noah's Ark Lab)"
+  }
+ ]
