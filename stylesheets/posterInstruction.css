@@ -17,7 +17,7 @@ h1{
 
 .instructionText{
     font-size: 20px;
-    color: rgb(86,86, 86);
+    color: black;
     margin-top: 3vw;
 }
 
@@ -58,7 +58,6 @@ hr{
 }
 
 .frequentQuestionAnswer{
-    font-weight: lighter;
     margin-top:5px;
     font-size: 20px;
 }
