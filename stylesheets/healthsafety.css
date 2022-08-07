@@ -9,6 +9,10 @@ div, header, footer, section, form, input, select{
 	font-family: 'Mukta', sans-serif;
 }
 
+p {
+    font-size: 17px;
+}
+
 .healthAndSafety{
     position: relative;
     padding-left: 7vw;
@@ -30,25 +34,12 @@ div, header, footer, section, form, input, select{
     text-align: left;
     margin-top: 4vw;
     margin-bottom: 10px;
-    font-size: 30px;
     color: rgba(86,86,86,1);
     border-bottom: 2px solid;
     border-color: rgba(86,86,86,0.6);
     border-radius: 1px;
 }
 
-.beWell{
-    color:#868686;
-}
-
-.protocals{
-    color:black;
-    font-size: 19px;
-}
-
-p, h4, h5{
-    display: inline;
-}
 
 .beforeTravel{
     display: block;
