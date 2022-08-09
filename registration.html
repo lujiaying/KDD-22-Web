@@ -25,6 +25,8 @@
   
   <body>
 
+    <section id="wrap">
+
       <nav id="commonNavBar">
       <!-- load by jquery-->
       </nav>
@@ -107,11 +109,8 @@
           <a href="https://web.cvent.com/event/638aa9c2-81ec-41ae-b646-8ea1a965f927/summary" target="_blank">Register Now</a>
         </section>
 
-        
-
-
       </section>
-
+    </section>
 
     <footer id="commonFooter">
     <!-- load by jquery-->
@@ -121,12 +120,19 @@
     <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="assets/js/footer.js"></script>
     <script>
-    $(function(){
-      $("#commonNavBar").load("navBar.html");
-      $("#commonFooter").load("footer.html");
-    });
-    </script>
+      $(function(){
+        $("#commonNavBar").load("navBar.html");
+        
+        $("#commonFooter").load("footer.html");
+
+
+        
+      });
+      </script>
+
+    
    
   </body>
 </html>
