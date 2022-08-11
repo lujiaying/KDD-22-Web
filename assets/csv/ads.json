@@ -65,7 +65,7 @@
  },
  {
    "r1": "An Online Multi-task Learning Framework for Google Feed Ads Auction Models",
-   "r2": "Ning Ma (Google)*; Mustafa Ispir (Google); Yuan Li (Google); Yongpeng Yang (Google); Zhe Chen (Google); Zhiyuan Cheng (Google); Lan Nie (Google); Kishor Barman (Google)"
+   "r2": "Ning Ma (Google)*; Mustafa Ispir (Google); Yuan Li (Google); Yongpeng Yang (Google); Zhe Chen (Google); Derek Zhiyuan Cheng (Google); Lan Nie (Google); Kishor Barman (Google)"
  },
  {
    "r1": "Deconfounding Duration Bias in Watch-time Prediction for Video Recommendation",
@@ -509,7 +509,7 @@
  },
  {
    "r1": "TaxoTrans: Taxonomy-Guided Entity Translation",
-   "r2": "Xiao Yan (LinkedIn); Jaewon Yang (LINKEDIN CORPORATION); Zhuliu Li (LinkedIn)*; Weizhi Meng (Linkedin); Yanen Li (LINKEDIN CORPORATION); Yiming Wang (Google)"
+   "r2": "Zhuliu Li (LinkedIn)*, Yiming Wang (LinkedIn), Xiao Yan (LinkedIn), Weizhi Meng (LinkedIn), Yanen Li (LinkedIn), Jaewon Yang (LinkedIn)"
  },
  {
    "r1": "Perioperative Predictions with Interpretable Latent Representation",
