@@ -273,7 +273,7 @@
  },
  {
    "r1": "On missing labels, long-tails and propensities in extreme multi-label classification",
-   "r2": "Erik Schultheis (Aalto University); Marek Wydmuch (Poznan University of Technology); Rohit Babbar (Aalto University); Krzysztof Dembczynski (Poznan University of Technology)*"
+   "r2": "Erik Schultheis (Aalto University); Marek Wydmuch (Poznan University of Technology); Rohit Babbar (Aalto University); Krzysztof Dembczynski (Yahoo Research)*"
  },
  {
    "r1": "HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering",
@@ -432,7 +432,7 @@
    "r2": "Ge Shi (UC Davis)*; Jason Smucny (University of California Davis ); Ian Davidson (UC Davis)"
  },
  {
-   "r1": "Modeling Individual Decision-Making Style in Chess",
+   "r1": "Learning Models of Individual Behavior in Chess",
    "r2": "Reid H McIlroy-Young (University of Toronto)*; Russell Wang (University of California, Berkeley); Siddhartha Sen (Microsoft Research); Jon Kleinberg (Cornell); Ashton Anderson (University of Toronto)"
  },
  {
@@ -808,7 +808,7 @@
    "r2": ""
  },
  {
-   "r1": "Thursday, August 18, 1:30 PM-3:30 PM, Room 206, (Mining, Inference, and Learning). Session Chair: Krzysztof Dembczynski (Poznan University of Technology)",
+   "r1": "Thursday, August 18, 1:30 PM-3:30 PM, Room 206, (Mining, Inference, and Learning). Session Chair: Krzysztof Dembczynski (Yahoo Research)",
    "r2": ""
  },
  {
@@ -888,11 +888,7 @@
    "r2": "Bo Hui (Auburn University)*; Wei-Shinn Ku (Auburn University)"
  },
  {
-   "r1": "Robust Tensor Graph Convolutional Networks via T-SVD based Graph Augmentation",
-   "r2": "Zhebin Wu (Sun Yat-Sen University)*; Lin Shu (Sun Yat-sen University); Ziyue Xu (Sun Yat-Sen University); Yaomin Chang (Sun Yat-sen  University); Chuan Chen (Sun Yat-sen University); Zibin Zheng (Sun Yat-sen University)"
- },
- {
-   "r1": "Thursday, August 18, 1:30 PM-3:30 PM, Room 209ABC, (User Modeling, Knowledge and Ontologies, Web and Commerce). Session Chair: Hongning Wang (University of Virginia)",
+   "r1": "Thursday, August 18, 1:30 PM-3:30 PM, Room 4, (User Modeling, Knowledge and Ontologies, Web and Commerce). Session Chair: Hongning Wang (University of Virginia)",
    "r2": ""
  },
  {
